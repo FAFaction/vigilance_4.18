@@ -1,0 +1,801 @@
+﻿Log file open, 07/30/20 16:01:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vigilance418
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1896742648) SRandInit(-1896742647).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.695964
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.07.30-10.01.51:058][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.30-10.01.51:058][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.30-10.01.52:000][  0]LogInit: Computer: ISHRAQ-PC
+[2020.07.30-10.01.52:000][  0]LogInit: User: farha
+[2020.07.30-10.01.52:000][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.07.30-10.01.52:000][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.30-10.01.52:014][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.07.30-10.01.52:014][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.30-10.01.52:014][  0]LogMemory: Process Physical Memory: 272.41 MB used, 272.41 MB peak
+[2020.07.30-10.01.52:014][  0]LogMemory: Process Virtual Memory: 269.14 MB used, 269.14 MB peak
+[2020.07.30-10.01.52:014][  0]LogMemory: Physical Memory: 3355.18 MB used,  621.84 MB free, 3977.01 MB total
+[2020.07.30-10.01.52:014][  0]LogMemory: Virtual Memory: 4759.68 MB used,  621.84 MB free, 134217728.00 MB total
+[2020.07.30-10.01.53:820][  0]LogInit: Using OS detected language (en-US).
+[2020.07.30-10.01.53:820][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.30-10.01.54:257][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.30-10.01.55:697][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.30-10.02.12:454][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.30-10.02.12:474][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.07.30-10.02.12:474][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.07.30-10.02.12:510][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.30-10.02.12:510][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.30-10.02.12:510][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.30-10.02.12:550][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.30-10.02.12:551][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.30-10.02.12:551][  0]LogWindows: EnumDisplayDevices:
+[2020.07.30-10.02.12:551][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.07.30-10.02.12:558][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.07.30-10.02.12:558][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.07.30-10.02.12:558][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.07.30-10.02.12:558][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.07.30-10.02.12:558][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.07.30-10.02.12:558][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.07.30-10.02.12:563][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.30-10.02.13:086][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.07.30-10.02.13:256][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GITHUB/vigilance_4.18/Vigilance418/Intermediate/Shaders/WorkingDirectory/9192/).
+[2020.07.30-10.02.13:256][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/7424FC30419C0FA522C227B5FBFA49BF/'.
+[2020.07.30-10.02.13:272][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.30-10.02.24:385][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.07.30-10.02.24:455][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.07.30-10.02.24:525][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.07.30-10.02.24:599][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.07.30-10.02.24:723][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.07.30-10.02.24:796][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.07.30-10.02.24:870][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.07.30-10.02.24:943][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.07.30-10.02.25:026][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.07.30-10.02.25:096][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.07.30-10.02.25:167][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.07.30-10.02.25:238][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.07.30-10.02.25:313][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.07.30-10.02.25:384][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.07.30-10.02.25:526][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.07.30-10.02.25:526][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.07.30-10.02.25:621][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.30-10.02.25:679][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.07.30-10.02.25:883][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.07.30-10.02.25:925][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.07.30-10.02.25:999][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.07.30-10.02.26:069][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.07.30-10.02.26:140][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.07.30-10.02.26:219][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.07.30-10.02.26:219][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.30-10.02.28:868][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.30-10.02.30:200][  0]LogDerivedDataCache: Loaded boot cache 1.31s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.07.30-10.02.30:201][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.07.30-10.02.30:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.30-10.02.30:201][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.30-10.02.30:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.30-10.02.30:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.30-10.02.30:426][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.30-10.02.30:515][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.30-10.02.30:666][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.07.30-10.02.30:757][  0]LogSlate: Using Freetype 2.6.0
+[2020.07.30-10.02.30:928][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.30-10.02.30:934][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.30-10.02.55:803][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.30-10.02.59:364][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.07.30-10.02.59:470][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.07.30-10.02.59:476][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.30-10.02.59:476][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.07.30-10.02.59:476][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.07.30-10.02.59:476][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.07.30-10.03.00:340][  0]LogNetVersion: Vigilance418 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 63410103)
+[2020.07.30-10.03.04:028][  0]LogAssetRegistry: FAssetRegistry took 0.0464 seconds to start up
+[2020.07.30-10.03.19:299][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.643597 seconds
+[2020.07.30-10.03.19:360][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.07.30-10.03.19:361][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2020.07.30-10.03.19:361][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.30-10.03.19:528][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.07.30-10.03.38:663][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.30-10.03.38:767][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.30-10.03.41:592][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.07.30-10.03.43:544][  0]SourceControl: Source control is disabled
+[2020.07.30-10.03.43:547][  0]SourceControl: Source control is disabled
+[2020.07.30-10.03.43:735][  0]SourceControl: Source control is disabled
+[2020.07.30-10.03.43:859][  0]SourceControl: Source control is disabled
+[2020.07.30-10.03.46:243][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.30-10.03.46:772][  0]LogOcInput: OculusInput pre-init called
+[2020.07.30-10.03.48:243][  0]LogEngine: Initializing Engine...
+[2020.07.30-10.03.48:340][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.30-10.03.50:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.07.30-10.03.50:289][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2020.07.30-10.04.03:240][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.30-10.04.07:673][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.04.08:687][  0]LogInit: FAudioDevice initialized.
+[2020.07.30-10.04.16:860][  0]LogDerivedDataCache: Saved boot cache 7.57s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.07.30-10.04.18:316][  0]LogInit: Texture streaming: Enabled
+[2020.07.30-10.04.26:744][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.30-10.04.53:364][  0]LogInit: Transaction tracking system initialized
+[2020.07.30-10.05.00:731][  0]BlueprintLog: New page: Editor Load
+[2020.07.30-10.05.11:147][  0]LocalizationService: Localization service is disabled
+[2020.07.30-10.05.21:847][  0]LogConsoleResponse: Display: 
+[2020.07.30-10.05.32:000][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.30-10.05.32:013][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.30-10.05.32:074][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.07.30-10.05.35:112][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' took 2.05s
+[2020.07.30-10.05.41:584][  0]SourceControl: Source control is disabled
+[2020.07.30-10.05.41:773][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.07.30-10.05.41:859][  0]LightingResults: New page: Lighting Build
+[2020.07.30-10.05.42:561][  0]MapCheck: New page: Map Check
+[2020.07.30-10.05.42:561][  0]LightingResults: New page: Lighting Build
+[2020.07.30-10.06.58:731][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.07.05:059][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.30-10.07.05:944][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.30-10.07.07:037][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,050.772ms to complete.
+[2020.07.30-10.07.07:038][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 85.324
+[2020.07.30-10.07.15:812][  0]LogCollectionManager: Loaded 0 collections in 0.040542 seconds
+[2020.07.30-10.07.16:301][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' took 0.01s
+[2020.07.30-10.07.16:301][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' took 0.01s
+[2020.07.30-10.07.16:301][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' took 0.00s
+[2020.07.30-10.07.16:301][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.07.30-10.07.16:335][  0]LogContentBrowser: Native class hierarchy populated in 0.0149 seconds. Added 2364 classes and 521 folders.
+[2020.07.30-10.07.16:785][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.30-10.07.19:519][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.30-10.07.19:880][  0]LogSlate: Took 0.081050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.30-10.07.20:113][  0]LogSlate: Took 0.017501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.30-10.07.21:325][  0]LogRenderer: Reallocating scene render targets to support 1016x656 Format 9 NumSamples 1 (Frame:1).
+[2020.07.30-10.07.28:340][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.07.30-10.07.28:340][  0]LogLoad: (Engine Initialization) Total time: 362.37 seconds
+[2020.07.30-10.07.28:340][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.30-10.07.28:399][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.07.30-10.07.29:251][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.07.30-10.07.32:122][  2]LogSlate: Took 0.025243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.07.30-10.07.33:100][  5]LogAssetRegistry: Asset discovery search completed in 269.0951 seconds
+[2020.07.30-10.07.33:143][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.07.30-10.07.33:144][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.029915 seconds (updated 0 objects)
+[2020.07.30-10.07.40:627][ 75]LogSlate: Took 0.126326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.30-10.07.41:774][ 77]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.07.52:397][ 42]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_CrouchedAim.ALS_CrouchedAim
+[2020.07.30-10.07.52:407][ 42]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_CrouchedAim.ALS_CrouchedAim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.07.52:581][ 42]LogSlate: Took 0.009195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.07.30-10.07.54:807][ 42]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.07.30-10.07.54:927][ 42]LogSlate: Took 0.015667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.30-10.07.56:234][ 42]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.30-10.07.57:548][ 42]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.30-10.08.03:757][ 42]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0059 seconds. Added 1 classes and 0 folders.
+[2020.07.30-10.08.04:129][ 42]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.30-10.08.11:554][221]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Jump_place_ALL.Jump_place_ALL
+[2020.07.30-10.08.11:554][221]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Jump_place_ALL.Jump_place_ALL) using current/default (AnimCompress_BitwiseCompressOnly_70) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.08.11:993][221]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/JumpStartForward.JumpStartForward
+[2020.07.30-10.08.11:993][221]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/JumpStartForward.JumpStartForward) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.08.12:111][221]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Curl.ALS_Curl
+[2020.07.30-10.08.12:111][221]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Curl.ALS_Curl) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.08.12:216][221]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Additive_LandCompression.ALS_N_Additive_LandCompression
+[2020.07.30-10.08.12:216][221]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Additive_LandCompression.ALS_N_Additive_LandCompression) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.08.12:989][231]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Flail.ALS_Flail
+[2020.07.30-10.08.12:990][231]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Flail.ALS_Flail) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.08.21:034][297]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Aim_Sweep_Crouched.ALS_Props_Pistol_1H_Aim_Sweep_Crouched
+[2020.07.30-10.08.21:034][297]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Aim_Sweep_Crouched.ALS_Props_Pistol_1H_Aim_Sweep_Crouched) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.08.21:326][297]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses.ALS_Props_Pistol_1H_Poses
+[2020.07.30-10.08.21:493][297]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses.ALS_Props_Pistol_1H_Poses) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.08.28:862][467]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves.ALS_Props_Pistol_1H_Poses_NoCurves
+[2020.07.30-10.08.28:862][467]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves.ALS_Props_Pistol_1H_Poses_NoCurves) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.09.10:142][587]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves.ALS_Props_Pistol_1H_Poses_NoCurves
+[2020.07.30-10.09.10:143][587]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ALS_Props_Pistol_1H_Poses_NoCurves) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.09.12:051][631]Cmd: TRANSACTION UNDO
+[2020.07.30-10.09.12:051][631]LogEditorTransaction: Undo Crop Animation Sequence
+[2020.07.30-10.09.12:829][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.30-10.09.27:449][326]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2020.07.30-10.09.27:514][326]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2020.07.30-10.09.28:257][326]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.30-10.09.33:056][438]LogSavePackage: Save=379.02ms
+[2020.07.30-10.09.33:056][438]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_Props_Pistol_1H_Poses_NoCurv6C2E7AE040799A501009CA99CE8E6CE4.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves1.uasset'
+[2020.07.30-10.09.33:189][438]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves1.uasset
+[2020.07.30-10.09.40:051][635]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves1.ALS_Props_Pistol_1H_Poses_NoCurves1
+[2020.07.30-10.09.40:051][635]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ALS_Props_Pistol_1H_Poses_NoCurves1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.09.52:880][  6]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves1.ALS_Props_Pistol_1H_Poses_NoCurves1
+[2020.07.30-10.09.52:880][  6]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.10.38:083][211]LogSavePackage: Save=184.85ms
+[2020.07.30-10.10.38:083][211]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_Props_Pistol_1H_Poses_NoCurv001BB9C14EF90484EE1811BBA6140533.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves1.uasset'
+[2020.07.30-10.10.38:087][211]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves1.uasset
+[2020.07.30-10.10.46:820][432]LogSavePackage: Save=1185.81ms
+[2020.07.30-10.10.46:822][432]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_Props_Pistol_1H_Poses_NoCurvD89F11DA4659600C115B68B4A0291169.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves.uasset'
+[2020.07.30-10.10.46:881][432]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_NoCurves.uasset
+[2020.07.30-10.10.55:575][369]LogSavePackage: Save=43.12ms
+[2020.07.30-10.10.55:575][369]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/PistolShootBDC9522B4838F164727262B069E26313.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/PistolShoot.uasset'
+[2020.07.30-10.10.55:578][369]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/PistolShoot.uasset
+[2020.07.30-10.11.26:797][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_2.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2020.07.30-10.11.27:047][859]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_2.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2020.07.30-10.11.38:375][859]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.30-10.11.39:644][860]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_Down.RM_Ledge_Lean_Down
+[2020.07.30-10.11.39:882][860]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_Down.RM_Ledge_Lean_Down) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.11.40:184][860]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_R.RM_Ledge_Lean_R
+[2020.07.30-10.11.40:185][860]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_R.RM_Ledge_Lean_R) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.11.40:308][860]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_L.RM_Ledge_Lean_L
+[2020.07.30-10.11.40:310][860]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_L.RM_Ledge_Lean_L) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.07.30-10.12.08:363][675]LogSavePackage: Save=18.54ms
+[2020.07.30-10.12.08:363][675]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/PistolShoot_Montage4AC2B3DE4D5A08277DD94B9F7D5E63F0.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/PistolShoot_Montage.uasset'
+[2020.07.30-10.12.08:370][675]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/PistolShoot_Montage.uasset
+[2020.07.30-10.12.26:883][138]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2020.07.30-10.12.26:884][138]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.31:900][138]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2020.07.30-10.12.40:723][138]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2020.07.30-10.12.42:111][138]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.42:333][138]LogSlate: Took 0.194291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.30-10.12.45:063][138]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.30-10.12.45:227][139]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.45:694][140]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.46:073][141]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.46:098][142]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.46:121][143]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:621][144]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:642][145]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:669][146]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:698][147]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:726][148]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:758][149]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:784][150]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:804][151]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:826][152]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.12.47:850][153]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0402
+[2020.07.30-10.13.13:494][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.07.30-10.13.17:085][ 70]LogSavePackage: Save=3240.58ms
+[2020.07.30-10.13.17:085][ 70]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBP37843C21463A376AEC000BB6F677F562.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.07.30-10.13.17:129][ 70]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.07.30-10.14.30:067][ 32]BlueprintLog: New page: Compile Player_AnimBP
+[2020.07.30-10.14.32:109][ 32]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.38:142][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.07.30-10.14.40:108][ 32]LogSavePackage: Save=1955.08ms
+[2020.07.30-10.14.40:108][ 32]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBPBB07EDD2400439DCDFFF22AEA4DF705F.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.07.30-10.14.40:115][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.07.30-10.14.40:319][ 32]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:355][ 33]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:370][ 34]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:387][ 35]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:407][ 36]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:426][ 37]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:445][ 38]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:462][ 39]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:479][ 40]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:498][ 41]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:517][ 42]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:534][ 43]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:552][ 44]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:569][ 45]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:586][ 46]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:603][ 47]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_13.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.14.40:799][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.07.30-10.14.42:717][ 57]LogSavePackage: Save=1913.07ms
+[2020.07.30-10.14.42:717][ 57]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBPB35474BA46D4B44CFDFA90BFD7962BA9.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.07.30-10.14.42:718][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.07.30-10.14.46:453][157]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.14.51:780][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.14.51:830][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.14.52:780][157]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:14:52 PM)
+[2020.07.30-10.14.52:957][157]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.14.53:304][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.347043s)
+[2020.07.30-10.14.53:305][157]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.14.53:465][157]LogPlayLevel: PIE: World Init took: (0.160899s)
+[2020.07.30-10.14.53:579][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.631181s)
+[2020.07.30-10.14.54:460][157]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.14.55:372][157]LogInit: FAudioDevice initialized.
+[2020.07.30-10.14.57:720][157]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.07.30-10.14.57:720][157]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.07.30-10.14.57:752][157]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2020.07.30-10.14.57:762][157]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.14.57:887][157]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.07.30-16.14.57
+[2020.07.30-10.14.58:307][157]LogWorld: Bringing up level for play took: 0.537727
+[2020.07.30-10.15.04:365][157]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2020.07.30-10.15.04:867][157]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 13.034
+[2020.07.30-10.15.05:152][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.15.08:662][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.15.09:183][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.15.13:542][393]LogSlate: Took 0.112531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.30-10.15.16:643][631]Cmd: t.MaxFPS 30
+[2020.07.30-10.15.17:899][631]t.MaxFPS = "30"
+[2020.07.30-10.15.23:249][684]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.15.23:279][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.15.23:279][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.15.23:280][684]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:15:23 PM)
+[2020.07.30-10.15.23:280][684]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.15.23:334][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054670s)
+[2020.07.30-10.15.23:335][684]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.15.23:336][684]LogPlayLevel: PIE: World Init took: (0.001830s)
+[2020.07.30-10.15.23:336][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056972s)
+[2020.07.30-10.15.23:381][684]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.15.23:388][684]LogInit: FAudioDevice initialized.
+[2020.07.30-10.15.23:480][684]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.15.23:488][684]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2020.07.30-16.15.23
+[2020.07.30-10.15.23:491][684]LogWorld: Bringing up level for play took: 0.010000
+[2020.07.30-10.15.23:493][684]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.34
+[2020.07.30-10.15.23:494][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.15.31:882][855]LogCharacter: Player_CharacterBP_74 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.07.30-10.16.03:527][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.16.03:573][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.16.09:002][884]LogSlate: Took 0.078583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.30-10.16.29:198][453]BlueprintLog: New page: Compile Player_AnimBP
+[2020.07.30-10.16.29:763][453]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05E3
+[2020.07.30-10.16.30:823][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.07.30-10.16.32:798][476]LogSavePackage: Save=1970.82ms
+[2020.07.30-10.16.32:798][476]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBPE2AF53D24A92B38B0C9569A3142A94C1.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.07.30-10.16.32:802][476]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.07.30-10.16.34:793][536]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.16.34:894][536]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.16.34:894][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.16.34:894][536]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:16:34 PM)
+[2020.07.30-10.16.34:895][536]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.16.34:979][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084138s)
+[2020.07.30-10.16.34:980][536]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.16.34:981][536]LogPlayLevel: PIE: World Init took: (0.001775s)
+[2020.07.30-10.16.34:981][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.086413s)
+[2020.07.30-10.16.35:042][536]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.16.35:071][536]LogInit: FAudioDevice initialized.
+[2020.07.30-10.16.35:109][536]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.16.35:122][536]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2020.07.30-16.16.35
+[2020.07.30-10.16.35:124][536]LogWorld: Bringing up level for play took: 0.013737
+[2020.07.30-10.16.35:127][536]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.705
+[2020.07.30-10.16.35:128][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.16.45:732][842]LogCharacter: Player_CharacterBP_74 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.07.30-10.16.53:196][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.16.53:271][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.17.04:254][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.07.30-10.17.06:245][376]LogSavePackage: Save=1983.97ms
+[2020.07.30-10.17.06:245][376]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBP4274E50F49769102746E7D960FD1F213.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.07.30-10.17.06:246][376]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.07.30-10.17.09:565][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.07.30-10.17.11:538][475]LogSavePackage: Save=1967.04ms
+[2020.07.30-10.17.11:538][475]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBPEBD5B2E24E19E5B936B1D495C56D8CA5.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.07.30-10.17.11:540][475]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.07.30-10.17.13:563][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_4.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2020.07.30-10.17.13:610][532]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.Actor_4.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2020.07.30-10.17.21:932][738]LogSavePackage: Save=130.74ms
+[2020.07.30-10.17.21:932][738]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Crouch_Turn90L_newF30A711945F430B0770E178E7E444DE7.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90L_new.uasset'
+[2020.07.30-10.17.21:956][738]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90L_new.uasset
+[2020.07.30-10.17.27:729][897]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.17.27:761][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.17.27:761][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.17.27:761][897]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:17:27 PM)
+[2020.07.30-10.17.27:761][897]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.17.27:805][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043401s)
+[2020.07.30-10.17.27:806][897]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.17.27:806][897]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2020.07.30-10.17.27:806][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045028s)
+[2020.07.30-10.17.27:863][897]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.17.27:880][897]LogInit: FAudioDevice initialized.
+[2020.07.30-10.17.27:914][897]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.17.27:924][897]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2020.07.30-16.17.27
+[2020.07.30-10.17.27:926][897]LogWorld: Bringing up level for play took: 0.011929
+[2020.07.30-10.17.27:929][897]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.097
+[2020.07.30-10.17.27:929][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.17.29:480][936]LogCharacter: Player_CharacterBP_74 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.07.30-10.17.42:414][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.17.42:490][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.18.46:450][ 63]BlueprintLog: New page: Compile Player_AnimBP
+[2020.07.30-10.18.47:898][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.07.30-10.18.49:893][ 75]LogSavePackage: Save=1976.85ms
+[2020.07.30-10.18.49:893][ 75]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBP8E8267024D680DE94870DFAD13E9E8F4.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.07.30-10.18.49:897][ 75]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.07.30-10.18.52:011][138]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.18.52:042][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.18.52:042][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.18.52:042][138]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:18:52 PM)
+[2020.07.30-10.18.52:042][138]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.18.52:091][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047959s)
+[2020.07.30-10.18.52:092][138]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.18.52:092][138]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2020.07.30-10.18.52:093][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050305s)
+[2020.07.30-10.18.52:145][138]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.18.52:154][138]LogInit: FAudioDevice initialized.
+[2020.07.30-10.18.52:190][138]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.18.52:198][138]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2020.07.30-16.18.52
+[2020.07.30-10.18.52:200][138]LogWorld: Bringing up level for play took: 0.009681
+[2020.07.30-10.18.52:203][138]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.37
+[2020.07.30-10.18.52:203][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.18.55:708][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.18.55:767][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.19.51:355][667]BlueprintLog: New page: Compile ScifiPistol_BP
+[2020.07.30-10.19.52:395][667]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.DESTROYED_ScifiPistol_BP_C_CHILDACTOR_70.SkeletalMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.30-10.19.52:397][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_ScifiPistol_BP_C_CHILDACTOR_4.SkeletalMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.30-10.19.52:400][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.DESTROYED_ScifiPistol_BP_C_CHILDACTOR_6.SkeletalMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.07.30-10.19.52:906][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GunBlueprint/ScifiPistol_BP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/GunBlueprint/ScifiPistol_BP.uasset" SILENT=true
+[2020.07.30-10.19.53:062][680]LogSavePackage: Save=141.15ms
+[2020.07.30-10.19.53:062][680]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ScifiPistol_BP211A07CA4AB5E90ED49C069F87A92B3F.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/GunBlueprint/ScifiPistol_BP.uasset'
+[2020.07.30-10.19.53:082][680]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/GunBlueprint/ScifiPistol_BP.uasset
+[2020.07.30-10.19.55:769][718]LogSavePackage: Save=911.62ms
+[2020.07.30-10.19.55:769][718]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ThirdPersonExampleMap8340E303470A2B016E56C191A9A9611A.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.07.30-10.19.55:806][718]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2020.07.30-10.19.56:395][731]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.19.56:457][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.19.56:457][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.19.56:458][731]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:19:56 PM)
+[2020.07.30-10.19.56:458][731]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.19.56:502][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043260s)
+[2020.07.30-10.19.56:503][731]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.19.56:504][731]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2020.07.30-10.19.56:504][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045689s)
+[2020.07.30-10.19.56:566][731]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.19.56:574][731]LogInit: FAudioDevice initialized.
+[2020.07.30-10.19.56:611][731]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.19.56:620][731]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2020.07.30-16.19.56
+[2020.07.30-10.19.56:623][731]LogWorld: Bringing up level for play took: 0.010750
+[2020.07.30-10.19.56:627][731]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.795
+[2020.07.30-10.19.56:627][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.20.24:656][480]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.30-10.20.24:656][480]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.30-10.20.25:165][496]LogCharacter: Player_CharacterBP_74 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.07.30-10.20.27:205][551]LogCharacter: Player_CharacterBP_74 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.07.30-10.20.34:694][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.20.34:785][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.20.45:548][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.Actor_5.DebugSkelMeshComponent_18) Already registered. Aborting.
+[2020.07.30-10.20.45:590][ 63]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.Actor_5.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2020.07.30-10.20.57:008][357]LogSavePackage: Save=14.12ms
+[2020.07.30-10.20.57:009][357]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Crouch_Turn90L_newAE63075E4345450AC0F3B8B633FB12EF.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90L_new.uasset'
+[2020.07.30-10.20.57:010][357]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90L_new.uasset
+[2020.07.30-10.21.04:498][571]LogSavePackage: Save=14.81ms
+[2020.07.30-10.21.04:498][571]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Crouch_Turn90L_newB9EEAD71410400E6A71BD78926C5306F.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90L_new.uasset'
+[2020.07.30-10.21.04:502][571]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90L_new.uasset
+[2020.07.30-10.21.22:160][ 60]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_24) Already registered. Aborting.
+[2020.07.30-10.21.22:203][ 60]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2020.07.30-10.21.24:590][103]LogSavePackage: Save=62.39ms
+[2020.07.30-10.21.24:591][103]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Crouch_Turn90R_new93D2665F45C8E1FA72CE02BEBD5E8EBD.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90R_new.uasset'
+[2020.07.30-10.21.24:612][103]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90R_new.uasset
+[2020.07.30-10.21.29:059][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.07.30-10.21.31:213][188]LogSavePackage: Save=2147.07ms
+[2020.07.30-10.21.31:213][188]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBP7BCF599C425938821E7BB08023A78E5F.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.07.30-10.21.31:217][188]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.07.30-10.21.31:312][188]LogSavePackage: Save=64.04ms
+[2020.07.30-10.21.31:312][188]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/UE4_Mannequin_Skeleton401C012E480FAF7FC69982AE0E4F27A2.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.07.30-10.21.31:316][188]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2020.07.30-10.21.36:565][346]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.21.36:597][346]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.21.36:597][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.21.36:597][346]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:21:36 PM)
+[2020.07.30-10.21.36:597][346]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.21.36:640][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042528s)
+[2020.07.30-10.21.36:642][346]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.21.36:642][346]LogPlayLevel: PIE: World Init took: (0.002030s)
+[2020.07.30-10.21.36:643][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045257s)
+[2020.07.30-10.21.36:691][346]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.21.36:699][346]LogInit: FAudioDevice initialized.
+[2020.07.30-10.21.36:737][346]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.21.36:747][346]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2020.07.30-16.21.36
+[2020.07.30-10.21.36:749][346]LogWorld: Bringing up level for play took: 0.011842
+[2020.07.30-10.21.36:752][346]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.92
+[2020.07.30-10.21.36:752][346]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.21.39:309][414]LogCharacter: Player_CharacterBP_74 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.07.30-10.21.45:572][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.21.45:685][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.21.48:574][652]LogSavePackage: Save=721.15ms
+[2020.07.30-10.21.48:574][652]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ThirdPersonExampleMap9B8A341E46B6080C08DF45ABAE8CA043.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.07.30-10.21.48:578][652]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2020.07.30-10.21.51:584][741]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.21.51:620][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.21.51:621][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.21.51:621][741]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:21:51 PM)
+[2020.07.30-10.21.51:621][741]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.21.51:657][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036258s)
+[2020.07.30-10.21.51:661][741]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.21.51:662][741]LogPlayLevel: PIE: World Init took: (0.003901s)
+[2020.07.30-10.21.51:663][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041484s)
+[2020.07.30-10.21.51:717][741]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.21.51:724][741]LogInit: FAudioDevice initialized.
+[2020.07.30-10.21.51:758][741]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.21.51:769][741]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2020.07.30-16.21.51
+[2020.07.30-10.21.51:771][741]LogWorld: Bringing up level for play took: 0.012253
+[2020.07.30-10.21.51:774][741]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.059
+[2020.07.30-10.21.51:774][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.21.57:233][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.21.57:313][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.22.20:948][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.07.30-10.22.22:932][601]LogSavePackage: Save=1976.61ms
+[2020.07.30-10.22.22:932][601]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBP8A6B579041629B63523EEF8877E3B814.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.07.30-10.22.22:936][601]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.07.30-10.22.26:690][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.Actor_7.DebugSkelMeshComponent_27) Already registered. Aborting.
+[2020.07.30-10.22.26:735][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.Actor_7.DebugSkelMeshComponent_27) - call TermArticulated first.
+[2020.07.30-10.22.35:590][937]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_8.DebugSkelMeshComponent_30) Already registered. Aborting.
+[2020.07.30-10.22.35:632][937]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.Actor_8.DebugSkelMeshComponent_30) - call TermArticulated first.
+[2020.07.30-10.22.46:471][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_9.DebugSkelMeshComponent_33) Already registered. Aborting.
+[2020.07.30-10.22.46:529][226]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.Actor_9.DebugSkelMeshComponent_33) - call TermArticulated first.
+[2020.07.30-10.22.50:793][323]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.22.50:824][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.22.50:824][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.22.50:825][323]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:22:50 PM)
+[2020.07.30-10.22.50:825][323]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.22.50:873][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047786s)
+[2020.07.30-10.22.50:875][323]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.22.50:875][323]LogPlayLevel: PIE: World Init took: (0.002333s)
+[2020.07.30-10.22.50:875][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050589s)
+[2020.07.30-10.22.50:944][323]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.22.50:952][323]LogInit: FAudioDevice initialized.
+[2020.07.30-10.22.50:987][323]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.22.50:998][323]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2020.07.30-16.22.50
+[2020.07.30-10.22.51:000][323]LogWorld: Bringing up level for play took: 0.012276
+[2020.07.30-10.22.51:002][323]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.171
+[2020.07.30-10.22.51:003][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.22.51:197][324]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057889 > MaxSimulationTimeStep (0.050) for 'Test_AI4', movement 'Walking'
+[2020.07.30-10.23.29:360][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.23.29:468][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.23.30:507][369]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.30-10.23.30:546][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.23.30:546][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.30-10.23.30:546][369]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 30, 2020, 10:23:30 PM)
+[2020.07.30-10.23.30:546][369]LogPlayLevel: Creating play world package: /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.30-10.23.30:587][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040853s)
+[2020.07.30-10.23.30:589][369]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.30-10.23.30:590][369]LogPlayLevel: PIE: World Init took: (0.002163s)
+[2020.07.30-10.23.30:590][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043530s)
+[2020.07.30-10.23.30:655][369]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.30-10.23.30:667][369]LogInit: FAudioDevice initialized.
+[2020.07.30-10.23.30:702][369]LogLoad: Game class is 'GameModeBase'
+[2020.07.30-10.23.30:712][369]LogWorld: Bringing World /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 30) at 2020.07.30-16.23.30
+[2020.07.30-10.23.30:714][369]LogWorld: Bringing up level for play took: 0.010987
+[2020.07.30-10.23.30:717][369]PIE: Play in editor start time for /Game/ThirdPerson/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.885
+[2020.07.30-10.23.30:717][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.23.36:527][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.23.36:621][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.30-10.23.42:934][683]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.30-10.23.43:096][683]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.30-10.23.44:860][684]Cmd: QUIT_EDITOR
+[2020.07.30-10.23.47:210][684]LogExit: Preparing to exit.
+[2020.07.30-10.24.15:207][684]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
