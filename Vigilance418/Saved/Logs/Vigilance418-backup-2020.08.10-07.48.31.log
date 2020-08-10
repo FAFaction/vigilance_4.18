@@ -1,0 +1,1388 @@
+﻿Log file open, 08/10/20 05:49:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vigilance418
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1362892806) SRandInit(-1362892806).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.499236
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/RootMotionExtractor/Binaries/Win64/UE4Editor-RootMotionExtractor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RootMotionExtractor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.08.09-23.49.41:253][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.09-23.49.41:253][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.09-23.49.41:589][  0]LogInit: Computer: ISHRAQ-PC
+[2020.08.09-23.49.41:589][  0]LogInit: User: farha
+[2020.08.09-23.49.41:589][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.09-23.49.41:589][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.09-23.49.41:616][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.08.09-23.49.41:616][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.09-23.49.41:616][  0]LogMemory: Process Physical Memory: 272.72 MB used, 272.72 MB peak
+[2020.08.09-23.49.41:616][  0]LogMemory: Process Virtual Memory: 264.16 MB used, 264.16 MB peak
+[2020.08.09-23.49.41:616][  0]LogMemory: Physical Memory: 3142.67 MB used,  834.34 MB free, 3977.01 MB total
+[2020.08.09-23.49.41:616][  0]LogMemory: Virtual Memory: 4754.74 MB used,  834.34 MB free, 134217728.00 MB total
+[2020.08.09-23.49.44:794][  0]LogInit: Using OS detected language (en-US).
+[2020.08.09-23.49.44:794][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.09-23.49.45:416][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.09-23.49.47:286][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.09-23.49.58:959][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.09-23.49.59:011][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.08.09-23.49.59:011][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.09-23.49.59:047][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.09-23.49.59:047][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.09-23.49.59:047][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.09-23.49.59:077][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.09-23.49.59:078][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.09-23.49.59:078][  0]LogWindows: EnumDisplayDevices:
+[2020.08.09-23.49.59:079][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.08.09-23.49.59:085][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.08.09-23.49.59:086][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.09-23.49.59:086][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.08.09-23.49.59:086][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.09-23.49.59:086][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.09-23.49.59:086][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.08.09-23.49.59:111][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.09-23.49.59:634][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.08.09-23.49.59:818][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../GITHUB/vigilance_4.18/Vigilance418/Intermediate/Shaders/WorkingDirectory/788/).
+[2020.08.09-23.49.59:818][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/66544F9F488F725CF51A058847F50840/'.
+[2020.08.09-23.49.59:840][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.09-23.50.11:500][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.08.09-23.50.11:579][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.08.09-23.50.11:658][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.08.09-23.50.11:747][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.08.09-23.50.11:874][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.08.09-23.50.11:954][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.08.09-23.50.12:056][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.08.09-23.50.12:148][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.08.09-23.50.12:241][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.08.09-23.50.12:322][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.08.09-23.50.12:407][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.08.09-23.50.12:490][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.08.09-23.50.12:572][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.08.09-23.50.12:652][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.08.09-23.50.12:827][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.08.09-23.50.12:827][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.08.09-23.50.12:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.08.09-23.50.13:025][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.08.09-23.50.13:393][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.08.09-23.50.13:460][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.08.09-23.50.13:564][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.08.09-23.50.13:640][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.08.09-23.50.13:721][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.08.09-23.50.13:806][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.08.09-23.50.13:827][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.09-23.50.16:717][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.09-23.50.24:545][  0]LogDerivedDataCache: Loaded boot cache 7.78s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.09-23.50.24:547][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.08.09-23.50.24:547][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.09-23.50.24:547][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.09-23.50.24:547][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.09-23.50.24:547][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.09-23.50.24:792][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.09-23.50.24:859][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.09-23.50.25:011][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.08.09-23.50.25:101][  0]LogSlate: Using Freetype 2.6.0
+[2020.08.09-23.50.25:233][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.09-23.50.25:244][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.09-23.50.45:364][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.09-23.50.49:253][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.08.09-23.50.49:631][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.08.09-23.50.49:801][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.09-23.50.49:801][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.08.09-23.50.49:801][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.08.09-23.50.49:801][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.08.09-23.50.54:923][  0]LogNetVersion: Vigilance418 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 63410103)
+[2020.08.09-23.50.58:580][  0]LogAssetRegistry: FAssetRegistry took 0.0475 seconds to start up
+[2020.08.09-23.51.15:096][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.152194 seconds
+[2020.08.09-23.51.15:148][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.08.09-23.51.15:153][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2020.08.09-23.51.15:153][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.09-23.51.15:378][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.08.09-23.51.38:917][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.09-23.51.38:992][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.09-23.51.42:270][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.08.09-23.51.44:039][  0]SourceControl: Source control is disabled
+[2020.08.09-23.51.44:041][  0]SourceControl: Source control is disabled
+[2020.08.09-23.51.44:211][  0]SourceControl: Source control is disabled
+[2020.08.09-23.51.44:315][  0]SourceControl: Source control is disabled
+[2020.08.09-23.51.49:424][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.09-23.51.49:934][  0]LogOcInput: OculusInput pre-init called
+[2020.08.09-23.51.54:267][  0]LogEngine: Initializing Engine...
+[2020.08.09-23.51.54:500][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.09-23.52.01:629][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.08.09-23.52.01:630][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.08.09-23.52.03:305][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.09-23.52.04:079][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-23.52.04:167][  0]LogInit: FAudioDevice initialized.
+[2020.08.09-23.52.10:267][  0]LogDerivedDataCache: Saved boot cache 6.01s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.09-23.52.10:633][  0]LogInit: Texture streaming: Enabled
+[2020.08.09-23.52.11:966][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.09-23.52.17:484][  0]LogInit: Transaction tracking system initialized
+[2020.08.09-23.52.21:335][  0]BlueprintLog: New page: Editor Load
+[2020.08.09-23.52.29:707][  0]LocalizationService: Localization service is disabled
+[2020.08.09-23.52.39:946][  0]LogConsoleResponse: Display: 
+[2020.08.09-23.52.48:266][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.09-23.52.48:270][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.09-23.52.48:324][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.08.09-23.52.57:348][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' took 6.53s
+[2020.08.09-23.52.59:108][  0]SourceControl: Source control is disabled
+[2020.08.09-23.52.59:204][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.08.09-23.52.59:301][  0]LightingResults: New page: Lighting Build
+[2020.08.09-23.52.59:953][  0]MapCheck: New page: Map Check
+[2020.08.09-23.52.59:954][  0]LightingResults: New page: Lighting Build
+[2020.08.09-23.54.27:727][  0]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-23.54.31:748][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.09-23.54.33:031][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.09-23.54.33:993][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 953.162ms to complete.
+[2020.08.09-23.54.34:009][  0]LogFileHelpers: Loading map 'DemoTestMap' took 94.829
+[2020.08.09-23.54.37:800][  0]LogCollectionManager: Loaded 0 collections in 0.001644 seconds
+[2020.08.09-23.54.41:750][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' took 0.01s
+[2020.08.09-23.54.41:750][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' took 0.01s
+[2020.08.09-23.54.41:750][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' took 0.01s
+[2020.08.09-23.54.41:750][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.08.09-23.54.41:835][  0]LogContentBrowser: Native class hierarchy populated in 0.0314 seconds. Added 2363 classes and 519 folders.
+[2020.08.09-23.54.42:225][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.08.09-23.54.44:668][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.09-23.54.46:536][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.09-23.54.49:914][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.09-23.54.49:914][  0]LogLoad: (Engine Initialization) Total time: 332.01 seconds
+[2020.08.09-23.54.49:914][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.09-23.54.49:939][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.08.09-23.54.51:189][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.08.09-23.54.51:562][  0]LogSlate: Took 0.080874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.09-23.54.51:657][  0]LogSlate: Took 0.023187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.09-23.54.54:508][  0]LogRenderer: Reallocating scene render targets to support 752x628 Format 9 NumSamples 1 (Frame:1).
+[2020.08.09-23.55.01:388][  8]LogAssetRegistry: Asset discovery search completed in 242.8322 seconds
+[2020.08.09-23.55.01:464][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.08.09-23.55.01:465][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.039050 seconds (updated 0 objects)
+[2020.08.09-23.57.52:362][634]LogRenderer: Reallocating scene render targets to support 1012x656 Format 9 NumSamples 1 (Frame:3).
+[2020.08.09-23.57.56:531][840]LogSlate: Took 0.138507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.09-23.58.03:138][945]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.58.04:835][  9]LogSlate: Took 0.015529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.09-23.58.05:411][  9]LogSlate: Took 0.016333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.09-23.58.08:546][  9]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0069 seconds. Added 116 classes and 0 folders.
+[2020.08.09-23.58.13:359][  9]LogSlate: Took 0.034368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.09-23.58.16:900][ 10]LogSlate: Took 0.018862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.09-23.59.02:428][339]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.08.09-23.59.04:786][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.09-23.59.04:824][339]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.07:423][339]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.09-23.59.10:937][339]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.16:171][340]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.16:678][340]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.09-23.59.16:995][341]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.17:799][342]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.17:821][343]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.18:153][344]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.18:486][345]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.18:819][346]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.19:152][347]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.19:486][348]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.19:819][349]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.20:152][350]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.20:485][351]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.20:819][352]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.21:152][353]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-23.59.21:744][354]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.02.02:695][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2020.08.10-00.02.03:185][773]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2020.08.10-00.02.04:260][773]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.10-00.04.04:243][770]LogBlueprint: Warning: [PlayerClimbing_AnimBP] 'Is Aiming' variable not found. Base class was probably changed. /Game/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.PlayerClimbing_AnimBP
+[2020.08.10-00.04.04:261][770]LogBlueprint: Warning: [PlayerClimbing_AnimBP] 'Movement State' variable not found. Base class was probably changed. /Game/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.PlayerClimbing_AnimBP
+[2020.08.10-00.04.04:261][770]LogBlueprint: Warning: [PlayerClimbing_AnimBP] 'ClimbLookingRot' variable not found. Base class was probably changed. /Game/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.PlayerClimbing_AnimBP
+[2020.08.10-00.04.04:261][770]LogBlueprint: Warning: [PlayerClimbing_AnimBP] 'ClimbLookingRot' variable not found. Base class was probably changed. /Game/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.PlayerClimbing_AnimBP
+[2020.08.10-00.04.04:261][770]LogBlueprint: Warning: [PlayerClimbing_AnimBP] 'ClimbLookingRot' variable not found. Base class was probably changed. /Game/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.PlayerClimbing_AnimBP
+[2020.08.10-00.04.04:262][770]LogBlueprint: Warning: [PlayerClimbing_AnimBP] 'ClimbLookingRot' variable not found. Base class was probably changed. /Game/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.PlayerClimbing_AnimBP
+[2020.08.10-00.05.37:250][717]BlueprintLog: New page: Compile PlayerClimbing_AnimBP
+[2020.08.10-00.07.12:268][661]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.08.10-00.07.12:783][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.10-00.07.12:842][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2020.08.10-00.07.12:891][661]LogSlate: Took 0.016083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.10-00.08.24:105][544]BlueprintLog: New page: Compile PlayerClimbing_AnimBP
+[2020.08.10-00.08.27:610][604]LogSavePackage: Save=506.01ms
+[2020.08.10-00.08.27:610][604]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/PlayerClimbing_AnimBP5D79F0B6479A692BEBEFC0ACC803AC3D.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.uasset'
+[2020.08.10-00.08.27:841][604]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.uasset
+[2020.08.10-00.08.31:081][738]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.08.33:663][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.08.34:119][738]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:08:33 PM)
+[2020.08.10-00.08.34:157][738]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.08.35:218][738]LogPlayLevel: PIE: StaticDuplicateObject took: (1.061064s)
+[2020.08.10-00.08.35:269][738]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.08.35:341][738]LogPlayLevel: PIE: World Init took: (0.123058s)
+[2020.08.10-00.08.35:358][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (1.210900s)
+[2020.08.10-00.08.35:695][738]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.08.35:794][738]LogInit: FAudioDevice initialized.
+[2020.08.10-00.08.36:171][738]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.08.10-00.08.36:172][738]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.08.10-00.08.36:187][738]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2020.08.10-00.08.36:197][738]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.08.36:798][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.08.36
+[2020.08.10-00.08.39:150][738]LogWorld: Bringing up level for play took: 2.926609
+[2020.08.10-00.09.38:130][738]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2020.08.10-00.09.47:788][738]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 73.65
+[2020.08.10-00.10.44:310][157]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.10.44:357][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.10.44:357][157]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:10:44 PM)
+[2020.08.10-00.10.44:357][157]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.10.44:408][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050160s)
+[2020.08.10-00.10.44:409][157]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.10.44:409][157]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2020.08.10-00.10.44:410][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.052065s)
+[2020.08.10-00.10.44:451][157]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.10.44:459][157]LogInit: FAudioDevice initialized.
+[2020.08.10-00.10.44:514][157]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.10.44:548][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.10.44
+[2020.08.10-00.10.44:553][157]LogWorld: Bringing up level for play took: 0.038298
+[2020.08.10-00.10.44:562][157]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.432
+[2020.08.10-00.13.03:234][607]LogSavePackage: Save=2922.78ms
+[2020.08.10-00.13.03:234][607]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP8485A6D7433C7D4C900A1790ECF0738D.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.10-00.13.03:255][607]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.10-00.13.05:888][761]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.13.05:934][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.13.05:934][761]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:13:05 PM)
+[2020.08.10-00.13.05:934][761]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.13.05:984][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050314s)
+[2020.08.10-00.13.05:985][761]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.13.05:986][761]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2020.08.10-00.13.05:986][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.051996s)
+[2020.08.10-00.13.06:029][761]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.13.06:037][761]LogInit: FAudioDevice initialized.
+[2020.08.10-00.13.06:077][761]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.13.06:096][761]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.13.06
+[2020.08.10-00.13.06:102][761]LogWorld: Bringing up level for play took: 0.024092
+[2020.08.10-00.13.06:112][761]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.018
+[2020.08.10-00.19.43:259][930]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.19.43:311][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.19.43:311][930]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:19:43 PM)
+[2020.08.10-00.19.43:311][930]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.19.43:366][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054822s)
+[2020.08.10-00.19.43:367][930]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.19.43:367][930]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2020.08.10-00.19.43:368][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.056526s)
+[2020.08.10-00.19.43:465][930]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.19.43:474][930]LogInit: FAudioDevice initialized.
+[2020.08.10-00.19.43:514][930]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.19.43:549][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.19.43
+[2020.08.10-00.19.43:556][930]LogWorld: Bringing up level for play took: 0.040687
+[2020.08.10-00.19.43:565][930]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.565
+[2020.08.10-00.20.02:901][488]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2020.08.10-00.20.03:398][488]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2020.08.10-00.20.03:990][488]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.10-00.20.54:449][983]BlueprintLog: New page: Compile PlayerClimbing_AnimBP
+[2020.08.10-00.20.56:216][ 33]LogSavePackage: Save=220.86ms
+[2020.08.10-00.20.56:216][ 33]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/PlayerClimbing_AnimBPDBD77E404A1843BD950F85828C92B951.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.uasset'
+[2020.08.10-00.20.56:219][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.uasset
+[2020.08.10-00.20.57:676][117]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.20.57:725][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.20.57:725][117]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:20:57 PM)
+[2020.08.10-00.20.57:725][117]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.20.57:782][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057082s)
+[2020.08.10-00.20.57:784][117]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.20.57:784][117]LogPlayLevel: PIE: World Init took: (0.001606s)
+[2020.08.10-00.20.57:784][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.059142s)
+[2020.08.10-00.20.57:828][117]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.20.57:837][117]LogInit: FAudioDevice initialized.
+[2020.08.10-00.20.57:876][117]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.20.57:900][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.20.57
+[2020.08.10-00.20.57:905][117]LogWorld: Bringing up level for play took: 0.028265
+[2020.08.10-00.20.57:914][117]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.215
+[2020.08.10-00.21.31:735][411]BlueprintLog: New page: Compile PlayerClimbing_AnimBP
+[2020.08.10-00.21.32:838][434]LogSavePackage: Save=162.99ms
+[2020.08.10-00.21.32:838][434]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/PlayerClimbing_AnimBPBB47A15C465B25DB2BE32797DFB5765A.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.uasset'
+[2020.08.10-00.21.32:844][434]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.uasset
+[2020.08.10-00.21.34:870][543]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.21.34:920][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.21.34:920][543]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:21:34 PM)
+[2020.08.10-00.21.34:920][543]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.21.34:976][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055793s)
+[2020.08.10-00.21.34:977][543]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.21.34:977][543]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2020.08.10-00.21.34:978][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.057742s)
+[2020.08.10-00.21.35:022][543]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.21.35:030][543]LogInit: FAudioDevice initialized.
+[2020.08.10-00.21.35:063][543]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.21.35:084][543]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.21.35
+[2020.08.10-00.21.35:092][543]LogWorld: Bringing up level for play took: 0.028078
+[2020.08.10-00.21.35:102][543]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.972
+[2020.08.10-00.21.59:943][503]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.21.59:998][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.21.59:998][503]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:21:59 PM)
+[2020.08.10-00.21.59:998][503]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.22.00:073][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075764s)
+[2020.08.10-00.22.00:074][503]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.22.00:074][503]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2020.08.10-00.22.00:075][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.077235s)
+[2020.08.10-00.22.00:125][503]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.22.00:133][503]LogInit: FAudioDevice initialized.
+[2020.08.10-00.22.00:452][503]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.22.00:474][503]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.22.00
+[2020.08.10-00.22.00:479][503]LogWorld: Bringing up level for play took: 0.027206
+[2020.08.10-00.22.00:497][503]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.367
+[2020.08.10-00.22.37:128][300]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2020.08.10-00.22.37:129][300]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.37:610][300]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2020.08.10-00.22.37:974][300]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:170][301]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:221][301]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.10-00.22.38:254][302]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:275][303]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:299][304]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:320][305]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:343][306]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:367][307]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:389][308]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:406][309]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:430][310]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:450][311]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:472][312]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:500][313]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:521][314]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.22.38:545][315]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_4
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.23.23:418][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/Player_AnimBP" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset" SILENT=true
+[2020.08.10-00.23.25:937][108]LogSavePackage: Save=2332.92ms
+[2020.08.10-00.23.25:937][108]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_AnimBPF8F827F1497AC5475A202E98302BF90E.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset'
+[2020.08.10-00.23.26:021][108]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_AnimBP.uasset
+[2020.08.10-00.25.44:888][ 58]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.25.53:263][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.10-00.25.53:263][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.10-00.25.53:263][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.10-00.25.53:263][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.10-00.25.53:263][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.10-00.25.53:263][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.10-00.25.53:263][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.10-00.25.53:263][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.25.53:388][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.25.53:457][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.25.58:314][ 58]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.25.58:548][ 58]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_4:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.26.00:410][ 58]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:326][ 59]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:408][ 60]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:423][ 61]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:479][ 62]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:495][ 63]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:511][ 64]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:530][ 65]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:548][ 66]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:567][ 67]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:585][ 68]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:604][ 69]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:629][ 70]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:645][ 71]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:666][ 72]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.01:685][ 73]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_5
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.26.22:393][ 19]LogSavePackage: Save=2644.39ms
+[2020.08.10-00.26.22:401][ 19]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBPD560FE124A544574056EE7829C4C7F6F.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.10-00.26.22:406][ 19]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.10-00.26.23:777][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.26.24:086][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.26.24:086][ 96]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:26:24 PM)
+[2020.08.10-00.26.24:086][ 96]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.26.24:134][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047797s)
+[2020.08.10-00.26.24:135][ 96]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.26.24:135][ 96]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2020.08.10-00.26.24:136][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049384s)
+[2020.08.10-00.26.24:180][ 96]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.26.24:188][ 96]LogInit: FAudioDevice initialized.
+[2020.08.10-00.26.24:228][ 96]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.26.24:245][ 96]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.26.24
+[2020.08.10-00.26.24:250][ 96]LogWorld: Bringing up level for play took: 0.021666
+[2020.08.10-00.26.24:259][ 96]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.13
+[2020.08.10-00.29.21:103][933]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.29.21:197][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.29.21:198][933]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:29:21 PM)
+[2020.08.10-00.29.21:198][933]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.29.21:263][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064883s)
+[2020.08.10-00.29.21:264][933]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.29.21:264][933]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2020.08.10-00.29.21:264][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.066496s)
+[2020.08.10-00.29.21:325][933]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.29.21:334][933]LogInit: FAudioDevice initialized.
+[2020.08.10-00.29.21:374][933]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.29.21:392][933]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.29.21
+[2020.08.10-00.29.21:399][933]LogWorld: Bringing up level for play took: 0.023934
+[2020.08.10-00.29.21:407][933]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.723
+[2020.08.10-00.31.49:826][760]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.31.52:520][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.31.52:522][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.31.52:524][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.10-00.31.52:524][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.10-00.31.52:524][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.10-00.31.52:524][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.10-00.31.52:524][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.10-00.31.52:524][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.10-00.31.52:525][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.10-00.31.52:525][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.31.57:634][760]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.31.57:961][760]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_4:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.31.58:823][760]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.31.59:675][761]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.00:008][762]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.00:335][763]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.00:670][764]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.01:001][765]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.01:334][766]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.01:670][767]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.02:003][768]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.02:336][769]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.02:670][770]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.03:002][771]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.03:349][772]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.03:669][773]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.04:003][774]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.32.25:468][897]LogSavePackage: Save=2921.43ms
+[2020.08.10-00.32.25:471][897]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP1104466642D06BBC9299FEA8427AB6C2.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.10-00.32.25:475][897]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.10-00.32.29:122][986]LogSavePackage: Save=177.80ms
+[2020.08.10-00.32.29:122][986]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/PlayerClimbing_AnimBPC4AE8410422DF8A538964596AC7C177E.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.uasset'
+[2020.08.10-00.32.29:125][986]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/PlayerClimbing_AnimBP.uasset
+[2020.08.10-00.32.43:521][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoTestMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.10-00.32.45:686][986]LogSavePackage: Save=968.26ms
+[2020.08.10-00.32.45:686][986]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DemoTestMap691A2816450BAF11C7EE22A2AD48C5C3.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap'
+[2020.08.10-00.32.45:804][986]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap
+[2020.08.10-00.32.47:617][986]LogFileHelpers: Saving map 'DemoTestMap' took 18.440
+[2020.08.10-00.32.58:810][152]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.32.59:145][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.32.59:145][152]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:32:59 PM)
+[2020.08.10-00.32.59:145][152]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.32.59:655][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.509998s)
+[2020.08.10-00.32.59:656][152]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.32.59:657][152]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2020.08.10-00.32.59:657][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.512094s)
+[2020.08.10-00.32.59:946][152]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.32.59:975][152]LogInit: FAudioDevice initialized.
+[2020.08.10-00.33.00:014][152]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.33.00:059][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.33.00
+[2020.08.10-00.33.00:064][152]LogWorld: Bringing up level for play took: 0.048736
+[2020.08.10-00.33.00:089][152]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 1.96
+[2020.08.10-00.33.22:194][951]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.33.25:202][951]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.10-00.33.25:202][951]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.10-00.33.25:203][951]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.10-00.33.25:203][951]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.10-00.33.25:203][951]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.10-00.33.25:203][951]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.10-00.33.25:203][951]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.10-00.33.25:203][951]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.33.29:321][951]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.33.29:525][951]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_4:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.33.34:471][986]LogSavePackage: Save=2688.02ms
+[2020.08.10-00.33.34:476][986]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBPEA0776754C5033BDEAB8DCA51E2FCE0B.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.10-00.33.34:481][986]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.10-00.33.38:142][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoTestMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.10-00.33.38:853][128]LogSavePackage: Save=644.35ms
+[2020.08.10-00.33.38:853][128]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DemoTestMap3E8B55EA404CB4D8F37F1595E1B7BA7E.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap'
+[2020.08.10-00.33.38:856][128]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap
+[2020.08.10-00.33.38:939][128]LogFileHelpers: Saving map 'DemoTestMap' took 0.957
+[2020.08.10-00.33.42:160][240]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.33.42:466][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.33.42:466][240]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:33:42 PM)
+[2020.08.10-00.33.42:466][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.33.42:582][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116284s)
+[2020.08.10-00.33.42:583][240]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.33.42:584][240]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2020.08.10-00.33.42:584][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.118009s)
+[2020.08.10-00.33.42:623][240]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.33.42:631][240]LogInit: FAudioDevice initialized.
+[2020.08.10-00.33.42:702][240]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.33.42:720][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.33.42
+[2020.08.10-00.33.42:725][240]LogWorld: Bringing up level for play took: 0.023700
+[2020.08.10-00.33.42:734][240]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.605
+[2020.08.10-00.34.24:794][718]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.34.27:536][718]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.10-00.34.27:541][718]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.10-00.34.31:448][718]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.34.31:660][718]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_4:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.34.36:415][738]LogSavePackage: Save=2613.60ms
+[2020.08.10-00.34.36:418][738]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP536E7FE246B794DD0278E9A1E697AFF5.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.10-00.34.36:422][738]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.10-00.34.38:717][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoTestMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.10-00.34.39:378][786]LogSavePackage: Save=591.45ms
+[2020.08.10-00.34.39:378][786]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DemoTestMapE0DA650E40E040D1E5BB55ADB388C82C.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap'
+[2020.08.10-00.34.39:381][786]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap
+[2020.08.10-00.34.39:461][786]LogFileHelpers: Saving map 'DemoTestMap' took 0.860
+[2020.08.10-00.34.40:941][869]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.34.41:131][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.34.41:131][869]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:34:41 PM)
+[2020.08.10-00.34.41:131][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.34.41:180][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048390s)
+[2020.08.10-00.34.41:181][869]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.34.41:181][869]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2020.08.10-00.34.41:181][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049950s)
+[2020.08.10-00.34.41:229][869]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.34.41:237][869]LogInit: FAudioDevice initialized.
+[2020.08.10-00.34.41:275][869]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.34.41:295][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.34.41
+[2020.08.10-00.34.41:301][869]LogWorld: Bringing up level for play took: 0.025444
+[2020.08.10-00.34.41:311][869]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 1.182
+[2020.08.10-00.35.25:299][451]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.35.31:568][451]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.35.31:770][451]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_4:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.35.36:894][579]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.35.37:100][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.35.37:100][579]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:35:37 PM)
+[2020.08.10-00.35.37:100][579]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.35.37:148][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048183s)
+[2020.08.10-00.35.37:149][579]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.35.37:150][579]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2020.08.10-00.35.37:150][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049752s)
+[2020.08.10-00.35.37:193][579]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.35.37:200][579]LogInit: FAudioDevice initialized.
+[2020.08.10-00.35.37:234][579]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.35.37:255][579]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.35.37
+[2020.08.10-00.35.37:260][579]LogWorld: Bringing up level for play took: 0.025355
+[2020.08.10-00.35.37:269][579]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 1.139
+[2020.08.10-00.37.41:228][316]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.37.43:970][316]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_20:PersistentLevel.Player_CharacterBP_C_74.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.10-00.37.43:971][316]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_20:PersistentLevel.Player_CharacterBP_C_74.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.10-00.37.43:971][316]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_20:PersistentLevel.Player_CharacterBP_C_74.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.10-00.37.43:971][316]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_20:PersistentLevel.Player_CharacterBP_C_74.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.10-00.37.43:971][316]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_20:PersistentLevel.Player_CharacterBP_C_74.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.10-00.37.43:971][316]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_20:PersistentLevel.Player_CharacterBP_C_74.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.10-00.37.47:865][316]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.37.48:082][316]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_20:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.37.59:762][376]LogSavePackage: Save=2710.76ms
+[2020.08.10-00.37.59:762][376]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBPFA6806F04FFD9BCA0373B8A568EC2400.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.10-00.37.59:766][376]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.10-00.38.01:318][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoTestMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.10-00.38.01:992][447]LogSavePackage: Save=591.44ms
+[2020.08.10-00.38.01:992][447]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DemoTestMap191D55C54B4851149874468B4C7077E6.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap'
+[2020.08.10-00.38.01:995][447]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap
+[2020.08.10-00.38.02:136][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoTestMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap_BuiltData.uasset" SILENT=true
+[2020.08.10-00.38.03:063][447]LogSavePackage: Save=829.13ms
+[2020.08.10-00.38.03:063][447]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DemoTestMap_BuiltData8CBB1E374A7CECA58588CCB602917FD3.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap_BuiltData.uasset'
+[2020.08.10-00.38.03:088][447]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap_BuiltData.uasset
+[2020.08.10-00.38.03:606][475]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.38.04:284][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.38.04:284][475]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:38:04 PM)
+[2020.08.10-00.38.04:284][475]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.38.04:343][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060210s)
+[2020.08.10-00.38.04:344][475]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.38.04:345][475]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2020.08.10-00.38.04:345][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.061879s)
+[2020.08.10-00.38.04:409][475]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.38.04:418][475]LogInit: FAudioDevice initialized.
+[2020.08.10-00.38.04:455][475]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.38.04:477][475]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.38.04
+[2020.08.10-00.38.04:482][475]LogWorld: Bringing up level for play took: 0.026281
+[2020.08.10-00.38.04:491][475]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.361
+[2020.08.10-00.38.29:331][341]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.38.35:686][341]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.38.35:899][341]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_20:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.38.38:429][403]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.38.38:623][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.38.38:624][403]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:38:38 PM)
+[2020.08.10-00.38.38:624][403]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.38.38:672][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047704s)
+[2020.08.10-00.38.38:672][403]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.38.38:673][403]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2020.08.10-00.38.38:673][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049282s)
+[2020.08.10-00.38.38:716][403]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.38.38:724][403]LogInit: FAudioDevice initialized.
+[2020.08.10-00.38.38:757][403]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.38.38:775][403]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.38.38
+[2020.08.10-00.38.38:780][403]LogWorld: Bringing up level for play took: 0.022372
+[2020.08.10-00.38.38:790][403]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.66
+[2020.08.10-00.39.31:118][619]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.39.37:440][619]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.39.37:647][619]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_20:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.39.42:037][644]LogSavePackage: Save=2644.84ms
+[2020.08.10-00.39.42:037][644]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP73284AB348CFD14EFCD9C0B3E5D2C6E5.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.10-00.39.42:041][644]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.10-00.39.44:061][760]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.39.44:186][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.39.44:186][760]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:39:44 PM)
+[2020.08.10-00.39.44:186][760]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.39.44:236][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049514s)
+[2020.08.10-00.39.44:237][760]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.39.44:237][760]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2020.08.10-00.39.44:237][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.051083s)
+[2020.08.10-00.39.44:280][760]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.39.44:288][760]LogInit: FAudioDevice initialized.
+[2020.08.10-00.39.44:325][760]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.39.44:343][760]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.39.44
+[2020.08.10-00.39.44:347][760]LogWorld: Bringing up level for play took: 0.021585
+[2020.08.10-00.39.44:356][760]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.226
+[2020.08.10-00.40.33:071][507]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.40.39:622][507]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.40.39:829][507]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_20:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.40.57:187][314]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.40.57:382][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.40.57:382][314]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:40:57 PM)
+[2020.08.10-00.40.57:383][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.40.57:449][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066351s)
+[2020.08.10-00.40.57:450][314]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.40.57:450][314]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2020.08.10-00.40.57:451][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.067899s)
+[2020.08.10-00.40.57:497][314]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.40.57:505][314]LogInit: FAudioDevice initialized.
+[2020.08.10-00.40.57:539][314]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.40.57:558][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.40.57
+[2020.08.10-00.40.57:562][314]LogWorld: Bringing up level for play took: 0.022468
+[2020.08.10-00.40.57:571][314]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.558
+[2020.08.10-00.41.22:233][ 49]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.41.28:851][ 49]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.41.29:080][ 49]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_20:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.41.42:711][768]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.41.42:905][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.41.42:905][768]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:41:42 PM)
+[2020.08.10-00.41.42:905][768]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.41.42:954][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048704s)
+[2020.08.10-00.41.42:955][768]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.41.42:956][768]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2020.08.10-00.41.42:956][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.050401s)
+[2020.08.10-00.41.43:003][768]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.41.43:011][768]LogInit: FAudioDevice initialized.
+[2020.08.10-00.41.43:044][768]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.41.43:066][768]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.41.43
+[2020.08.10-00.41.43:071][768]LogWorld: Bringing up level for play took: 0.026051
+[2020.08.10-00.41.43:080][768]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.951
+[2020.08.10-00.42.32:461][752]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.42.39:118][752]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.42.39:324][752]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_20:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.44.19:698][155]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.44.19:929][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.44.19:929][155]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:44:19 PM)
+[2020.08.10-00.44.19:929][155]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.44.19:992][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063689s)
+[2020.08.10-00.44.19:993][155]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.44.19:993][155]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2020.08.10-00.44.19:993][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.065476s)
+[2020.08.10-00.44.20:048][155]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.44.20:100][155]LogInit: FAudioDevice initialized.
+[2020.08.10-00.44.20:136][155]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.44.20:154][155]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.44.20
+[2020.08.10-00.44.20:162][155]LogWorld: Bringing up level for play took: 0.025746
+[2020.08.10-00.44.20:172][155]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.042
+[2020.08.10-00.49.34:995][328]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.10-00.49.42:539][328]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.49.42:778][328]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_20:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.10-00.49.49:556][389]LogSavePackage: Save=3025.93ms
+[2020.08.10-00.49.49:559][389]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBPAC53912D4768B053344267B5339737F1.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.10-00.49.49:564][389]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.10-00.49.57:764][509]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.49.57:968][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.49.57:968][509]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:49:57 PM)
+[2020.08.10-00.49.57:968][509]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.49.58:018][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050133s)
+[2020.08.10-00.49.58:019][509]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.49.58:020][509]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2020.08.10-00.49.58:020][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.051805s)
+[2020.08.10-00.49.58:079][509]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.49.58:088][509]LogInit: FAudioDevice initialized.
+[2020.08.10-00.49.58:120][509]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.49.58:138][509]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.49.58
+[2020.08.10-00.49.58:143][509]LogWorld: Bringing up level for play took: 0.022099
+[2020.08.10-00.49.58:152][509]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.022
+[2020.08.10-00.52.22:056][351]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.10-00.52.22:102][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-00.52.22:102][351]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 12:52:22 PM)
+[2020.08.10-00.52.22:102][351]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.10-00.52.22:169][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067472s)
+[2020.08.10-00.52.22:170][351]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.10-00.52.22:170][351]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2020.08.10-00.52.22:171][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.069445s)
+[2020.08.10-00.52.22:340][351]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-00.52.22:348][351]LogInit: FAudioDevice initialized.
+[2020.08.10-00.52.22:383][351]LogLoad: Game class is 'GameModeBase'
+[2020.08.10-00.52.22:400][351]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-06.52.22
+[2020.08.10-00.52.22:407][351]LogWorld: Bringing up level for play took: 0.023497
+[2020.08.10-00.52.22:418][351]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.288
+[2020.08.10-00.52.35:438][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoTestMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.10-00.52.36:395][734]LogSavePackage: Save=578.77ms
+[2020.08.10-00.52.36:395][734]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DemoTestMapB055E00A49ED25DF04E7B69CA841FC89.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap'
+[2020.08.10-00.52.36:398][734]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap
+[2020.08.10-00.52.36:473][734]LogFileHelpers: Saving map 'DemoTestMap' took 1.862
+[2020.08.10-00.52.51:124][904]Cmd: QUIT_EDITOR
+[2020.08.10-00.52.53:155][904]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.10-00.52.55:583][904]LogExit: Preparing to exit.
+[2020.08.10-00.53.23:820][904]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.08.10-00.54.06:638][904]LogExit: Editor shut down
+[2020.08.10-00.54.08:011][904]LogExit: Transaction tracking system shut down
+[2020.08.10-00.54.52:959][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.08.10-00.54.52:959][904]LogDirectoryWatcher: A directory notification for '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.08.10-00.54.52:959][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.08.10-00.54.52:959][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.08.10-00.54.53:149][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.08.10-00.54.53:167][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.08.10-00.54.53:167][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.08.10-00.55.27:188][904]LogExit: Object subsystem successfully closed.
+[2020.08.10-00.55.33:410][904]LogD3D11RHI: Shutdown
+[2020.08.10-00.55.33:411][904]LogD3D11RHI: CleanupD3DDevice
+[2020.08.10-00.55.37:585][904]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.08.10-00.55.47:234][904]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2020.08.10-00.55.47:275][904]LogModuleManager: Shutting down and abandoning module SkeletonEditor (556)
+[2020.08.10-00.55.47:285][904]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (554)
+[2020.08.10-00.55.47:297][904]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2020.08.10-00.55.47:297][904]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2020.08.10-00.55.47:297][904]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2020.08.10-00.55.47:317][904]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2020.08.10-00.55.47:444][904]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/' was aborted.
+[2020.08.10-00.55.49:550][904]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2020.08.10-00.55.49:550][904]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2020.08.10-00.55.49:550][904]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2020.08.10-00.55.49:623][904]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' was aborted.
+[2020.08.10-00.55.49:623][904]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' was aborted.
+[2020.08.10-00.55.49:623][904]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' was aborted.
+[2020.08.10-00.55.49:624][904]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2020.08.10-00.55.49:751][904]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2020.08.10-00.55.49:752][904]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2020.08.10-00.55.49:868][904]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2020.08.10-00.55.49:880][904]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2020.08.10-00.55.49:880][904]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2020.08.10-00.55.49:880][904]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2020.08.10-00.55.49:887][904]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2020.08.10-00.55.49:887][904]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2020.08.10-00.55.49:910][904]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2020.08.10-00.55.50:027][904]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2020.08.10-00.55.50:077][904]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2020.08.10-00.55.50:097][904]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2020.08.10-00.55.50:118][904]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2020.08.10-00.55.50:159][904]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2020.08.10-00.55.50:389][904]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2020.08.10-00.55.50:389][904]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2020.08.10-00.55.50:390][904]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2020.08.10-00.55.50:390][904]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2020.08.10-00.55.50:390][904]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2020.08.10-00.55.50:390][904]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2020.08.10-00.55.50:404][904]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2020.08.10-00.55.50:404][904]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2020.08.10-00.55.50:404][904]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2020.08.10-00.55.50:404][904]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2020.08.10-00.55.50:404][904]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2020.08.10-00.55.50:404][904]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2020.08.10-00.55.50:477][904]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2020.08.10-00.55.50:507][904]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2020.08.10-00.55.50:507][904]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2020.08.10-00.55.50:507][904]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2020.08.10-00.55.50:507][904]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2020.08.10-00.55.50:587][904]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2020.08.10-00.55.50:660][904]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2020.08.10-00.55.50:721][904]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2020.08.10-00.55.50:891][904]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2020.08.10-00.55.50:999][904]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2020.08.10-00.55.51:100][904]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2020.08.10-00.55.51:139][904]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2020.08.10-00.55.51:139][904]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2020.08.10-00.55.51:139][904]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2020.08.10-00.55.51:890][904]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2020.08.10-00.55.51:890][904]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2020.08.10-00.55.51:890][904]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2020.08.10-00.55.51:890][904]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2020.08.10-00.55.51:947][904]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2020.08.10-00.55.51:963][904]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2020.08.10-00.55.51:972][904]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2020.08.10-00.55.51:988][904]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2020.08.10-00.55.52:006][904]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2020.08.10-00.55.52:029][904]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2020.08.10-00.55.52:036][904]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2020.08.10-00.55.52:036][904]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2020.08.10-00.55.52:049][904]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2020.08.10-00.55.52:086][904]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2020.08.10-00.55.52:092][904]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2020.08.10-00.55.52:105][904]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2020.08.10-00.55.52:122][904]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2020.08.10-00.55.52:171][904]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2020.08.10-00.55.52:188][904]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2020.08.10-00.55.52:222][904]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2020.08.10-00.55.52:246][904]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2020.08.10-00.55.52:258][904]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2020.08.10-00.55.52:273][904]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2020.08.10-00.55.52:284][904]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2020.08.10-00.55.52:438][904]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2020.08.10-00.55.52:479][904]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2020.08.10-00.55.52:501][904]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2020.08.10-00.55.52:521][904]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2020.08.10-00.55.52:529][904]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2020.08.10-00.55.52:579][904]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2020.08.10-00.55.52:579][904]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2020.08.10-00.55.52:636][904]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2020.08.10-00.55.52:636][904]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2020.08.10-00.55.52:646][904]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2020.08.10-00.55.53:787][904]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2020.08.10-00.55.53:822][904]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2020.08.10-00.55.53:833][904]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2020.08.10-00.55.53:838][904]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2020.08.10-00.55.53:946][904]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2020.08.10-00.55.53:952][904]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2020.08.10-00.55.53:965][904]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2020.08.10-00.55.54:068][904]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2020.08.10-00.55.54:090][904]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2020.08.10-00.55.54:090][904]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2020.08.10-00.55.54:112][904]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2020.08.10-00.55.54:112][904]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2020.08.10-00.55.54:112][904]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2020.08.10-00.55.54:112][904]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2020.08.10-00.55.54:112][904]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2020.08.10-00.55.54:112][904]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2020.08.10-00.55.54:181][904]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2020.08.10-00.55.54:184][904]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2020.08.10-00.55.54:211][904]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2020.08.10-00.55.54:224][904]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2020.08.10-00.55.54:465][904]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2020.08.10-00.55.54:496][904]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2020.08.10-00.55.54:496][904]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2020.08.10-00.55.54:521][904]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2020.08.10-00.55.54:577][904]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2020.08.10-00.55.54:611][904]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2020.08.10-00.55.54:611][904]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2020.08.10-00.55.54:612][904]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2020.08.10-00.55.54:618][904]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2020.08.10-00.55.54:618][904]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2020.08.10-00.55.54:618][904]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.08.10-00.55.54:618][904]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2020.08.10-00.55.54:674][904]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2020.08.10-00.55.54:704][904]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2020.08.10-00.55.54:704][904]LogModuleManager: Shutting down and abandoning module RootMotionExtractor (318)
+[2020.08.10-00.55.54:891][904]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2020.08.10-00.55.54:891][904]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2020.08.10-00.55.54:934][904]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2020.08.10-00.55.54:969][904]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2020.08.10-00.55.54:978][904]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2020.08.10-00.55.54:978][904]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2020.08.10-00.55.54:992][904]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2020.08.10-00.55.55:089][904]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2020.08.10-00.55.55:197][904]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2020.08.10-00.55.55:233][904]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2020.08.10-00.55.55:259][904]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2020.08.10-00.55.55:259][904]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2020.08.10-00.55.55:287][904]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2020.08.10-00.55.55:343][904]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2020.08.10-00.55.55:523][904]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2020.08.10-00.55.55:616][904]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2020.08.10-00.55.55:616][904]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2020.08.10-00.55.55:616][904]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2020.08.10-00.55.55:616][904]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2020.08.10-00.55.55:749][904]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2020.08.10-00.55.55:785][904]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2020.08.10-00.55.56:421][904]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2020.08.10-00.55.56:606][904]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2020.08.10-00.55.56:669][904]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2020.08.10-00.55.56:754][904]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2020.08.10-00.55.56:763][904]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2020.08.10-00.55.56:783][904]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2020.08.10-00.55.56:783][904]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2020.08.10-00.55.56:783][904]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2020.08.10-00.55.56:783][904]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2020.08.10-00.55.56:783][904]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2020.08.10-00.55.56:796][904]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2020.08.10-00.55.56:918][904]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2020.08.10-00.55.57:544][904]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.08.10-00.55.57:573][904]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.08.10-00.55.57:581][904]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.08.10-00.55.57:581][904]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.08.10-00.55.57:589][904]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.08.10-00.55.57:589][904]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.08.10-00.55.57:696][904]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.08.10-00.55.57:696][904]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.08.10-00.55.57:713][904]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.08.10-00.55.57:761][904]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.08.10-00.55.57:819][904]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.08.10-00.55.57:826][904]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.08.10-00.55.57:827][904]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.08.10-00.55.57:827][904]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.08.10-00.55.57:855][904]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.08.10-00.55.57:855][904]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.08.10-00.55.57:880][904]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.08.10-00.55.57:881][904]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.08.10-00.55.57:881][904]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.08.10-00.55.57:949][904]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.08.10-00.55.57:961][904]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.08.10-00.55.57:961][904]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.08.10-00.55.57:990][904]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.08.10-00.55.57:998][904]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.08.10-00.55.58:032][904]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.08.10-00.55.58:095][904]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.08.10-00.55.58:117][904]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.08.10-00.55.58:161][904]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.08.10-00.55.58:241][904]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.08.10-00.55.58:249][904]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.08.10-00.55.58:287][904]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.08.10-00.55.58:287][904]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.08.10-00.55.58:409][904]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.08.10-00.55.58:409][904]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.08.10-00.55.58:425][904]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.08.10-00.55.58:433][904]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.08.10-00.55.58:433][904]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.08.10-00.55.58:433][904]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.08.10-00.55.58:433][904]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.08.10-00.55.58:433][904]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.08.10-00.55.58:466][904]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.08.10-00.55.58:466][904]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.08.10-00.55.58:568][904]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.08.10-00.55.58:587][904]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.08.10-00.55.58:587][904]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.08.10-00.55.58:622][904]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.08.10-00.55.58:627][904]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.08.10-00.55.58:664][904]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.08.10-00.55.58:680][904]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.08.10-00.55.58:719][904]LogDerivedDataCache: Shutdown
+[2020.08.10-00.55.58:719][904]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.08.10-00.55.58:746][904]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.08.10-00.55.58:776][904]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.08.10-00.55.58:807][904]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.08.10-00.55.58:819][904]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.08.10-00.55.58:859][904]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.08.10-00.55.58:895][904]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.08.10-00.55.58:915][904]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.08.10-00.55.58:923][904]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.08.10-00.55.58:928][904]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.08.10-00.55.58:984][904]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.08.10-00.55.58:984][904]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.08.10-00.55.58:984][904]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.08.10-00.55.59:002][904]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.08.10-00.55.59:015][904]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.08.10-00.55.59:039][904]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.08.10-00.55.59:056][904]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.08.10-00.55.59:118][904]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.08.10-00.55.59:144][904]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.08.10-00.55.59:160][904]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.08.10-00.55.59:166][904]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.08.10-00.55.59:189][904]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.08.10-00.55.59:190][904]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.08.10-00.55.59:209][904]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.08.10-00.55.59:228][904]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.08.10-00.55.59:245][904]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.08.10-00.55.59:252][904]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.08.10-00.55.59:253][904]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.08.10-00.55.59:273][904]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.08.10-00.55.59:304][904]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.08.10-00.55.59:342][904]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.08.10-00.55.59:361][904]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.08.10-00.55.59:361][904]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.08.10-00.55.59:361][904]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.08.10-00.55.59:391][904]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.08.10-00.55.59:391][904]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.08.10-00.55.59:417][904]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.08.10-00.55.59:433][904]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.08.10-00.55.59:433][904]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.08.10-00.55.59:433][904]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.08.10-00.55.59:433][904]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.08.10-00.55.59:433][904]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.08.10-00.55.59:498][904]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.08.10-00.55.59:547][904]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.08.10-00.55.59:547][904]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.10-00.55.59:578][904]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDFAA8071-4945-0FC9-86F7-F38181021C21%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dab985eb449ee4f1b342389e404cab9f%7C845779d9bd904572b61cf91381b7a44e%7C4e718ad1-99cd-4dc7-9063-d4e2b6f3fd7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.08.10-00.55.59:836][904]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.08.10-00.55.59:981][904]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.08.10-00.56.00:008][904]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.08.10-00.56.00:271][904]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.08.10-00.56.00:349][904]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.08.10-00.56.00:461][904]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.08.10-00.56.00:461][904]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.08.10-00.56.00:469][904]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.08.10-00.56.00:955][904]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.08.10-00.56.00:973][904]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.08.10-00.56.00:973][904]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.08.10-00.56.00:986][904]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.08.10-00.56.01:000][904]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.08.10-00.56.01:000][904]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.08.10-00.56.01:000][904]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.08.10-00.56.01:008][904]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.08.10-00.56.01:021][904]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.08.10-00.56.01:049][904]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.08.10-00.56.01:058][904]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.08.10-00.56.01:482][904]LogExit: Exiting.
+[2020.08.10-00.56.01:949][904]Log file closed, 08/10/20 06:56:01
