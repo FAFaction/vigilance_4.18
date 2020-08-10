@@ -1,0 +1,1420 @@
+﻿Log file open, 08/09/20 22:53:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vigilance418
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2032164734) SRandInit(2032164734).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291645
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/RootMotionExtractor/Binaries/Win64/UE4Editor-RootMotionExtractor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RootMotionExtractor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.08.09-16.54.02:444][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.09-16.54.02:444][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.09-16.54.02:556][  0]LogInit: Computer: ISHRAQ-PC
+[2020.08.09-16.54.02:556][  0]LogInit: User: farha
+[2020.08.09-16.54.02:556][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.09-16.54.02:556][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.09-16.54.02:556][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.08.09-16.54.02:556][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.09-16.54.02:557][  0]LogMemory: Process Physical Memory: 273.37 MB used, 273.38 MB peak
+[2020.08.09-16.54.02:557][  0]LogMemory: Process Virtual Memory: 264.50 MB used, 264.50 MB peak
+[2020.08.09-16.54.02:557][  0]LogMemory: Physical Memory: 3107.45 MB used,  869.56 MB free, 3977.01 MB total
+[2020.08.09-16.54.02:557][  0]LogMemory: Virtual Memory: 4754.74 MB used,  869.56 MB free, 134217728.00 MB total
+[2020.08.09-16.54.04:326][  0]LogInit: Using OS detected language (en-US).
+[2020.08.09-16.54.04:326][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.09-16.54.04:463][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.09-16.54.05:551][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.09-16.54.07:088][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.09-16.54.07:094][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.08.09-16.54.07:098][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.09-16.54.07:139][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.09-16.54.07:139][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.09-16.54.07:139][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.09-16.54.07:149][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.09-16.54.07:149][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.09-16.54.07:149][  0]LogWindows: EnumDisplayDevices:
+[2020.08.09-16.54.07:150][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.08.09-16.54.07:150][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.08.09-16.54.07:150][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.09-16.54.07:150][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.08.09-16.54.07:150][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.09-16.54.07:150][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.09-16.54.07:150][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.08.09-16.54.07:160][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.09-16.54.07:225][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.08.09-16.54.07:226][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GITHUB/vigilance_4.18/Vigilance418/Intermediate/Shaders/WorkingDirectory/4524/).
+[2020.08.09-16.54.07:226][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/A8979B4044FBEB8F488B8881A96CD66D/'.
+[2020.08.09-16.54.07:226][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.09-16.54.11:328][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.08.09-16.54.11:404][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.08.09-16.54.11:508][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.08.09-16.54.11:596][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.08.09-16.54.11:903][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.08.09-16.54.12:003][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.08.09-16.54.12:078][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.08.09-16.54.12:151][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.08.09-16.54.12:299][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.08.09-16.54.12:410][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.08.09-16.54.12:522][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.08.09-16.54.12:617][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.08.09-16.54.12:691][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.08.09-16.54.12:829][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.08.09-16.54.13:029][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.08.09-16.54.13:029][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.08.09-16.54.13:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.08.09-16.54.13:286][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.08.09-16.54.13:562][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.08.09-16.54.13:603][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.08.09-16.54.13:691][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.08.09-16.54.13:809][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.08.09-16.54.13:891][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.08.09-16.54.13:965][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.08.09-16.54.13:965][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.09-16.54.15:879][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.09-16.54.17:088][  0]LogDerivedDataCache: Loaded boot cache 1.21s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.09-16.54.17:088][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.08.09-16.54.17:088][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.09-16.54.17:088][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.09-16.54.17:088][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.09-16.54.17:088][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.09-16.54.17:313][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.09-16.54.17:450][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.09-16.54.17:462][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.08.09-16.54.17:462][  0]LogSlate: Using Freetype 2.6.0
+[2020.08.09-16.54.17:567][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.09-16.54.17:568][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.09-16.54.24:718][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.09-16.54.26:214][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.08.09-16.54.26:330][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.08.09-16.54.26:337][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.09-16.54.26:337][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.08.09-16.54.26:337][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.08.09-16.54.26:337][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.08.09-16.54.26:512][  0]LogNetVersion: Vigilance418 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 63410103)
+[2020.08.09-16.54.27:314][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2020.08.09-16.54.46:394][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.236544 seconds
+[2020.08.09-16.54.46:407][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.08.09-16.54.46:407][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2020.08.09-16.54.46:407][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.09-16.54.46:558][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.08.09-16.55.08:303][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.09-16.55.08:488][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.09-16.55.11:873][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.08.09-16.55.14:193][  0]SourceControl: Source control is disabled
+[2020.08.09-16.55.14:195][  0]SourceControl: Source control is disabled
+[2020.08.09-16.55.14:409][  0]SourceControl: Source control is disabled
+[2020.08.09-16.55.14:551][  0]SourceControl: Source control is disabled
+[2020.08.09-16.55.19:320][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.09-16.55.19:942][  0]LogOcInput: OculusInput pre-init called
+[2020.08.09-16.55.21:866][  0]LogEngine: Initializing Engine...
+[2020.08.09-16.55.21:995][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.09-16.55.23:155][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.08.09-16.55.23:159][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.003 s
+[2020.08.09-16.55.24:228][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.09-16.55.24:611][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-16.55.24:675][  0]LogInit: FAudioDevice initialized.
+[2020.08.09-16.55.24:976][  0]LogDerivedDataCache: Saved boot cache 0.25s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.09-16.55.25:155][  0]LogInit: Texture streaming: Enabled
+[2020.08.09-16.55.26:468][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.09-16.55.28:052][  0]LogInit: Transaction tracking system initialized
+[2020.08.09-16.55.29:112][  0]BlueprintLog: New page: Editor Load
+[2020.08.09-16.55.32:780][  0]LocalizationService: Localization service is disabled
+[2020.08.09-16.55.38:750][  0]LogConsoleResponse: Display: 
+[2020.08.09-16.55.43:114][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.09-16.55.43:116][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.09-16.55.43:188][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.08.09-16.55.44:291][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' took 0.89s
+[2020.08.09-16.55.48:099][  0]SourceControl: Source control is disabled
+[2020.08.09-16.55.48:169][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.08.09-16.55.48:265][  0]LightingResults: New page: Lighting Build
+[2020.08.09-16.55.48:652][  0]MapCheck: New page: Map Check
+[2020.08.09-16.55.48:652][  0]LightingResults: New page: Lighting Build
+[2020.08.09-16.56.18:594][  0]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-16.56.21:034][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.09-16.56.21:637][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.09-16.56.22:057][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 408.929ms to complete.
+[2020.08.09-16.56.22:070][  0]LogFileHelpers: Loading map 'DemoTestMap' took 33.923
+[2020.08.09-16.56.24:378][  0]LogCollectionManager: Loaded 0 collections in 0.019955 seconds
+[2020.08.09-16.56.26:191][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' took 0.01s
+[2020.08.09-16.56.26:191][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' took 0.01s
+[2020.08.09-16.56.26:191][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' took 0.01s
+[2020.08.09-16.56.26:191][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.08.09-16.56.26:273][  0]LogContentBrowser: Native class hierarchy populated in 0.0331 seconds. Added 2363 classes and 519 folders.
+[2020.08.09-16.56.26:676][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2020.08.09-16.56.30:779][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.09-16.56.32:547][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.09-16.56.35:325][  0]LogSlate: Took 0.077448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.09-16.56.35:867][  0]LogSlate: Took 0.047398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.09-16.56.36:896][  0]LogRenderer: Reallocating scene render targets to support 1012x656 Format 9 NumSamples 1 (Frame:1).
+[2020.08.09-16.56.45:946][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.09-16.56.45:946][  0]LogLoad: (Engine Initialization) Total time: 179.14 seconds
+[2020.08.09-16.56.45:946][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.09-16.56.45:965][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.08.09-16.56.49:084][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.08.09-16.56.56:916][  7]LogAssetRegistry: Asset discovery search completed in 149.6255 seconds
+[2020.08.09-16.56.57:191][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.08.09-16.56.57:192][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.014071 seconds (updated 0 objects)
+[2020.08.09-16.57.39:941][785]LogRenderer: Reallocating scene render targets to support 1012x664 Format 9 NumSamples 1 (Frame:141).
+[2020.08.09-16.57.40:439][804]LogRenderer: Reallocating scene render targets to support 1012x668 Format 9 NumSamples 1 (Frame:143).
+[2020.08.09-16.57.43:306][962]LogRenderer: Reallocating scene render targets to support 1012x684 Format 9 NumSamples 1 (Frame:148).
+[2020.08.09-16.57.46:175][124]LogRenderer: Reallocating scene render targets to support 1012x688 Format 9 NumSamples 1 (Frame:150).
+[2020.08.09-16.57.48:938][195]LogRenderer: Reallocating scene render targets to support 1020x688 Format 9 NumSamples 1 (Frame:177).
+[2020.08.09-16.57.49:061][196]LogRenderer: Reallocating scene render targets to support 1352x688 Format 9 NumSamples 1 (Frame:179).
+[2020.08.09-16.57.49:664][210]LogRenderer: Reallocating scene render targets to support 1356x688 Format 9 NumSamples 1 (Frame:181).
+[2020.08.09-16.57.52:780][355]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.52:860][356]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.52:900][357]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.52:911][358]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.52:937][359]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.52:950][360]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.52:961][361]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.52:975][362]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.52:993][363]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:008][364]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:027][365]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:043][366]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:058][367]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:077][368]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:095][369]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:109][370]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:126][371]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:144][372]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:160][373]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:176][374]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:193][375]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:209][376]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:225][377]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:244][378]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:259][379]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:275][380]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:298][381]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:355][382]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:442][383]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:520][384]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:549][385]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:559][386]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:578][387]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:592][388]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:604][389]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:620][390]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:637][391]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:654][392]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:670][393]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:687][394]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:704][395]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:721][396]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:737][397]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:754][398]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:772][399]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:788][400]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:804][401]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:821][402]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:837][403]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:854][404]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:875][405]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:923][406]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:950][407]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:959][408]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:979][409]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.53:994][410]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.54:056][411]LogStreaming: Warning: Failed to open ANSI TEXT file E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/HardwareSurvey/dxdiag.txt
+[2020.08.09-16.57.55:671][412]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2020.08.09-16.57.55:671][412]LogSynthBenchmark: Display: ===============
+[2020.08.09-16.57.55:671][412]LogSynthBenchmark: Display: Main Processor:
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:          ... 0.025276 s/Run 'RayIntersect'
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:          ... 0.027856 s/Run 'Fractal'
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display: 
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 4
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   NumberOfCores (physical): 2
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   CPU Perf Index 0: 101.3 (weight 1.00)
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   CPU Perf Index 1: 102.7 (weight 1.50)
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:  
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display: Graphics:
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics 3000'
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   Device Id: 0x126
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   Device Revision: 0x9
+[2020.08.09-16.57.55:937][412]LogSynthBenchmark: Display:   GPU Memory: 32/0/1632 MB
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:   GPU first test: 0.27s
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.235 s/GigaPix, Confidence=89% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.258 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.232 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 1.576 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.035 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.109 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 1.055 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:   GPU Final Results:
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.235 s/GigaPix, Confidence=89% 'ALUHeavyNoise'
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.258 s/GigaPix, Confidence=100% 'TexHeavy'
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.232 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 1.576 s/GigaPix, Confidence=100% 'FillOnly'
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.035 s/GigaPix, Confidence=100% 'Bandwidth'
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 0.109 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:          ... 1.055 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display: 
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:   GPU Perf Index 0: 5.1 (weight 1.00)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:   GPU Perf Index 1: 3.5 (weight 0.10)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:   GPU Perf Index 2: 6.0 (weight 0.10)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:   GPU Perf Index 3: 6.2 (weight 3.00)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:   GPU Perf Index 4: 3.3 (weight 1.00)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:   GPU Perf Index 5: 7.1 (weight 0.00)
+[2020.08.09-16.57.56:627][412]LogSynthBenchmark: Display:   GPU Perf Index 6: 59.7 (weight 0.00)
+[2020.08.09-16.57.56:628][412]LogSynthBenchmark: Display:   CPUIndex: 102.1
+[2020.08.09-16.57.56:628][412]LogSynthBenchmark: Display:   GPUIndex: 5.4
+[2020.08.09-16.57.56:628][412]LogSynthBenchmark: Display: 
+[2020.08.09-16.57.56:628][412]LogSynthBenchmark: Display:          ... Total Time: 0.956477 sec
+[2020.08.09-16.58.37:259][292]LogSlate: Took 0.010566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.09-16.58.48:873][568]LogSlate: Took 0.193874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.09-17.00.36:630][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:646][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_Up.uasset.
+[2020.08.09-17.00.36:647][122]LoadErrors: Error: /Game/GameContent/Animations/Climbing/IP_Ledge_Jump_Up : Can't find file for asset. /Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton
+[2020.08.09-17.00.36:647][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:647][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_Up.uasset.
+[2020.08.09-17.00.36:648][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:648][122]LoadErrors: Failed to load /Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by IP_Ledge_Jump_Up
+[2020.08.09-17.00.36:648][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading NULL.
+[2020.08.09-17.00.36:662][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:662][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_Down.uasset.
+[2020.08.09-17.00.36:662][122]LoadErrors: Error: /Game/GameContent/Animations/Climbing/IP_Ledge_Jump_Down : Can't find file for asset. /Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton
+[2020.08.09-17.00.36:662][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:663][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_Down.uasset.
+[2020.08.09-17.00.36:663][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:663][122]LoadErrors: Failed to load /Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by IP_Ledge_Jump_Down
+[2020.08.09-17.00.36:664][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading NULL.
+[2020.08.09-17.00.36:666][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:666][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_L.uasset.
+[2020.08.09-17.00.36:667][122]LoadErrors: Error: /Game/GameContent/Animations/Climbing/IP_Ledge_Jump_L : Can't find file for asset. /Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton
+[2020.08.09-17.00.36:667][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:667][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_L.uasset.
+[2020.08.09-17.00.36:668][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:668][122]LoadErrors: Failed to load /Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by IP_Ledge_Jump_L
+[2020.08.09-17.00.36:668][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading NULL.
+[2020.08.09-17.00.36:671][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:671][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_R.uasset.
+[2020.08.09-17.00.36:671][122]LoadErrors: Error: /Game/GameContent/Animations/Climbing/IP_Ledge_Jump_R : Can't find file for asset. /Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton
+[2020.08.09-17.00.36:671][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:672][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_R.uasset.
+[2020.08.09-17.00.36:672][122]LogLinker: Warning: Can't find file '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.09-17.00.36:672][122]LoadErrors: Failed to load /Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by IP_Ledge_Jump_R
+[2020.08.09-17.00.36:673][122]LogLinker: Warning: Can't find file for asset '/Game/LedgeAnimationSet/Characters/Mannequin/Mesh/UE4_Mannequin_Skeleton' while loading NULL.
+[2020.08.09-17.00.40:560][296]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.08.09-17.00.45:050][509]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/IP_Ledge_Jump_Up.IP_Ledge_Jump_Up
+[2020.08.09-17.00.45:090][509]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.IP_Ledge_Jump_Up) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.09-17.00.45:223][509]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/IP_Ledge_Jump_Down.IP_Ledge_Jump_Down
+[2020.08.09-17.00.45:223][509]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.IP_Ledge_Jump_Down) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.09-17.00.45:265][509]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/IP_Ledge_Jump_L.IP_Ledge_Jump_L
+[2020.08.09-17.00.45:266][509]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.IP_Ledge_Jump_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.09-17.00.45:338][509]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/IP_Ledge_Jump_R.IP_Ledge_Jump_R
+[2020.08.09-17.00.45:339][509]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.IP_Ledge_Jump_R) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.09-17.00.51:825][651]LogSavePackage: Save=188.70ms
+[2020.08.09-17.00.51:825][651]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/IP_Ledge_Jump_DownE6DEDC1C4E5B5FD69D30C9B20FDDC7E6.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_Down.uasset'
+[2020.08.09-17.00.51:843][651]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_Down.uasset
+[2020.08.09-17.00.52:051][651]LogSavePackage: Save=59.91ms
+[2020.08.09-17.00.52:053][651]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/IP_Ledge_Jump_LEC87C4264CFFAAB3E675649B7FA61043.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_L.uasset'
+[2020.08.09-17.00.52:060][651]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_L.uasset
+[2020.08.09-17.00.52:199][651]LogSavePackage: Save=34.30ms
+[2020.08.09-17.00.52:199][651]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/IP_Ledge_Jump_R1DC41CB8417AD3F79CD034B38CE1D2A6.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_R.uasset'
+[2020.08.09-17.00.52:202][651]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_R.uasset
+[2020.08.09-17.00.52:375][651]LogSavePackage: Save=80.18ms
+[2020.08.09-17.00.52:375][651]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/IP_Ledge_Jump_Up51EB241B41B954DCF95E2584E79C9603.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_Up.uasset'
+[2020.08.09-17.00.52:378][651]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_Up.uasset
+[2020.08.09-17.00.57:587][734]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.09-17.00.57:721][734]LogSlate: Took 0.011626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.09-17.00.58:598][734]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2020.08.09-17.00.59:440][734]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2020.08.09-17.01.01:358][734]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.01.05:627][734]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2020.08.09-17.01.06:219][736]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.09-17.01.22:168][ 65]LogSavePackage: Save=80.89ms
+[2020.08.09-17.01.22:168][ 65]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/IP_Ledge_Jump_REC41A68F4C49B14DCA8A42A54706B5EA.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_R.uasset'
+[2020.08.09-17.01.22:171][ 65]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/IP_Ledge_Jump_R.uasset
+[2020.08.09-17.01.42:515][490]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Corner_Inside_L.RM_Ledge_Corner_Inside_L
+[2020.08.09-17.01.42:515][490]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Corner_Inside_L.RM_Ledge_Corner_Inside_L) using current/default (AnimCompress_BitwiseCompressOnly_48) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.09-17.02.22:787][246]LogSavePackage: Save=67.27ms
+[2020.08.09-17.02.22:787][246]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/RM_Ledge_Jump_LE117BE4E4761622F01D10A85E42EF420.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/RM_Ledge_Jump_L.uasset'
+[2020.08.09-17.02.22:810][246]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/RM_Ledge_Jump_L.uasset
+[2020.08.09-17.04.20:914][833]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.04.24:861][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.04.25:253][833]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:04:24 AM)
+[2020.08.09-17.04.25:288][833]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.04.25:961][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.673117s)
+[2020.08.09-17.04.25:962][833]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.04.25:996][833]LogPlayLevel: PIE: World Init took: (0.034256s)
+[2020.08.09-17.04.26:007][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.734790s)
+[2020.08.09-17.04.26:361][833]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.04.26:564][833]LogInit: FAudioDevice initialized.
+[2020.08.09-17.04.26:773][833]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.08.09-17.04.26:774][833]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.08.09-17.04.26:782][833]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2020.08.09-17.04.26:791][833]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.04.26:841][833]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.04.26
+[2020.08.09-17.04.27:610][833]LogWorld: Bringing up level for play took: 0.797974
+[2020.08.09-17.04.29:889][833]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2020.08.09-17.04.30:316][833]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 6.187
+[2020.08.09-17.05.09:331][852]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.05.09:396][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.05.09:396][852]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:05:09 AM)
+[2020.08.09-17.05.09:396][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.05.09:450][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053281s)
+[2020.08.09-17.05.09:451][852]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.05.09:451][852]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2020.08.09-17.05.09:451][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.054961s)
+[2020.08.09-17.05.09:498][852]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.05.09:510][852]LogInit: FAudioDevice initialized.
+[2020.08.09-17.05.09:565][852]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.05.09:591][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.05.09
+[2020.08.09-17.05.09:597][852]LogWorld: Bringing up level for play took: 0.031362
+[2020.08.09-17.05.09:608][852]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.521
+[2020.08.09-17.05.31:806][523]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.05.31:859][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.05.31:859][523]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:05:31 AM)
+[2020.08.09-17.05.31:859][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.05.31:923][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063557s)
+[2020.08.09-17.05.31:926][523]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.05.31:929][523]LogPlayLevel: PIE: World Init took: (0.005439s)
+[2020.08.09-17.05.31:929][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.069616s)
+[2020.08.09-17.05.31:962][523]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.05.31:971][523]LogInit: FAudioDevice initialized.
+[2020.08.09-17.05.32:012][523]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.05.32:033][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.05.32
+[2020.08.09-17.05.32:038][523]LogWorld: Bringing up level for play took: 0.025486
+[2020.08.09-17.05.32:047][523]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.082
+[2020.08.09-17.07.14:351][902]LogEditorViewport: Clicking on Actor (LMB): Player_CharacterBP_C (Player_CharacterBP)
+[2020.08.09-17.07.22:284][ 25]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2020.08.09-17.07.33:595][ 25]LogSlate: Took 0.085575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.09-17.07.36:259][ 26]LogSlate: Took 0.018346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.09-17.08.15:996][ 21]LogSavePackage: Save=2890.50ms
+[2020.08.09-17.08.15:996][ 21]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBPB8EB8DCE4B851D6119D061AB437FB11C.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.08.16:025][ 21]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.08.28:958][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2020.08.09-17.08.29:065][549]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2020.08.09-17.08.30:054][550]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.09-17.08.35:112][712]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.08.35:193][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.08.35:193][712]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:08:35 AM)
+[2020.08.09-17.08.35:193][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.08.35:445][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.251328s)
+[2020.08.09-17.08.35:446][712]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.08.35:446][712]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2020.08.09-17.08.35:446][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.253093s)
+[2020.08.09-17.08.35:681][712]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.08.35:710][712]LogInit: FAudioDevice initialized.
+[2020.08.09-17.08.35:763][712]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.08.35:783][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.08.35
+[2020.08.09-17.08.35:788][712]LogWorld: Bringing up level for play took: 0.023889
+[2020.08.09-17.08.35:814][712]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.316
+[2020.08.09-17.10.07:929][626]LogSavePackage: Save=36.13ms
+[2020.08.09-17.10.07:929][626]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/RM_Ledge_Jump_LB70F4F9541E58088132CA6A44D02286F.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/RM_Ledge_Jump_L.uasset'
+[2020.08.09-17.10.07:933][626]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Climbing/RM_Ledge_Jump_L.uasset
+[2020.08.09-17.10.09:514][700]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.10.09:562][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.10.09:562][700]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:10:09 AM)
+[2020.08.09-17.10.09:562][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.10.09:619][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056535s)
+[2020.08.09-17.10.09:666][700]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.10.09:666][700]LogPlayLevel: PIE: World Init took: (0.047454s)
+[2020.08.09-17.10.09:666][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.104427s)
+[2020.08.09-17.10.09:715][700]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.10.09:745][700]LogInit: FAudioDevice initialized.
+[2020.08.09-17.10.09:785][700]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.10.09:803][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.10.09
+[2020.08.09-17.10.09:809][700]LogWorld: Bringing up level for play took: 0.023300
+[2020.08.09-17.10.09:855][700]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.274
+[2020.08.09-17.10.33:611][637]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.10.40:440][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.09-17.10.40:440][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.09-17.10.40:440][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.09-17.10.40:440][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.09-17.10.40:440][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.09-17.10.40:440][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.09-17.10.40:440][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.09-17.10.40:440][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.10.40:495][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.10.40:499][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.09-17.10.40:499][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.09-17.10.40:499][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.09-17.10.40:499][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.09-17.10.40:499][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.09-17.10.40:499][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.09-17.10.40:499][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.09-17.10.40:499][637]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.10.46:507][637]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.10.46:698][637]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.11.01:317][339]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.11.01:465][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.11.01:465][339]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:11:01 AM)
+[2020.08.09-17.11.01:466][339]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.11.01:514][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048136s)
+[2020.08.09-17.11.01:515][339]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.11.01:515][339]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2020.08.09-17.11.01:515][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049697s)
+[2020.08.09-17.11.01:561][339]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.11.01:570][339]LogInit: FAudioDevice initialized.
+[2020.08.09-17.11.01:605][339]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.11.01:624][339]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.11.01
+[2020.08.09-17.11.01:629][339]LogWorld: Bringing up level for play took: 0.022857
+[2020.08.09-17.11.01:637][339]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.492
+[2020.08.09-17.11.29:796][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.08.09-17.11.38:282][465]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.11.38:335][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.11.38:335][465]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:11:38 AM)
+[2020.08.09-17.11.38:335][465]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.11.38:387][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051280s)
+[2020.08.09-17.11.38:388][465]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.11.38:388][465]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2020.08.09-17.11.38:389][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.053058s)
+[2020.08.09-17.11.38:428][465]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.11.38:435][465]LogInit: FAudioDevice initialized.
+[2020.08.09-17.11.38:475][465]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.11.38:496][465]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.11.38
+[2020.08.09-17.11.38:501][465]LogWorld: Bringing up level for play took: 0.024790
+[2020.08.09-17.11.38:510][465]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.38
+[2020.08.09-17.12.56:962][810]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.12.59:516][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.12.59:518][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.09-17.12.59:519][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.09-17.12.59:519][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.09-17.12.59:519][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.09-17.12.59:519][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.09-17.12.59:519][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.09-17.12.59:519][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.09-17.12.59:519][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.12.59:522][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.09-17.12.59:522][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.09-17.12.59:522][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.09-17.12.59:522][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.09-17.12.59:522][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.09-17.12.59:522][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.09-17.12.59:522][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.09-17.12.59:522][810]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.13.02:979][810]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.13.03:173][810]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.13.15:826][437]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.13.18:455][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.13.18:457][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.09-17.13.18:457][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.09-17.13.18:457][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.09-17.13.18:457][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.09-17.13.18:457][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.09-17.13.18:457][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.09-17.13.18:457][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.09-17.13.18:457][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.13.18:460][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.09-17.13.18:460][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.09-17.13.18:460][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.09-17.13.18:460][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.09-17.13.18:460][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.09-17.13.18:460][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.09-17.13.18:460][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.09-17.13.18:460][437]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.13.22:568][437]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.13.22:760][437]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.13.27:539][466]LogSavePackage: Save=2610.24ms
+[2020.08.09-17.13.27:564][466]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBPF3B8B821447673E0DE0621A47682C04E.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.13.27:569][466]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.13.33:168][598]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.13.33:311][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.13.33:311][598]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:13:33 AM)
+[2020.08.09-17.13.33:311][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.13.33:365][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053620s)
+[2020.08.09-17.13.33:366][598]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.13.33:366][598]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2020.08.09-17.13.33:367][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.055636s)
+[2020.08.09-17.13.33:418][598]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.13.33:438][598]LogInit: FAudioDevice initialized.
+[2020.08.09-17.13.33:471][598]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.13.33:490][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.13.33
+[2020.08.09-17.13.33:495][598]LogWorld: Bringing up level for play took: 0.023377
+[2020.08.09-17.13.33:504][598]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.626
+[2020.08.09-17.14.27:798][363]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.14.30:619][363]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.09-17.14.30:619][363]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DB7
+[2020.08.09-17.14.30:619][363]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1DE2
+[2020.08.09-17.14.30:619][363]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E0D
+[2020.08.09-17.14.30:619][363]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E40
+[2020.08.09-17.14.30:619][363]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E6B
+[2020.08.09-17.14.30:619][363]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1E96
+[2020.08.09-17.14.30:619][363]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.14.34:135][363]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.14.34:353][363]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.14.39:904][388]LogSavePackage: Save=3171.72ms
+[2020.08.09-17.14.39:907][388]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP8BA67821472A081B1595A09663063066.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.14.39:911][388]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.15.07:793][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.15.07:972][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.15.07:972][ 61]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:15:07 AM)
+[2020.08.09-17.15.07:972][ 61]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.15.08:028][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054987s)
+[2020.08.09-17.15.08:028][ 61]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.15.08:029][ 61]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2020.08.09-17.15.08:029][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.056513s)
+[2020.08.09-17.15.08:079][ 61]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.15.08:087][ 61]LogInit: FAudioDevice initialized.
+[2020.08.09-17.15.08:124][ 61]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.15.08:147][ 61]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.15.08
+[2020.08.09-17.15.08:152][ 61]LogWorld: Bringing up level for play took: 0.026837
+[2020.08.09-17.15.08:161][ 61]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.031
+[2020.08.09-17.15.35:786][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2020.08.09-17.15.45:218][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.15.45:289][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.15.45:289][ 98]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:15:45 AM)
+[2020.08.09-17.15.45:289][ 98]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.15.45:361][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071681s)
+[2020.08.09-17.15.45:363][ 98]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.15.45:363][ 98]LogPlayLevel: PIE: World Init took: (0.001523s)
+[2020.08.09-17.15.45:363][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.073794s)
+[2020.08.09-17.15.45:441][ 98]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.15.45:461][ 98]LogInit: FAudioDevice initialized.
+[2020.08.09-17.15.45:534][ 98]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.15.45:562][ 98]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.15.45
+[2020.08.09-17.15.45:571][ 98]LogWorld: Bringing up level for play took: 0.036033
+[2020.08.09-17.15.45:582][ 98]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.547
+[2020.08.09-17.31.22:746][633]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.31.25:202][633]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.31.28:623][633]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.31.28:818][633]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.31.33:081][642]LogSavePackage: Save=2579.38ms
+[2020.08.09-17.31.33:084][642]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP7265AD8F42E4B579DD33DA82EDECCC4A.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.31.33:089][642]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.31.34:623][728]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.31.34:781][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.31.34:781][728]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:31:34 AM)
+[2020.08.09-17.31.34:781][728]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.31.34:837][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055953s)
+[2020.08.09-17.31.34:838][728]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.31.34:838][728]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2020.08.09-17.31.34:839][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.057618s)
+[2020.08.09-17.31.34:885][728]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.31.34:895][728]LogInit: FAudioDevice initialized.
+[2020.08.09-17.31.34:930][728]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.31.34:948][728]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.31.34
+[2020.08.09-17.31.34:953][728]LogWorld: Bringing up level for play took: 0.021941
+[2020.08.09-17.31.34:962][728]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.832
+[2020.08.09-17.32.33:765][131]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.32.36:369][131]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_16:PersistentLevel.Player_CharacterBP_C_0.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1D84
+[2020.08.09-17.32.40:422][131]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.32.40:635][131]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.32.49:990][593]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.32.50:129][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.32.50:130][593]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:32:50 AM)
+[2020.08.09-17.32.50:130][593]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.32.50:179][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048956s)
+[2020.08.09-17.32.50:180][593]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.32.50:180][593]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2020.08.09-17.32.50:180][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.050404s)
+[2020.08.09-17.32.50:228][593]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.32.50:236][593]LogInit: FAudioDevice initialized.
+[2020.08.09-17.32.50:273][593]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.32.50:292][593]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.32.50
+[2020.08.09-17.32.50:297][593]LogWorld: Bringing up level for play took: 0.023587
+[2020.08.09-17.32.50:305][593]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.176
+[2020.08.09-17.33.11:758][393]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.33.14:182][393]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.33.17:666][393]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.33.17:947][393]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.33.35:126][321]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.33.40:995][321]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.33.41:187][321]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.33.43:925][406]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.33.44:064][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.33.44:064][406]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:33:44 AM)
+[2020.08.09-17.33.44:064][406]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.33.44:113][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048324s)
+[2020.08.09-17.33.44:114][406]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.33.44:114][406]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2020.08.09-17.33.44:114][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049996s)
+[2020.08.09-17.33.44:159][406]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.33.44:167][406]LogInit: FAudioDevice initialized.
+[2020.08.09-17.33.44:202][406]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.33.44:219][406]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.33.44
+[2020.08.09-17.33.44:224][406]LogWorld: Bringing up level for play took: 0.021333
+[2020.08.09-17.33.44:233][406]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.104
+[2020.08.09-17.34.19:266][707]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.34.21:730][707]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.34.25:183][707]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.34.25:374][707]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.34.28:920][834]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.34.29:056][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.34.29:056][834]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:34:29 AM)
+[2020.08.09-17.34.29:056][834]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.34.29:103][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046406s)
+[2020.08.09-17.34.29:103][834]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.34.29:104][834]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2020.08.09-17.34.29:104][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.047858s)
+[2020.08.09-17.34.29:152][834]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.34.29:160][834]LogInit: FAudioDevice initialized.
+[2020.08.09-17.34.29:195][834]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.34.29:215][834]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.34.29
+[2020.08.09-17.34.29:220][834]LogWorld: Bringing up level for play took: 0.023720
+[2020.08.09-17.34.29:228][834]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 1.099
+[2020.08.09-17.35.20:344][122]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.35.26:349][122]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.35.26:545][122]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.35.29:745][229]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.35.29:888][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.35.29:888][229]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:35:29 AM)
+[2020.08.09-17.35.29:889][229]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.35.29:944][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055605s)
+[2020.08.09-17.35.29:945][229]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.35.29:946][229]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2020.08.09-17.35.29:946][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.057395s)
+[2020.08.09-17.35.29:992][229]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.35.29:999][229]LogInit: FAudioDevice initialized.
+[2020.08.09-17.35.30:037][229]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.35.30:056][229]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.35.30
+[2020.08.09-17.35.30:061][229]LogWorld: Bringing up level for play took: 0.024232
+[2020.08.09-17.35.30:070][229]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.059
+[2020.08.09-17.36.01:939][334]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.36.02:018][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.36.02:018][334]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:36:02 AM)
+[2020.08.09-17.36.02:018][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.36.02:070][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051745s)
+[2020.08.09-17.36.02:071][334]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.36.02:071][334]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2020.08.09-17.36.02:072][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.053307s)
+[2020.08.09-17.36.02:119][334]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.36.02:127][334]LogInit: FAudioDevice initialized.
+[2020.08.09-17.36.02:162][334]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.36.02:182][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.36.02
+[2020.08.09-17.36.02:187][334]LogWorld: Bringing up level for play took: 0.024666
+[2020.08.09-17.36.02:197][334]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.067
+[2020.08.09-17.36.24:931][246]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.36.27:387][246]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.36.30:894][246]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.36.31:086][246]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.36.33:738][326]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.36.33:875][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.36.33:875][326]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:36:33 AM)
+[2020.08.09-17.36.33:875][326]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.36.33:924][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049045s)
+[2020.08.09-17.36.33:925][326]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.36.33:926][326]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2020.08.09-17.36.33:926][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.050575s)
+[2020.08.09-17.36.33:968][326]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.36.33:975][326]LogInit: FAudioDevice initialized.
+[2020.08.09-17.36.34:010][326]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.36.34:028][326]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.36.34
+[2020.08.09-17.36.34:032][326]LogWorld: Bringing up level for play took: 0.021482
+[2020.08.09-17.36.34:041][326]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.088
+[2020.08.09-17.37.21:394][820]LogSavePackage: Save=2698.22ms
+[2020.08.09-17.37.21:394][820]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBPF651DED340BBC7D37737368FEA431BA3.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.37.21:398][820]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.38.02:788][117]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.38.08:697][117]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.38.08:889][117]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.38.20:692][630]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.38.23:228][630]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.38.26:812][630]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.38.27:005][630]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.38.30:512][761]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.38.30:649][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.38.30:649][761]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:38:30 AM)
+[2020.08.09-17.38.30:650][761]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.38.30:697][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046910s)
+[2020.08.09-17.38.30:698][761]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.38.30:698][761]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2020.08.09-17.38.30:698][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.048478s)
+[2020.08.09-17.38.30:745][761]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.38.30:753][761]LogInit: FAudioDevice initialized.
+[2020.08.09-17.38.30:788][761]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.38.30:806][761]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.38.30
+[2020.08.09-17.38.30:810][761]LogWorld: Bringing up level for play took: 0.021647
+[2020.08.09-17.38.30:819][761]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.689
+[2020.08.09-17.39.06:433][ 25]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.39.12:417][ 25]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.39.12:613][ 25]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.39.17:176][ 60]LogSavePackage: Save=2516.32ms
+[2020.08.09-17.39.17:176][ 60]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP631E1C5C4075CF990EAEADACFBBFC3E9.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.39.17:180][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.39.21:641][308]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.39.21:778][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.39.21:779][308]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:39:21 AM)
+[2020.08.09-17.39.21:779][308]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.39.21:826][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046933s)
+[2020.08.09-17.39.21:827][308]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.39.21:827][308]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2020.08.09-17.39.21:827][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.048482s)
+[2020.08.09-17.39.21:869][308]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.39.21:877][308]LogInit: FAudioDevice initialized.
+[2020.08.09-17.39.21:910][308]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.39.21:928][308]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.39.21
+[2020.08.09-17.39.21:933][308]LogWorld: Bringing up level for play took: 0.022428
+[2020.08.09-17.39.21:942][308]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.187
+[2020.08.09-17.40.08:623][ 93]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.40.11:035][ 93]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.40.14:575][ 93]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.40.14:770][ 93]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.40.18:797][ 94]LogSavePackage: Save=2559.94ms
+[2020.08.09-17.40.18:799][ 94]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP60B9C7EB4D8B85F89FADB198ABECF10F.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.40.18:804][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.40.21:570][256]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.40.21:710][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.40.21:710][256]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:40:21 AM)
+[2020.08.09-17.40.21:710][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.40.21:757][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046568s)
+[2020.08.09-17.40.21:758][256]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.40.21:758][256]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2020.08.09-17.40.21:759][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.048128s)
+[2020.08.09-17.40.21:801][256]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.40.21:808][256]LogInit: FAudioDevice initialized.
+[2020.08.09-17.40.21:845][256]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.40.21:865][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.40.21
+[2020.08.09-17.40.21:891][256]LogWorld: Bringing up level for play took: 0.045366
+[2020.08.09-17.40.21:900][256]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.23
+[2020.08.09-17.40.48:268][230]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.40.54:317][230]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.40.54:514][230]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.40.58:548][236]LogSavePackage: Save=2520.51ms
+[2020.08.09-17.40.58:548][236]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP6CAF81D04943E1332FF575A21ED5C314.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.40.58:552][236]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.41.00:333][341]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.41.00:476][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.41.00:476][341]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:41:00 AM)
+[2020.08.09-17.41.00:477][341]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.41.00:525][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048432s)
+[2020.08.09-17.41.00:526][341]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.41.00:526][341]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2020.08.09-17.41.00:527][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049963s)
+[2020.08.09-17.41.00:567][341]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.41.00:574][341]LogInit: FAudioDevice initialized.
+[2020.08.09-17.41.00:630][341]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.41.00:648][341]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.41.00
+[2020.08.09-17.41.00:652][341]LogWorld: Bringing up level for play took: 0.021458
+[2020.08.09-17.41.00:661][341]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.531
+[2020.08.09-17.42.17:089][590]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.42.19:497][590]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05F2
+[2020.08.09-17.42.23:047][590]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.42.23:245][590]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.42.26:580][590]LogSavePackage: Save=2512.12ms
+[2020.08.09-17.42.26:580][590]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBPFAAB7B8240E3F371876442AA3A3A7B64.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.42.26:584][590]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.42.28:337][658]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.42.28:481][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.42.28:481][658]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:42:28 AM)
+[2020.08.09-17.42.28:482][658]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.42.28:529][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046946s)
+[2020.08.09-17.42.28:529][658]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.42.28:530][658]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2020.08.09-17.42.28:530][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.048400s)
+[2020.08.09-17.42.28:573][658]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.42.28:581][658]LogInit: FAudioDevice initialized.
+[2020.08.09-17.42.28:615][658]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.42.28:632][658]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.42.28
+[2020.08.09-17.42.28:637][658]LogWorld: Bringing up level for play took: 0.021276
+[2020.08.09-17.42.28:645][658]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.516
+[2020.08.09-17.43.23:242][719]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.43.29:720][719]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.43.29:917][719]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.43.34:410][747]LogSavePackage: Save=2593.74ms
+[2020.08.09-17.43.34:413][747]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP73B592D249FB7D8EF092B69F270E53C6.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.43.34:417][747]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.44.01:120][212]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.44.07:097][212]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.44.07:295][212]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.44.11:288][216]LogSavePackage: Save=2506.72ms
+[2020.08.09-17.44.11:288][216]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP90C223A04FC5A1C3CED3ED8DA3C00FB1.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.44.11:292][216]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.44.12:578][291]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.44.12:714][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.44.12:714][291]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:44:12 AM)
+[2020.08.09-17.44.12:715][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.44.12:762][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047520s)
+[2020.08.09-17.44.12:763][291]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.44.12:764][291]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2020.08.09-17.44.12:764][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049205s)
+[2020.08.09-17.44.12:804][291]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.44.12:812][291]LogInit: FAudioDevice initialized.
+[2020.08.09-17.44.12:848][291]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.44.12:870][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.44.12
+[2020.08.09-17.44.12:876][291]LogWorld: Bringing up level for play took: 0.027456
+[2020.08.09-17.44.12:885][291]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.756
+[2020.08.09-17.49.29:463][616]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.49.36:630][616]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.49.36:875][616]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.49.42:214][682]LogSavePackage: Save=2542.68ms
+[2020.08.09-17.49.42:214][682]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP2769AD3B4EAE826BB5B0CF8D7DC57A9E.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.49.42:217][682]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.49.43:986][787]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.49.44:133][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.49.44:133][787]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:49:44 AM)
+[2020.08.09-17.49.44:133][787]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.49.44:183][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049332s)
+[2020.08.09-17.49.44:184][787]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.49.44:184][787]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2020.08.09-17.49.44:184][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.050920s)
+[2020.08.09-17.49.44:229][787]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.49.44:239][787]LogInit: FAudioDevice initialized.
+[2020.08.09-17.49.44:272][787]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.49.44:289][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.49.44
+[2020.08.09-17.49.44:294][787]LogWorld: Bringing up level for play took: 0.021531
+[2020.08.09-17.49.44:303][787]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.173
+[2020.08.09-17.50.24:007][523]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.50.30:411][523]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.50.30:626][523]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.50.34:987][545]LogSavePackage: Save=2560.35ms
+[2020.08.09-17.50.34:987][545]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP109E20034367948CF23E0B96EF8F3CF0.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.50.34:994][545]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.50.36:194][615]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.50.36:338][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.50.36:339][615]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:50:36 AM)
+[2020.08.09-17.50.36:339][615]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.50.36:386][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047328s)
+[2020.08.09-17.50.36:387][615]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.50.36:388][615]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2020.08.09-17.50.36:388][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049079s)
+[2020.08.09-17.50.36:435][615]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.50.36:442][615]LogInit: FAudioDevice initialized.
+[2020.08.09-17.50.36:475][615]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.50.36:493][615]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.50.36
+[2020.08.09-17.50.36:498][615]LogWorld: Bringing up level for play took: 0.022687
+[2020.08.09-17.50.36:508][615]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.379
+[2020.08.09-17.51.59:203][588]LogSavePackage: Save=2585.42ms
+[2020.08.09-17.51.59:206][588]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP5BFBFBDF4361C2550C1D2E8B1FEC9475.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.51.59:210][588]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.52.00:532][660]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.52.00:576][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.52.00:576][660]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:52:00 AM)
+[2020.08.09-17.52.00:576][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.52.00:624][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048040s)
+[2020.08.09-17.52.00:625][660]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.52.00:626][660]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2020.08.09-17.52.00:626][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049702s)
+[2020.08.09-17.52.00:674][660]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.52.00:681][660]LogInit: FAudioDevice initialized.
+[2020.08.09-17.52.00:713][660]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.52.00:731][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.52.00
+[2020.08.09-17.52.00:736][660]LogWorld: Bringing up level for play took: 0.022030
+[2020.08.09-17.52.00:745][660]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.615
+[2020.08.09-17.52.22:450][443]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.52.22:499][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.52.22:499][443]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:52:22 AM)
+[2020.08.09-17.52.22:500][443]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.52.22:551][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051064s)
+[2020.08.09-17.52.22:552][443]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.52.22:552][443]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2020.08.09-17.52.22:552][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.052592s)
+[2020.08.09-17.52.22:593][443]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.52.22:601][443]LogInit: FAudioDevice initialized.
+[2020.08.09-17.52.22:637][443]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.52.22:657][443]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.52.22
+[2020.08.09-17.52.22:662][443]LogWorld: Bringing up level for play took: 0.023949
+[2020.08.09-17.52.22:671][443]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.541
+[2020.08.09-17.53.08:604][470]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.53.14:908][470]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.53.15:122][470]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.53.21:376][766]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.53.21:523][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.53.21:523][766]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:53:21 AM)
+[2020.08.09-17.53.21:523][766]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.53.21:575][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051512s)
+[2020.08.09-17.53.21:576][766]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.53.21:576][766]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2020.08.09-17.53.21:576][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.053047s)
+[2020.08.09-17.53.21:621][766]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.53.21:629][766]LogInit: FAudioDevice initialized.
+[2020.08.09-17.53.21:683][766]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.53.21:700][766]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.53.21
+[2020.08.09-17.53.21:705][766]LogWorld: Bringing up level for play took: 0.021515
+[2020.08.09-17.53.21:714][766]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.416
+[2020.08.09-17.53.29:842][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.53.29:887][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.53.29:887][ 49]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:53:29 AM)
+[2020.08.09-17.53.29:887][ 49]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.53.29:935][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047889s)
+[2020.08.09-17.53.29:936][ 49]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.53.29:936][ 49]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2020.08.09-17.53.29:936][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049419s)
+[2020.08.09-17.53.29:985][ 49]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.53.29:993][ 49]LogInit: FAudioDevice initialized.
+[2020.08.09-17.53.30:031][ 49]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.53.30:047][ 49]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.53.30
+[2020.08.09-17.53.30:052][ 49]LogWorld: Bringing up level for play took: 0.020456
+[2020.08.09-17.53.30:061][ 49]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.068
+[2020.08.09-17.53.42:600][429]Cmd: DisableAllScreenMessages
+[2020.08.09-17.53.43:062][429]LogEngine: Onscreen warnings/messages are now DISABLED
+[2020.08.09-17.54.23:417][921]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.54.29:842][921]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.54.30:056][921]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.54.32:573][991]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.54.32:721][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.54.32:721][991]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:54:32 AM)
+[2020.08.09-17.54.32:721][991]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.54.32:768][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046855s)
+[2020.08.09-17.54.32:769][991]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.54.32:769][991]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2020.08.09-17.54.32:769][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.048400s)
+[2020.08.09-17.54.32:816][991]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.54.32:824][991]LogInit: FAudioDevice initialized.
+[2020.08.09-17.54.32:859][991]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.54.32:876][991]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.54.32
+[2020.08.09-17.54.32:881][991]LogWorld: Bringing up level for play took: 0.021320
+[2020.08.09-17.54.32:890][991]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.76
+[2020.08.09-17.54.52:714][725]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.54.59:267][725]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.54.59:486][725]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.55.01:633][774]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.55.01:779][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.55.01:779][774]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:55:01 AM)
+[2020.08.09-17.55.01:780][774]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.55.01:827][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047283s)
+[2020.08.09-17.55.01:828][774]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.55.01:828][774]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2020.08.09-17.55.01:828][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.048833s)
+[2020.08.09-17.55.01:872][774]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.55.01:880][774]LogInit: FAudioDevice initialized.
+[2020.08.09-17.55.01:917][774]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.55.01:935][774]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.55.01
+[2020.08.09-17.55.01:940][774]LogWorld: Bringing up level for play took: 0.022095
+[2020.08.09-17.55.01:948][774]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.181
+[2020.08.09-17.55.23:843][513]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.55.23:893][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.55.23:893][513]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:55:23 AM)
+[2020.08.09-17.55.23:893][513]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.55.23:948][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054571s)
+[2020.08.09-17.55.23:949][513]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.55.23:949][513]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2020.08.09-17.55.23:950][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.056045s)
+[2020.08.09-17.55.23:998][513]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.55.24:006][513]LogInit: FAudioDevice initialized.
+[2020.08.09-17.55.24:046][513]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.55.24:066][513]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.55.24
+[2020.08.09-17.55.24:071][513]LogWorld: Bringing up level for play took: 0.024047
+[2020.08.09-17.55.24:080][513]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.049
+[2020.08.09-17.55.48:509][193]LogSavePackage: Save=2922.45ms
+[2020.08.09-17.55.48:512][193]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP8B173B5B412DF30EC4E4ABAA55960B6B.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.55.48:516][193]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.56.28:058][998]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.56.28:103][998]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.09-17.56.28:647][998]LogPlayLevel: [PlayLevel] Compiling Player_AnimBP before play...
+[2020.08.09-17.56.28:811][998]LogPlayLevel: [PlayLevel]   Compiling PlayerClimbing_AnimBP as a dependent...
+[2020.08.09-17.56.28:828][998]LogPlayLevel: [PlayLevel]   Compiling ScifiPistol_BP as a dependent...
+[2020.08.09-17.56.28:855][998]LogPlayLevel: [PlayLevel]   Compiling TriggerBP as a dependent...
+[2020.08.09-17.56.28:869][998]LogPlayLevel: [PlayLevel]   Compiling WayPointActor as a dependent...
+[2020.08.09-17.56.28:882][998]LogPlayLevel: [PlayLevel]   Compiling TriggerApartmentInterrogation as a dependent...
+[2020.08.09-17.56.28:940][998]LogPlayLevel: [PlayLevel]   Compiling VIP_PassForBar as a dependent...
+[2020.08.09-17.56.28:949][998]LogPlayLevel: [PlayLevel]   Compiling WaypointToBar as a dependent...
+[2020.08.09-17.56.28:955][998]LogPlayLevel: [PlayLevel]   Compiling WayPointToMurderLocation as a dependent...
+[2020.08.09-17.56.28:958][998]LogPlayLevel: [PlayLevel]   Compiling WhenCloseToCops as a dependent...
+[2020.08.09-17.56.28:978][998]LogPlayLevel: [PlayLevel]   Compiling CivilianWhenGettingMurderInfo_BP as a dependent...
+[2020.08.09-17.56.29:006][998]LogPlayLevel: [PlayLevel]   Compiling Fight_AI as a dependent...
+[2020.08.09-17.56.29:118][998]LogPlayLevel: [PlayLevel]   Compiling Player_CharacterBP as a dependent...
+[2020.08.09-17.56.29:656][998]LogPlayLevel: [PlayLevel]   Compiling PlayerHUD as a dependent...
+[2020.08.09-17.56.29:662][998]LogPlayLevel: [PlayLevel]   Compiling PoliceWhenGettingMurderInfo_BP as a dependent...
+[2020.08.09-17.56.29:669][998]LogPlayLevel: [PlayLevel]   Compiling Suspect_In_Bar as a dependent...
+[2020.08.09-17.56.34:482][998]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.56.34:705][998]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.56.35:484][998]LogPlayLevel: PlayLevel: Blueprint regeneration took 7380 ms (16 blueprints)
+[2020.08.09-17.56.35:484][998]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:56:35 AM)
+[2020.08.09-17.56.35:484][998]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.56.35:532][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048130s)
+[2020.08.09-17.56.35:533][998]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.56.35:533][998]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2020.08.09-17.56.35:534][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049827s)
+[2020.08.09-17.56.35:577][998]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.56.35:624][998]LogInit: FAudioDevice initialized.
+[2020.08.09-17.56.35:657][998]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.56.35:678][998]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.56.35
+[2020.08.09-17.56.35:683][998]LogWorld: Bringing up level for play took: 0.025285
+[2020.08.09-17.56.35:692][998]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 7.563
+[2020.08.09-17.56.45:921][353]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.56.45:977][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.56.45:977][353]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:56:45 AM)
+[2020.08.09-17.56.45:992][353]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.56.46:048][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056786s)
+[2020.08.09-17.56.46:048][353]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.56.46:049][353]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2020.08.09-17.56.46:049][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.058299s)
+[2020.08.09-17.56.46:092][353]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.56.46:124][353]LogInit: FAudioDevice initialized.
+[2020.08.09-17.56.46:159][353]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.56.46:178][353]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.56.46
+[2020.08.09-17.56.46:183][353]LogWorld: Bringing up level for play took: 0.023614
+[2020.08.09-17.56.46:192][353]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.062
+[2020.08.09-17.57.28:512][955]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.09-17.57.34:917][955]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.57.35:137][955]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_16:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.09-17.57.39:575][974]LogSavePackage: Save=2617.25ms
+[2020.08.09-17.57.39:578][974]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP63B64CF2403CA0142D19C0BEE0CC5214.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.09-17.57.39:583][974]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.09-17.57.40:729][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-17.57.40:876][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-17.57.40:876][ 38]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 5:57:40 AM)
+[2020.08.09-17.57.40:876][ 38]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-17.57.40:924][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047671s)
+[2020.08.09-17.57.40:925][ 38]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-17.57.40:925][ 38]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2020.08.09-17.57.40:925][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.049200s)
+[2020.08.09-17.57.40:969][ 38]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-17.57.40:976][ 38]LogInit: FAudioDevice initialized.
+[2020.08.09-17.57.41:013][ 38]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-17.57.41:030][ 38]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.09-23.57.41
+[2020.08.09-17.57.41:035][ 38]LogWorld: Bringing up level for play took: 0.021387
+[2020.08.09-17.57.41:044][ 38]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.915
+[2020.08.09-17.58.47:327][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoTestMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.09-17.58.48:623][917]LogSavePackage: Save=623.30ms
+[2020.08.09-17.58.48:640][917]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DemoTestMap45E399124ADA14DC7C8E2B85238EE8FE.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap'
+[2020.08.09-17.58.48:677][917]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap
+[2020.08.09-17.58.49:113][917]LogFileHelpers: Saving map 'DemoTestMap' took 10.524
+[2020.08.09-18.00.39:584][571]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.09-18.00.39:633][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.09-18.00.39:633][571]PIE: New page: PIE session: DemoTestMap (Aug 10, 2020, 6:00:39 AM)
+[2020.08.09-18.00.39:633][571]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.09-18.00.39:683][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049080s)
+[2020.08.09-18.00.39:684][571]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.09-18.00.39:684][571]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2020.08.09-18.00.39:684][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.050866s)
+[2020.08.09-18.00.39:746][571]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.09-18.00.39:754][571]LogInit: FAudioDevice initialized.
+[2020.08.09-18.00.39:793][571]LogLoad: Game class is 'GameModeBase'
+[2020.08.09-18.00.39:817][571]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.10-00.00.39
+[2020.08.09-18.00.39:822][571]LogWorld: Bringing up level for play took: 0.028210
+[2020.08.09-18.00.39:831][571]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.299
+[2020.08.09-18.02.19:608][577]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.09-18.02.28:452][578]Cmd: QUIT_EDITOR
+[2020.08.09-18.02.49:898][578]LogExit: Preparing to exit.
+[2020.08.09-18.03.29:711][578]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.08.09-18.04.57:474][578]LogExit: Editor shut down
+[2020.08.09-18.05.00:259][578]LogExit: Transaction tracking system shut down
+[2020.08.09-18.06.10:239][578]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.08.09-18.06.10:239][578]LogDirectoryWatcher: A directory notification for '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.08.09-18.06.10:239][578]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.08.09-18.06.10:239][578]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.08.09-18.06.10:362][578]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.08.09-18.06.10:362][578]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.08.09-18.06.10:362][578]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.08.09-18.07.25:451][578]LogExit: Object subsystem successfully closed.
+[2020.08.09-18.07.29:509][578]LogD3D11RHI: Shutdown
+[2020.08.09-18.07.29:510][578]LogD3D11RHI: CleanupD3DDevice
+[2020.08.09-18.07.34:579][578]LogD3D11RHI: ~FD3D11DynamicRHI
