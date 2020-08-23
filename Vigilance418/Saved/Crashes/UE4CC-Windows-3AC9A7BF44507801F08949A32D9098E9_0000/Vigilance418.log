@@ -1,0 +1,1561 @@
+﻿Log file open, 08/16/20 19:55:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vigilance418
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1406819694) SRandInit(-1406819693).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.750382
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/RootMotionExtractor/Binaries/Win64/UE4Editor-RootMotionExtractor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RootMotionExtractor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.08.16-13.56.06:220][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.16-13.56.06:220][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.16-13.56.06:540][  0]LogInit: Computer: ISHRAQ-PC
+[2020.08.16-13.56.06:540][  0]LogInit: User: farha
+[2020.08.16-13.56.06:540][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.16-13.56.06:541][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.16-13.56.06:562][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.08.16-13.56.06:562][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.16-13.56.06:562][  0]LogMemory: Process Physical Memory: 272.61 MB used, 272.61 MB peak
+[2020.08.16-13.56.06:562][  0]LogMemory: Process Virtual Memory: 265.20 MB used, 265.20 MB peak
+[2020.08.16-13.56.06:562][  0]LogMemory: Physical Memory: 3528.31 MB used,  448.70 MB free, 3977.01 MB total
+[2020.08.16-13.56.06:562][  0]LogMemory: Virtual Memory: 4755.80 MB used,  448.70 MB free, 134217728.00 MB total
+[2020.08.16-13.56.11:263][  0]LogInit: Using OS detected language (en-US).
+[2020.08.16-13.56.11:263][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.16-13.56.13:851][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.16-13.56.29:094][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.16-13.57.07:416][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.16-13.57.07:595][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.08.16-13.57.07:595][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.08.16-13.57.07:766][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.16-13.57.07:766][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.16-13.57.07:766][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.16-13.57.07:775][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.16-13.57.07:778][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.16-13.57.07:778][  0]LogWindows: EnumDisplayDevices:
+[2020.08.16-13.57.07:778][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.08.16-13.57.07:779][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.08.16-13.57.07:779][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.16-13.57.07:779][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.08.16-13.57.07:779][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.16-13.57.07:779][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.16-13.57.07:779][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.08.16-13.57.07:785][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.16-13.57.08:429][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.08.16-13.57.08:603][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GITHUB/vigilance_4.18/Vigilance418/Intermediate/Shaders/WorkingDirectory/6832/).
+[2020.08.16-13.57.08:628][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/31452B5B442CDE7AF1CF4F9F17AF15D0/'.
+[2020.08.16-13.57.08:629][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.16-13.57.53:336][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.08.16-13.57.53:492][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.08.16-13.57.53:625][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.08.16-13.57.53:732][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.08.16-13.57.53:941][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.08.16-13.57.54:035][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.08.16-13.57.54:111][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.08.16-13.57.54:191][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.08.16-13.57.54:437][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.08.16-13.57.54:555][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.08.16-13.57.54:690][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.08.16-13.57.54:850][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.08.16-13.57.55:063][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.08.16-13.57.55:228][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.08.16-13.57.55:457][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.08.16-13.57.55:457][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.08.16-13.57.55:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.08.16-13.57.55:708][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.08.16-13.57.56:089][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.08.16-13.57.56:153][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.08.16-13.57.56:272][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.08.16-13.57.56:381][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.08.16-13.57.56:479][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.08.16-13.57.56:780][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.08.16-13.57.56:780][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.16-13.58.00:196][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.16-13.58.07:623][  0]LogDerivedDataCache: Loaded boot cache 7.39s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.16-13.58.07:624][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.08.16-13.58.07:624][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.16-13.58.07:624][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.16-13.58.07:624][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.16-13.58.07:624][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.16-13.58.07:807][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.16-13.58.07:862][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.16-13.58.07:950][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.08.16-13.58.07:988][  0]LogSlate: Using Freetype 2.6.0
+[2020.08.16-13.58.08:116][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.16-13.58.08:116][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.16-13.58.26:143][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.16-13.58.28:557][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.08.16-13.58.28:688][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.08.16-13.58.28:697][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.16-13.58.28:705][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.08.16-13.58.28:705][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.08.16-13.58.28:705][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.08.16-13.58.29:180][  0]LogNetVersion: Vigilance418 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 63410103)
+[2020.08.16-13.58.30:491][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2020.08.16-13.58.39:394][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.379720 seconds
+[2020.08.16-13.58.39:401][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.08.16-13.58.39:401][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2020.08.16-13.58.39:401][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.16-13.58.39:522][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.08.16-13.58.59:861][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.16-13.58.59:939][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.16-13.59.02:668][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.08.16-13.59.04:273][  0]SourceControl: Source control is disabled
+[2020.08.16-13.59.04:274][  0]SourceControl: Source control is disabled
+[2020.08.16-13.59.04:522][  0]SourceControl: Source control is disabled
+[2020.08.16-13.59.04:637][  0]SourceControl: Source control is disabled
+[2020.08.16-13.59.08:575][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.16-13.59.09:080][  0]LogOcInput: OculusInput pre-init called
+[2020.08.16-13.59.10:553][  0]LogEngine: Initializing Engine...
+[2020.08.16-13.59.10:627][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.16-13.59.12:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.08.16-13.59.12:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2020.08.16-13.59.12:934][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.16-13.59.13:092][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-13.59.13:180][  0]LogInit: FAudioDevice initialized.
+[2020.08.16-13.59.13:671][  0]LogDerivedDataCache: Saved boot cache 0.47s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.08.16-13.59.13:713][  0]LogInit: Texture streaming: Enabled
+[2020.08.16-13.59.14:039][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.16-13.59.14:585][  0]LogInit: Transaction tracking system initialized
+[2020.08.16-13.59.15:949][  0]BlueprintLog: New page: Editor Load
+[2020.08.16-13.59.19:017][  0]LocalizationService: Localization service is disabled
+[2020.08.16-13.59.21:988][  0]LogConsoleResponse: Display: 
+[2020.08.16-13.59.27:047][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.16-13.59.27:047][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.16-13.59.27:047][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.08.16-13.59.29:383][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' took 1.69s
+[2020.08.16-13.59.31:588][  0]SourceControl: Source control is disabled
+[2020.08.16-13.59.31:635][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.08.16-13.59.31:636][  0]LightingResults: New page: Lighting Build
+[2020.08.16-13.59.31:744][  0]MapCheck: New page: Map Check
+[2020.08.16-13.59.31:744][  0]LightingResults: New page: Lighting Build
+[2020.08.16-14.00.17:194][  0]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-14.00.19:700][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.16-14.00.20:602][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.16-14.00.20:865][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 253.406ms to complete.
+[2020.08.16-14.00.20:866][  0]LogFileHelpers: Loading map 'DemoTestMap' took 49.240
+[2020.08.16-14.00.22:531][  0]LogCollectionManager: Loaded 0 collections in 0.032436 seconds
+[2020.08.16-14.00.22:962][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' took 0.01s
+[2020.08.16-14.00.22:962][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' took 0.01s
+[2020.08.16-14.00.22:962][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' took 0.01s
+[2020.08.16-14.00.22:962][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.08.16-14.00.22:996][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2363 classes and 519 folders.
+[2020.08.16-14.00.23:305][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.16-14.00.35:651][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.08.16-14.00.37:973][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.16-14.00.40:632][  0]LogSlate: Took 0.028381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.16-14.00.40:791][  0]LogSlate: Took 0.029670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.16-14.00.42:036][  0]LogRenderer: Reallocating scene render targets to support 1016x656 Format 9 NumSamples 1 (Frame:1).
+[2020.08.16-14.00.48:366][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.16-14.00.48:366][  0]LogLoad: (Engine Initialization) Total time: 395.07 seconds
+[2020.08.16-14.00.48:366][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.16-14.00.48:415][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.08.16-14.00.50:895][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.08.16-14.00.57:545][ 10]LogAssetRegistry: Asset discovery search completed in 147.0765 seconds
+[2020.08.16-14.00.57:646][ 10]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.08.16-14.00.57:647][ 10]LogCollectionManager: Fixed up redirectors for 0 collections in 0.005093 seconds (updated 0 objects)
+[2020.08.16-14.14.01:663][530]LogSlate: Took 0.118652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.16-14.18.32:948][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.32:985][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset.
+[2020.08.16-14.18.32:985][504]LoadErrors: Error: /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F : Can't find file for asset. /Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify
+[2020.08.16-14.18.32:985][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.32:985][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset.
+[2020.08.16-14.18.32:986][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_Skeleton'
+[2020.08.16-14.18.32:986][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset.
+[2020.08.16-14.18.32:986][504]LoadErrors: Error: /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F : Can't find file for asset. /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_Skeleton
+[2020.08.16-14.18.32:986][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_Skeleton'
+[2020.08.16-14.18.32:986][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset.
+[2020.08.16-14.18.32:987][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.32:987][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading NULL.
+[2020.08.16-14.18.32:987][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.32:987][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading NULL.
+[2020.08.16-14.18.32:987][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.32:987][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading NULL.
+[2020.08.16-14.18.32:988][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.32:988][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading NULL.
+[2020.08.16-14.18.32:988][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.32:988][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading NULL.
+[2020.08.16-14.18.32:989][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.32:989][504]LoadErrors: Failed to load /Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify.Footstep_Notify_C Referenced by ALS_N_Sprint_F
+[2020.08.16-14.18.32:989][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading NULL.
+[2020.08.16-14.18.33:023][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.33:023][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading NULL.
+[2020.08.16-14.18.33:024][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify'
+[2020.08.16-14.18.33:024][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Blueprints/AnimNotifys/Footstep_Notify' while loading NULL.
+[2020.08.16-14.18.33:024][504]LogLinker: Warning: Can't find file '/Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_Skeleton'
+[2020.08.16-14.18.33:024][504]LoadErrors: Failed to load /Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_Skeleton.Mannequin_Skeleton Referenced by ALS_N_Sprint_F
+[2020.08.16-14.18.33:024][504]LogLinker: Warning: Can't find file for asset '/Game/AdvancedLocomotionV3/Characters/Mannequin/Mannequin_Skeleton' while loading NULL.
+[2020.08.16-14.18.33:134][504]LogSlate: Took 0.009712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.16-14.18.37:102][504]LogSlate: Took 0.016338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.16-14.18.37:711][504]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.08.16-14.18.41:636][705]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-14.18.41:646][705]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ALS_N_Sprint_F) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-14.18.44:280][705]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.16-14.18.45:431][705]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2020.08.16-14.18.46:529][705]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2020.08.16-14.18.50:320][705]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_3.SkeletalMeshComponent0.Player_AnimBP_C_0
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:094B
+[2020.08.16-14.18.53:488][705]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.08.16-14.18.54:078][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-14.19.41:551][948]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2020.08.16-14.19.41:637][948]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2020.08.16-14.19.43:210][948]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-14.19.49:810][138]LogSlate: Took 0.011872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.16-14.20.01:848][370]LogSavePackage: Save=804.81ms
+[2020.08.16-14.20.01:848][370]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/MAS_BS_StandingMovement_2D54195AC24EC0E70524E6C184EB1F4B01.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset'
+[2020.08.16-14.20.02:059][370]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset
+[2020.08.16-14.20.05:629][541]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-14.20.10:635][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-14.20.11:208][541]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 2:20:10 AM)
+[2020.08.16-14.20.11:245][541]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-14.20.13:571][541]LogPlayLevel: PIE: StaticDuplicateObject took: (2.326617s)
+[2020.08.16-14.20.13:641][541]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-14.20.13:798][541]LogPlayLevel: PIE: World Init took: (0.209109s)
+[2020.08.16-14.20.13:809][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (2.571173s)
+[2020.08.16-14.20.15:964][541]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-14.20.16:106][541]LogInit: FAudioDevice initialized.
+[2020.08.16-14.20.17:010][541]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.08.16-14.20.17:010][541]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2020.08.16-14.20.17:040][541]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2020.08.16-14.20.17:057][541]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-14.20.17:737][541]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-20.20.17
+[2020.08.16-14.20.18:263][541]LogWorld: Bringing up level for play took: 1.184287
+[2020.08.16-14.20.20:148][541]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0146 seconds. Added 11 classes and 0 folders.
+[2020.08.16-14.20.21:429][541]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 10.286
+[2020.08.16-14.20.33:201][902]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_2.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2020.08.16-14.20.33:331][902]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_2.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2020.08.16-14.20.34:188][903]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-14.21.09:806][787]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-14.21.09:870][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-14.21.09:871][787]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 2:21:09 AM)
+[2020.08.16-14.21.09:871][787]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-14.21.09:982][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057441s)
+[2020.08.16-14.21.09:983][787]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-14.21.09:983][787]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2020.08.16-14.21.09:983][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.112780s)
+[2020.08.16-14.21.10:028][787]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-14.21.10:035][787]LogInit: FAudioDevice initialized.
+[2020.08.16-14.21.10:078][787]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-14.21.10:102][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-20.21.10
+[2020.08.16-14.21.10:108][787]LogWorld: Bringing up level for play took: 0.028806
+[2020.08.16-14.21.10:118][787]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.989
+[2020.08.16-14.34.23:612][899]LogLinker: Warning: Can't find file '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.16-14.34.23:612][899]LogLinker: Warning: Can't find file for asset '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/MOB1_Run_F.uasset.
+[2020.08.16-14.34.23:669][899]LoadErrors: Error: /Game/GameContent/Animations/NewFolder/MOB1_Run_F : Can't find file for asset. /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton
+[2020.08.16-14.34.23:670][899]LogLinker: Warning: Can't find file '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.16-14.34.23:670][899]LogLinker: Warning: Can't find file for asset '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' while loading ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/MOB1_Run_F.uasset.
+[2020.08.16-14.34.23:758][899]LogLinker: Warning: Can't find file '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2020.08.16-14.34.23:758][899]LoadErrors: Failed to load /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by MOB1_Run_F
+[2020.08.16-14.34.23:758][899]LogLinker: Warning: Can't find file for asset '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' while loading NULL.
+[2020.08.16-14.34.32:823][ 52]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.08.16-14.34.35:531][162]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/MOB1_Run_F.MOB1_Run_F
+[2020.08.16-14.34.35:570][162]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.MOB1_Run_F) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-14.34.43:560][243]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2020.08.16-14.34.43:658][243]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2020.08.16-14.34.44:794][243]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-14.35.29:180][509]LogSavePackage: Save=25.87ms
+[2020.08.16-14.35.29:180][509]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/MOB1_Run_FE842D7B4459F4A5A6CAFA1B349DCEDEC.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/MOB1_Run_F.uasset'
+[2020.08.16-14.35.29:183][509]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/MOB1_Run_F.uasset
+[2020.08.16-14.35.41:744][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_4.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2020.08.16-14.35.41:824][108]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_4.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2020.08.16-14.35.42:612][109]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-14.35.55:846][454]LogSavePackage: Save=44.77ms
+[2020.08.16-14.35.55:846][454]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/MAS_BS_StandingMovement_2D9417EEE24AABAA03430ED781F7787BB9.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset'
+[2020.08.16-14.35.55:849][454]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset
+[2020.08.16-14.36.00:263][648]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-14.36.00:311][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-14.36.00:312][648]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 2:36:00 AM)
+[2020.08.16-14.36.00:312][648]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-14.36.00:684][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.371755s)
+[2020.08.16-14.36.00:684][648]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-14.36.00:685][648]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2020.08.16-14.36.00:685][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.373594s)
+[2020.08.16-14.36.00:751][648]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-14.36.00:791][648]LogInit: FAudioDevice initialized.
+[2020.08.16-14.36.00:826][648]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-14.36.00:848][648]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-20.36.00
+[2020.08.16-14.36.00:854][648]LogWorld: Bringing up level for play took: 0.027181
+[2020.08.16-14.36.00:866][648]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.263
+[2020.08.16-14.36.55:494][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.16-14.36.59:126][153]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-14.36.59:253][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-14.36.59:253][153]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 2:36:59 AM)
+[2020.08.16-14.36.59:253][153]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-14.36.59:371][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117617s)
+[2020.08.16-14.36.59:372][153]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-14.36.59:372][153]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2020.08.16-14.36.59:372][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.119211s)
+[2020.08.16-14.36.59:427][153]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-14.36.59:452][153]LogInit: FAudioDevice initialized.
+[2020.08.16-14.36.59:517][153]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-14.36.59:537][153]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-20.36.59
+[2020.08.16-14.36.59:543][153]LogWorld: Bringing up level for play took: 0.025320
+[2020.08.16-14.36.59:552][153]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.423
+[2020.08.16-14.37.14:663][455]LogRenderer: Reallocating scene render targets to support 1016x656 Format 9 NumSamples 1 (Frame:73).
+[2020.08.16-14.37.15:100][457]LogContentStreaming: Texture pool size now 400 MB
+[2020.08.16-14.37.15:418][463]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-14.37.15:598][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-14.37.15:599][463]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 2:37:15 AM)
+[2020.08.16-14.37.15:599][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-14.37.15:734][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.134766s)
+[2020.08.16-14.37.15:756][463]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-14.37.15:756][463]LogPlayLevel: PIE: World Init took: (0.022386s)
+[2020.08.16-14.37.15:757][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.157620s)
+[2020.08.16-14.37.15:800][463]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-14.37.15:814][463]LogInit: FAudioDevice initialized.
+[2020.08.16-14.37.15:861][463]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-14.37.15:941][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-20.37.15
+[2020.08.16-14.37.15:967][463]LogWorld: Bringing up level for play took: 0.105353
+[2020.08.16-14.37.15:992][463]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.863
+[2020.08.16-14.57.31:218][910]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-14.57.31:376][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-14.57.31:376][910]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 2:57:31 AM)
+[2020.08.16-14.57.31:376][910]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-14.57.31:762][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.385354s)
+[2020.08.16-14.57.31:763][910]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-14.57.31:763][910]LogPlayLevel: PIE: World Init took: (0.001635s)
+[2020.08.16-14.57.31:764][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.387516s)
+[2020.08.16-14.57.31:798][910]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-14.57.31:809][910]LogInit: FAudioDevice initialized.
+[2020.08.16-14.57.31:845][910]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-14.57.31:868][910]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-20.57.31
+[2020.08.16-14.57.31:874][910]LogWorld: Bringing up level for play took: 0.028662
+[2020.08.16-14.57.31:885][910]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.755
+[2020.08.16-14.57.55:041][497]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-14.57.55:088][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-14.57.55:088][497]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 2:57:55 AM)
+[2020.08.16-14.57.55:088][497]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-14.57.55:157][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059942s)
+[2020.08.16-14.57.55:158][497]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-14.57.55:158][497]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2020.08.16-14.57.55:159][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.070509s)
+[2020.08.16-14.57.55:187][497]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-14.57.55:194][497]LogInit: FAudioDevice initialized.
+[2020.08.16-14.57.55:232][497]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-14.57.55:252][497]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-20.57.55
+[2020.08.16-14.57.55:257][497]LogWorld: Bringing up level for play took: 0.024677
+[2020.08.16-14.57.55:278][497]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.149
+[2020.08.16-14.58.43:628][ 20]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0436 seconds. Added 116 classes and 0 folders.
+[2020.08.16-14.59.03:026][ 20]LogSlate: Took 0.050779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.16-14.59.06:231][ 21]LogSlate: Took 0.033616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.16-14.59.26:696][262]BlueprintLog: New page: Compile Player_CharacterBP
+[2020.08.16-14.59.33:751][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1BC4
+[2020.08.16-14.59.33:752][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1BF7
+[2020.08.16-14.59.33:752][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1C22
+[2020.08.16-14.59.33:752][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1C4D
+[2020.08.16-14.59.33:752][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1C80
+[2020.08.16-14.59.33:752][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1CAB
+[2020.08.16-14.59.33:752][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Player_CharacterBP_407.CharacterMesh0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:094B
+[2020.08.16-14.59.33:763][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_3.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:094B
+[2020.08.16-14.59.33:766][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_26:PersistentLevel.Player_CharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1BC4
+[2020.08.16-14.59.33:766][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_26:PersistentLevel.Player_CharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1BF7
+[2020.08.16-14.59.33:766][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_26:PersistentLevel.Player_CharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1C22
+[2020.08.16-14.59.33:766][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_26:PersistentLevel.Player_CharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1C4D
+[2020.08.16-14.59.33:766][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_26:PersistentLevel.Player_CharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1C80
+[2020.08.16-14.59.33:767][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_26:PersistentLevel.Player_CharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:1CAB
+[2020.08.16-14.59.33:767][262]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_26:PersistentLevel.Player_CharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:094B
+[2020.08.16-14.59.40:367][262]LogActor: Warning: ScifiPistol_BP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_50 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.16-14.59.40:564][262]LogActor: Warning: ScifiPistol_BP_C /Engine/Transient.World_26:PersistentLevel.Gun_GEN_VARIABLE_ScifiPistol_BP_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.08.16-14.59.44:081][334]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-14.59.44:239][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-14.59.44:239][334]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 2:59:44 AM)
+[2020.08.16-14.59.44:239][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-14.59.44:297][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057711s)
+[2020.08.16-14.59.44:298][334]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-14.59.44:298][334]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2020.08.16-14.59.44:299][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.059275s)
+[2020.08.16-14.59.44:337][334]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-14.59.44:345][334]LogInit: FAudioDevice initialized.
+[2020.08.16-14.59.44:378][334]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-14.59.44:397][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-20.59.44
+[2020.08.16-14.59.44:403][334]LogWorld: Bringing up level for play took: 0.023775
+[2020.08.16-14.59.44:412][334]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.717
+[2020.08.16-15.00.47:217][840]LogSavePackage: Save=2246.80ms
+[2020.08.16-15.00.47:218][840]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Player_CharacterBP765CB65C4BA9D96A48443595FD86CFE7.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset'
+[2020.08.16-15.00.47:221][840]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/PlayerBlueprint/Player_CharacterBP.uasset
+[2020.08.16-15.00.48:356][884]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.00.48:421][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.00.48:421][884]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:00:48 AM)
+[2020.08.16-15.00.48:421][884]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.00.48:716][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.293970s)
+[2020.08.16-15.00.48:717][884]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.00.48:717][884]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2020.08.16-15.00.48:717][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.295493s)
+[2020.08.16-15.00.48:760][884]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.00.48:767][884]LogInit: FAudioDevice initialized.
+[2020.08.16-15.00.48:806][884]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.00.48:824][884]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.00.48
+[2020.08.16-15.00.48:832][884]LogWorld: Bringing up level for play took: 0.024949
+[2020.08.16-15.00.48:841][884]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.288
+[2020.08.16-15.11.42:562][798]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.Actor_5.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2020.08.16-15.11.42:867][798]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.Actor_5.DebugSkelMeshComponent_17) - call TermArticulated first.
+[2020.08.16-15.11.44:097][798]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.11.53:922][ 23]LogSavePackage: Save=39.85ms
+[2020.08.16-15.11.53:923][ 23]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/MAS_BS_StandingMovement_2D34ACCB804530D602D490A4BD632C238E.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset'
+[2020.08.16-15.11.53:944][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset
+[2020.08.16-15.11.58:117][194]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.11.58:167][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.11.58:168][194]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:11:58 AM)
+[2020.08.16-15.11.58:168][194]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.11.58:446][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.277692s)
+[2020.08.16-15.11.58:447][194]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.11.58:447][194]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2020.08.16-15.11.58:447][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.279507s)
+[2020.08.16-15.11.58:489][194]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.11.58:499][194]LogInit: FAudioDevice initialized.
+[2020.08.16-15.11.58:534][194]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.11.58:608][194]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.11.58
+[2020.08.16-15.11.58:613][194]LogWorld: Bringing up level for play took: 0.078810
+[2020.08.16-15.11.58:623][194]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.506
+[2020.08.16-15.18.33:106][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.18.33:337][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.18.33:337][ 81]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:18:33 AM)
+[2020.08.16-15.18.33:337][ 81]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.18.34:010][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.672335s)
+[2020.08.16-15.18.34:026][ 81]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.18.34:027][ 81]LogPlayLevel: PIE: World Init took: (0.016790s)
+[2020.08.16-15.18.34:027][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.689606s)
+[2020.08.16-15.18.34:071][ 81]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.18.34:094][ 81]LogInit: FAudioDevice initialized.
+[2020.08.16-15.18.34:128][ 81]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.18.34:187][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.18.34
+[2020.08.16-15.18.34:192][ 81]LogWorld: Bringing up level for play took: 0.063355
+[2020.08.16-15.18.34:201][ 81]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 1.072
+[2020.08.16-15.21.24:517][ 98]BlueprintLog: New page: Compile Fight_AI
+[2020.08.16-15.21.26:002][ 98]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI2.CharacterMesh0.TestAI_AnimBP_C_0
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-15.21.26:014][ 98]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI3.CharacterMesh0.TestAI_AnimBP_C_1
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-15.21.26:014][ 98]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI4.CharacterMesh0.TestAI_AnimBP_C_2
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-15.21.26:015][ 98]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI5.CharacterMesh0.TestAI_AnimBP_C_3
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-15.21.26:015][ 98]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI6.CharacterMesh0.TestAI_AnimBP_C_4
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-15.21.26:016][ 98]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Engine/Transient.World_30:PersistentLevel.Fight_AI_C_2.CharacterMesh0.TestAI_AnimBP_C_2
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-15.21.26:017][ 98]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI7_97.CharacterMesh0.TestAI_AnimBP_C_5
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-15.21.26:017][ 98]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI_94.CharacterMesh0.TestAI_AnimBP_C_6
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-15.21.29:579][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Blueprint/Fight_AI" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/AI_Blueprint/Fight_AI.uasset" SILENT=true
+[2020.08.16-15.21.30:587][105]LogSavePackage: Save=621.52ms
+[2020.08.16-15.21.30:587][105]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Fight_AI363E93A8403ECEE90851108EF8D2DFD0.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/AI_Blueprint/Fight_AI.uasset'
+[2020.08.16-15.21.31:150][105]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/AI_Blueprint/Fight_AI.uasset
+[2020.08.16-15.23.55:032][949]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Movement/Run F.fbx)
+[2020.08.16-15.23.55:494][949]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.08.16-15.23.55:494][949]LogFbx: ItemName: NodeAttribute, ItemCount : 66
+[2020.08.16-15.23.55:536][949]LogFbx: ItemName: Model, ItemCount : 66
+[2020.08.16-15.23.55:536][949]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2020.08.16-15.23.55:536][949]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2020.08.16-15.23.55:536][949]LogFbx: ItemName: AnimationCurveNode, ItemCount : 198
+[2020.08.16-15.23.55:536][949]LogFbx: ItemName: AnimationCurve, ItemCount : 593
+[2020.08.16-15.23.55:588][949]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Movement/Run F.fbx
+[2020.08.16-15.23.55:740][949]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-15.23.57:953][949]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Movement/Run F.fbx
+[2020.08.16-15.23.58:038][949]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(0) root
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(1) Pelvis
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(2) spine_01
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(3) spine_02
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(4) spine_03
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(5) neck_01
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(6) head
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(7) End
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(8) clavicle_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(9) upperarm_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(10) lowerarm_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(11) hand_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(12) thumb_01_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(13) thumb_02_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(14) thumb_03_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(16) index_01_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(17) index_02_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(18) index_03_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(19) LeftHandIndex4
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(20) middle_01_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(21) middle_02_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(22) middle_03_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(23) LeftHandMiddle4
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(24) ring_01_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(25) ring_02_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(26) ring_03_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(27) LeftHandRing4
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(28) pinky_01_l
+[2020.08.16-15.23.58:107][949]LogFbx: SortedLinks :(29) pinky_02_l
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(30) pinky_03_l
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(31) LeftHandPinky4
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(32) clavicle_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(33) upperarm_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(34) lowerarm_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(35) hand_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(36) thumb_01_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(37) thumb_02_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(38) thumb_03_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(39) RightHandThumb4
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(40) index_01_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(41) index_02_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(42) index_03_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(43) RightHandIndex4
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(44) middle_01_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(45) middle_02_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(46) middle_03_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(47) RightHandMiddle4
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(48) ring_01_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(49) ring_02_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(50) ring_03_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(51) RightHandRing4
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(52) pinky_01_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(53) pinky_02_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(54) pinky_03_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(55) RightHandPinky4
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(56) thigh_l
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(57) calf_l
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(58) foot_l
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(59) ball_l
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(60) End_001
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(61) thigh_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(62) calf_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(63) foot_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(64) ball_r
+[2020.08.16-15.23.58:108][949]LogFbx: SortedLinks :(65) End_002
+[2020.08.16-15.23.58:113][949]LogFbx: Parsing AnimStack root|Armature|mixamo.com|Layer0
+[2020.08.16-15.23.58:164][949]LogLinker: Can't find file '/Game/GameContent/Animations/Mixamo/Run_F'
+[2020.08.16-15.23.58:183][949]LogLinker: Can't find file '/Game/GameContent/Animations/Mixamo/Run_F'
+[2020.08.16-15.23.58:972][949]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Mixamo/Run_F.Run_F
+[2020.08.16-15.23.59:644][949]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Run_F) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.24.00:061][949]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_3.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:094B
+[2020.08.16-15.24.19:947][139]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.Actor_6.DebugSkelMeshComponent_19) Already registered. Aborting.
+[2020.08.16-15.24.21:340][139]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.24.26:011][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Animations/Mixamo/Run_F" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Run_F.uasset" SILENT=true
+[2020.08.16-15.24.26:154][295]LogSavePackage: Save=141.08ms
+[2020.08.16-15.24.26:154][295]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Run_F1C81A46840977FB737399091752DE132.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Run_F.uasset'
+[2020.08.16-15.24.26:157][295]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Run_F.uasset
+[2020.08.16-15.24.30:806][479]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.08.16-15.24.34:633][659]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Run_F.Run_F
+[2020.08.16-15.24.34:634][659]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.24.34:740][659]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Run_F.Run_F
+[2020.08.16-15.24.34:741][659]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.24.34:782][659]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Run_F.Run_F
+[2020.08.16-15.24.34:783][659]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.24.58:214][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Animations/NewFolder/Run_F" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/Run_F.uasset" SILENT=true
+[2020.08.16-15.24.58:251][105]LogSavePackage: Save=34.16ms
+[2020.08.16-15.24.58:251][105]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Run_FB847E7AE4EDF0F896502E9B40CB54CCD.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/Run_F.uasset'
+[2020.08.16-15.24.58:255][105]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/Run_F.uasset
+[2020.08.16-15.25.09:584][606]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_7.DebugSkelMeshComponent_24) Already registered. Aborting.
+[2020.08.16-15.25.09:644][606]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.Actor_7.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2020.08.16-15.25.10:436][606]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.25.48:338][723]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.25.48:448][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.25.48:448][723]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:25:48 AM)
+[2020.08.16-15.25.48:449][723]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.25.48:523][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073960s)
+[2020.08.16-15.25.48:524][723]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.25.48:524][723]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2020.08.16-15.25.48:524][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.075508s)
+[2020.08.16-15.25.48:585][723]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.25.48:593][723]LogInit: FAudioDevice initialized.
+[2020.08.16-15.25.48:629][723]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.25.48:674][723]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.25.48
+[2020.08.16-15.25.48:679][723]LogWorld: Bringing up level for play took: 0.049102
+[2020.08.16-15.25.48:688][723]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.441
+[2020.08.16-15.30.06:799][522]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-15.30.06:800][522]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ALS_N_Sprint_F) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.31.04:773][724]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-15.31.04:775][724]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_3) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.31.36:347][708]LogLinker: Warning: Can't find file '/Game/NewAnimation'
+[2020.08.16-15.31.36:348][708]LogLinker: Warning: Can't find file '/Game/NewAnimation'
+[2020.08.16-15.31.36:348][708]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/NewAnimation.NewAnimation'
+[2020.08.16-15.31.45:594][982]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.31.45:605][982]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NewAnimation) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.32.10:647][668]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.32.10:653][668]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_4) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.32.24:910][ 72]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.32.24:911][ 72]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_5) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.32.32:789][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimation" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset" SILENT=true
+[2020.08.16-15.32.32:831][298]LogSavePackage: Save=39.06ms
+[2020.08.16-15.32.32:831][298]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/NewAnimationAEE947444715AE0503E6559B809BF5F4.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset'
+[2020.08.16-15.32.32:834][298]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset
+[2020.08.16-15.32.49:619][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS_N_Run_RM" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ALS_N_Run_RM.uasset" SILENT=true
+[2020.08.16-15.32.49:685][205]LogSavePackage: Save=62.24ms
+[2020.08.16-15.32.49:685][205]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_N_Run_RMABF34A8F41D8DEA6B2C60E9651EE8E1F.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ALS_N_Run_RM.uasset'
+[2020.08.16-15.32.49:688][205]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ALS_N_Run_RM.uasset
+[2020.08.16-15.33.17:522][ 71]LogSavePackage: Save=34.65ms
+[2020.08.16-15.33.17:522][ 71]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/MAS_BS_StandingMovement_2DBD3548B844CCA7DE134EE0BE6EA010A1.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset'
+[2020.08.16-15.33.17:525][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset
+[2020.08.16-15.33.18:526][113]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.33.18:573][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.33.18:573][113]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:33:18 AM)
+[2020.08.16-15.33.18:573][113]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.33.18:644][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070580s)
+[2020.08.16-15.33.18:645][113]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.33.18:645][113]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2020.08.16-15.33.18:645][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.072177s)
+[2020.08.16-15.33.18:691][113]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.33.18:700][113]LogInit: FAudioDevice initialized.
+[2020.08.16-15.33.18:733][113]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.33.18:765][113]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.33.18
+[2020.08.16-15.33.18:770][113]LogWorld: Bringing up level for play took: 0.024811
+[2020.08.16-15.33.18:780][113]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.349
+[2020.08.16-15.33.44:977][871]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.33.45:026][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.33.45:026][871]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:33:45 AM)
+[2020.08.16-15.33.45:027][871]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.33.45:082][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055196s)
+[2020.08.16-15.33.45:083][871]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.33.45:083][871]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2020.08.16-15.33.45:083][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.056679s)
+[2020.08.16-15.33.45:125][871]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.33.45:133][871]LogInit: FAudioDevice initialized.
+[2020.08.16-15.33.45:179][871]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.33.45:200][871]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.33.45
+[2020.08.16-15.33.45:206][871]LogWorld: Bringing up level for play took: 0.026083
+[2020.08.16-15.33.45:231][871]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.102
+[2020.08.16-15.34.50:108][358]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-15.34.50:109][358]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ALS_N_Sprint_F) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.35.13:469][625]LogLinker: Warning: Can't find file '/Game/RM_RunF'
+[2020.08.16-15.35.13:469][625]LogLinker: Warning: Can't find file '/Game/RM_RunF'
+[2020.08.16-15.35.13:469][625]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/RM_RunF.RM_RunF'
+[2020.08.16-15.35.17:902][756]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/RM_RunF.RM_RunF
+[2020.08.16-15.35.17:906][756]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RM_RunF) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.35.32:225][186]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.16-15.36.10:155][343]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.Actor_8.DebugSkelMeshComponent_29) Already registered. Aborting.
+[2020.08.16-15.36.10:781][343]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.Actor_8.DebugSkelMeshComponent_29) - call TermArticulated first.
+[2020.08.16-15.36.13:970][343]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.36.49:699][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.Actor_9.DebugSkelMeshComponent_32) Already registered. Aborting.
+[2020.08.16-15.36.49:842][535]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.Actor_9.DebugSkelMeshComponent_32) - call TermArticulated first.
+[2020.08.16-15.36.50:538][535]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.37.01:536][889]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-15.37.01:552][889]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_6) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.37.18:171][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-15.37.18:173][408]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_7) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.37.26:068][592]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.37.26:072][592]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NewAnimation) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.37.32:596][866]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.Actor_10.DebugSkelMeshComponent_34) Already registered. Aborting.
+[2020.08.16-15.37.32:695][866]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.Actor_10.DebugSkelMeshComponent_34) - call TermArticulated first.
+[2020.08.16-15.37.33:332][866]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.37.46:195][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.37.46:197][266]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_8) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.38.01:092][743]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.38.01:095][743]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_9) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.38.09:413][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimation" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset" SILENT=true
+[2020.08.16-15.38.09:486][990]LogSavePackage: Save=70.28ms
+[2020.08.16-15.38.09:486][990]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/NewAnimation322E20BF4E784F20AE143BAD2376C0BD.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset'
+[2020.08.16-15.38.09:489][990]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset
+[2020.08.16-15.38.30:461][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS_3_RM_Run_F" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ALS_3_RM_Run_F.uasset" SILENT=true
+[2020.08.16-15.38.30:597][195]LogSavePackage: Save=134.06ms
+[2020.08.16-15.38.30:597][195]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_3_RM_Run_FB9D37091446FED78A22DCCA7A7A66896.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ALS_3_RM_Run_F.uasset'
+[2020.08.16-15.38.30:600][195]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ALS_3_RM_Run_F.uasset
+[2020.08.16-15.38.57:211][247]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.38.57:270][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.38.57:270][247]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:38:57 AM)
+[2020.08.16-15.38.57:270][247]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.38.57:838][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.567605s)
+[2020.08.16-15.38.57:839][247]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.38.57:839][247]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2020.08.16-15.38.57:839][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.569098s)
+[2020.08.16-15.38.57:883][247]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.38.57:891][247]LogInit: FAudioDevice initialized.
+[2020.08.16-15.38.57:931][247]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.38.57:951][247]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.38.57
+[2020.08.16-15.38.57:956][247]LogWorld: Bringing up level for play took: 0.024223
+[2020.08.16-15.38.58:004][247]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.875
+[2020.08.16-15.39.31:631][ 73]LogSavePackage: Save=156.83ms
+[2020.08.16-15.39.31:631][ 73]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/MAS_BS_StandingMovement_2DFFD3ACBB4987ACF6B80699968A149C52.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset'
+[2020.08.16-15.39.31:634][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset
+[2020.08.16-15.39.46:117][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.Actor_11.DebugSkelMeshComponent_37) Already registered. Aborting.
+[2020.08.16-15.39.46:194][811]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_49:PersistentLevel.Actor_11.DebugSkelMeshComponent_37) - call TermArticulated first.
+[2020.08.16-15.39.46:903][811]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.41.08:753][785]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-15.41.08:754][785]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ALS_N_Sprint_F) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.41.08:779][785]LogSavePackage: Save=74.57ms
+[2020.08.16-15.41.08:779][785]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_N_Sprint_F6571CF884D464EFA572B40937A70AEE2.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset'
+[2020.08.16-15.41.08:806][785]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset
+[2020.08.16-15.42.22:735][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-15.42.22:736][251]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_10) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.42.22:776][251]LogSavePackage: Save=135.95ms
+[2020.08.16-15.42.22:776][251]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_N_Sprint_FA9F890D64B82F5FF8610A9ADA2A9F0B9.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset'
+[2020.08.16-15.42.22:780][251]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset
+[2020.08.16-15.43.10:946][768]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-15.43.10:946][768]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_11) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.44.12:933][  2]Cmd: TRANSACTION UNDO
+[2020.08.16-15.44.12:949][  2]LogEditorTransaction: Undo Set Key
+[2020.08.16-15.44.13:678][  2]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.Actor_11.DebugSkelMeshComponent_37) Already registered. Aborting.
+[2020.08.16-15.45.13:322][311]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-15.45.13:337][311]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_12) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.45.13:364][311]LogSavePackage: Save=71.95ms
+[2020.08.16-15.45.13:364][311]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_N_Sprint_F4FCEE1FD48043B2769D637AFA4851072.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset'
+[2020.08.16-15.45.13:367][311]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset
+[2020.08.16-15.45.24:424][649]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.45.24:444][649]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NewAnimation) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.45.32:662][985]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.Actor_12.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2020.08.16-15.45.32:818][985]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.Actor_12.DebugSkelMeshComponent_40) - call TermArticulated first.
+[2020.08.16-15.45.33:670][985]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.45.47:099][399]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.45.47:101][399]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_13) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.45.58:954][768]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.45.58:955][768]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_14) using current/default (AnimCompress_BitwiseCompressOnly_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.46.06:097][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimation" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset" SILENT=true
+[2020.08.16-15.46.06:181][981]LogSavePackage: Save=82.46ms
+[2020.08.16-15.46.06:181][981]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/NewAnimation88EF29EA4C00704282BB2BBE461914D4.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset'
+[2020.08.16-15.46.06:185][981]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset
+[2020.08.16-15.46.16:644][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS_3_Run_F" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ALS_3_Run_F.uasset" SILENT=true
+[2020.08.16-15.46.16:727][576]LogSavePackage: Save=80.29ms
+[2020.08.16-15.46.16:727][576]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_3_Run_FC90A306E4E6BE03559748982736A4552.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ALS_3_Run_F.uasset'
+[2020.08.16-15.46.16:730][576]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ALS_3_Run_F.uasset
+[2020.08.16-15.46.27:509][ 49]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.Actor_13.DebugSkelMeshComponent_43) Already registered. Aborting.
+[2020.08.16-15.46.27:604][ 49]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_55:PersistentLevel.Actor_13.DebugSkelMeshComponent_43) - call TermArticulated first.
+[2020.08.16-15.46.28:329][ 49]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.46.41:120][358]LogSavePackage: Save=139.35ms
+[2020.08.16-15.46.41:122][358]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/MAS_BS_StandingMovement_2D239CF5DA4A1C6A30A5972384239164C0.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset'
+[2020.08.16-15.46.41:125][358]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset
+[2020.08.16-15.46.42:906][445]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.46.42:954][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.46.42:954][445]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:46:42 AM)
+[2020.08.16-15.46.42:954][445]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.46.43:260][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.305679s)
+[2020.08.16-15.46.43:260][445]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.46.43:261][445]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2020.08.16-15.46.43:261][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.307274s)
+[2020.08.16-15.46.43:324][445]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.46.43:346][445]LogInit: FAudioDevice initialized.
+[2020.08.16-15.46.43:386][445]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.46.43:424][445]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.46.43
+[2020.08.16-15.46.43:430][445]LogWorld: Bringing up level for play took: 0.043371
+[2020.08.16-15.46.43:468][445]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.339
+[2020.08.16-15.46.47:097][527]LogCharacterMovement: Player_CharacterBP_407 is stuck and failed to move! Velocity: X=14.58 Y=-242.15 Z=0.00 Location: X=-489.48 Y=4041.07 Z=97.73 Normal: X=-0.60 Y=0.00 Z=-0.80 PenetrationDepth:0.859 Actor:None Component:ModelComponent_49 BoneName:None (0 other events since notify)
+[2020.08.16-15.47.13:558][398]LogSavePackage: Save=35.57ms
+[2020.08.16-15.47.13:558][398]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/MAS_BS_StandingMovement_2DCB089FCF4E20F6C49F9554B590AFD9C1.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset'
+[2020.08.16-15.47.13:561][398]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset
+[2020.08.16-15.47.26:777][990]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.Actor_14.DebugSkelMeshComponent_45) Already registered. Aborting.
+[2020.08.16-15.47.26:838][990]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_57:PersistentLevel.Actor_14.DebugSkelMeshComponent_45) - call TermArticulated first.
+[2020.08.16-15.47.27:558][990]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.48.08:735][201]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.48.08:740][201]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NewAnimation) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.48.13:509][397]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.Actor_15.DebugSkelMeshComponent_48) Already registered. Aborting.
+[2020.08.16-15.48.13:589][397]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_60:PersistentLevel.Actor_15.DebugSkelMeshComponent_48) - call TermArticulated first.
+[2020.08.16-15.48.14:284][397]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.48.35:321][ 42]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.48.35:324][ 42]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_15) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.49.09:775][ 97]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.49.09:806][ 97]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_16) using current/default (AnimCompress_BitwiseCompressOnly_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.49.32:045][767]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.49.32:047][767]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_17) using current/default (AnimCompress_BitwiseCompressOnly_22) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.49.39:737][999]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.49.39:738][999]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_18) using current/default (AnimCompress_BitwiseCompressOnly_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.49.45:255][166]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.49.45:257][166]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_19) using current/default (AnimCompress_BitwiseCompressOnly_24) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.49.51:854][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimation" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset" SILENT=true
+[2020.08.16-15.49.51:970][363]LogSavePackage: Save=113.29ms
+[2020.08.16-15.49.51:970][363]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/NewAnimationA7CCC3E7421A88A36EF1B5B7C0C4ED65.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset'
+[2020.08.16-15.49.51:972][363]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset
+[2020.08.16-15.50.24:955][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.Actor_16.DebugSkelMeshComponent_51) Already registered. Aborting.
+[2020.08.16-15.50.25:040][622]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_63:PersistentLevel.Actor_16.DebugSkelMeshComponent_51) - call TermArticulated first.
+[2020.08.16-15.50.25:819][623]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.51.00:223][653]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.51.00:226][653]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_20) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.51.07:461][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimation" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset" SILENT=true
+[2020.08.16-15.51.07:546][909]LogSavePackage: Save=55.16ms
+[2020.08.16-15.51.07:546][909]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/NewAnimation50B60C084F9D1F16AB123894EF1691FC.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset'
+[2020.08.16-15.51.07:549][909]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset
+[2020.08.16-15.51.10:375][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.51.10:423][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.51.10:424][ 33]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:51:10 AM)
+[2020.08.16-15.51.10:424][ 33]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.51.10:490][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066662s)
+[2020.08.16-15.51.10:541][ 33]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.51.10:541][ 33]LogPlayLevel: PIE: World Init took: (0.050733s)
+[2020.08.16-15.51.10:541][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.117860s)
+[2020.08.16-15.51.10:695][ 33]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.51.10:716][ 33]LogInit: FAudioDevice initialized.
+[2020.08.16-15.51.10:751][ 33]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.51.10:772][ 33]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.51.10
+[2020.08.16-15.51.10:778][ 33]LogWorld: Bringing up level for play took: 0.025899
+[2020.08.16-15.51.10:824][ 33]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.305
+[2020.08.16-15.51.54:996][517]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.51.54:998][517]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NewAnimation) using current/default (AnimCompress_BitwiseCompressOnly_26) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.52.28:345][728]Cmd: TRANSACTION UNDO
+[2020.08.16-15.52.28:379][728]LogEditorTransaction: Undo Translate Bone
+[2020.08.16-15.52.28:380][728]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.Actor_16.DebugSkelMeshComponent_51) Already registered. Aborting.
+[2020.08.16-15.52.30:070][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2020.08.16-15.52.30:073][771]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_21) using current/default (AnimCompress_BitwiseCompressOnly_27) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-15.52.31:446][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimation" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset" SILENT=true
+[2020.08.16-15.52.31:489][820]LogSavePackage: Save=32.52ms
+[2020.08.16-15.52.31:489][820]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/NewAnimation99831A98470946AA2E2C329AA767E4EE.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset'
+[2020.08.16-15.52.31:492][820]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/NewAnimation.uasset
+[2020.08.16-15.52.36:680][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.52.36:727][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.52.36:727][ 29]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:52:36 AM)
+[2020.08.16-15.52.36:727][ 29]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.52.36:784][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056278s)
+[2020.08.16-15.52.36:785][ 29]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.52.36:785][ 29]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2020.08.16-15.52.36:785][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.057956s)
+[2020.08.16-15.52.36:827][ 29]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.52.36:835][ 29]LogInit: FAudioDevice initialized.
+[2020.08.16-15.52.36:869][ 29]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.52.36:888][ 29]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.52.36
+[2020.08.16-15.52.36:893][ 29]LogWorld: Bringing up level for play took: 0.023588
+[2020.08.16-15.52.36:939][ 29]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap -0.19
+[2020.08.16-15.53.34:707][866]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.Actor_17.DebugSkelMeshComponent_54) Already registered. Aborting.
+[2020.08.16-15.53.34:769][866]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_66:PersistentLevel.Actor_17.DebugSkelMeshComponent_54) - call TermArticulated first.
+[2020.08.16-15.53.35:428][866]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-15.53.50:996][328]LogSavePackage: Save=34.06ms
+[2020.08.16-15.53.50:997][328]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/MAS_BS_StandingMovement_2DA233018A47AFF5660C7FDBAFC347937B.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset'
+[2020.08.16-15.53.51:087][328]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/MovementAnimSetPro/Blendspace/MAS_BS_StandingMovement_2D.uasset
+[2020.08.16-15.54.31:118][993]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-15.54.31:166][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-15.54.31:185][993]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 3:54:31 AM)
+[2020.08.16-15.54.31:185][993]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-15.54.31:242][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057218s)
+[2020.08.16-15.54.31:243][993]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-15.54.31:244][993]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2020.08.16-15.54.31:244][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.058906s)
+[2020.08.16-15.54.31:286][993]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-15.54.31:309][993]LogInit: FAudioDevice initialized.
+[2020.08.16-15.54.31:349][993]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-15.54.31:368][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-21.54.31
+[2020.08.16-15.54.31:373][993]LogWorld: Bringing up level for play took: 0.023734
+[2020.08.16-15.54.31:408][993]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.279
+[2020.08.16-16.10.04:529][516]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-16.10.04:823][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-16.10.04:824][516]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 4:10:04 AM)
+[2020.08.16-16.10.04:824][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-16.10.05:499][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.674815s)
+[2020.08.16-16.10.05:512][516]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-16.10.05:512][516]LogPlayLevel: PIE: World Init took: (0.013087s)
+[2020.08.16-16.10.05:513][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.688863s)
+[2020.08.16-16.10.05:602][516]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-16.10.05:611][516]LogInit: FAudioDevice initialized.
+[2020.08.16-16.10.05:666][516]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-16.10.05:773][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-22.10.05
+[2020.08.16-16.10.05:785][516]LogWorld: Bringing up level for play took: 0.118441
+[2020.08.16-16.10.05:824][516]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.695
+[2020.08.16-16.10.15:173][685]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.08.16-16.10.44:478][763]BlueprintLog: New page: Compile Fight_AI
+[2020.08.16-16.10.53:957][763]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI2.CharacterMesh0.TestAI_AnimBP_C_0
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-16.10.53:958][763]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI3.CharacterMesh0.TestAI_AnimBP_C_1
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-16.10.53:959][763]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI4.CharacterMesh0.TestAI_AnimBP_C_2
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-16.10.53:959][763]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI5.CharacterMesh0.TestAI_AnimBP_C_3
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-16.10.53:985][763]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI6.CharacterMesh0.TestAI_AnimBP_C_4
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-16.10.53:985][763]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI7_97.CharacterMesh0.TestAI_AnimBP_C_5
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-16.10.53:986][763]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Game/Maps/DemoTestMap.DemoTestMap:PersistentLevel.Fight_AI_94.CharacterMesh0.TestAI_AnimBP_C_6
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-16.10.53:987][763]LogScript: Warning: Accessed None trying to read property AI Ref
+	TestAI_AnimBP_C /Engine/Transient.World_68:PersistentLevel.Fight_AI_C_13.CharacterMesh0.TestAI_AnimBP_C_3
+	Function /Game/Blueprints/AI_Blueprint/TestAI_AnimBP.TestAI_AnimBP_C:ExecuteUbergraph_TestAI_AnimBP:0043
+[2020.08.16-16.11.22:579][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Blueprint/Fight_AI" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/AI_Blueprint/Fight_AI.uasset" SILENT=true
+[2020.08.16-16.11.23:631][911]LogSavePackage: Save=605.80ms
+[2020.08.16-16.11.23:632][911]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Fight_AI782F6B614B485DD748059AB3D85D879F.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/AI_Blueprint/Fight_AI.uasset'
+[2020.08.16-16.11.23:744][911]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/AI_Blueprint/Fight_AI.uasset
+[2020.08.16-16.11.25:628][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-16.11.25:727][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-16.11.25:728][ 11]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 4:11:25 AM)
+[2020.08.16-16.11.25:742][ 11]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-16.11.25:801][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058294s)
+[2020.08.16-16.11.25:802][ 11]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-16.11.25:802][ 11]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2020.08.16-16.11.25:803][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.060615s)
+[2020.08.16-16.11.25:848][ 11]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-16.11.25:857][ 11]LogInit: FAudioDevice initialized.
+[2020.08.16-16.11.25:894][ 11]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-16.11.25:918][ 11]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-22.11.25
+[2020.08.16-16.11.25:925][ 11]LogWorld: Bringing up level for play took: 0.030315
+[2020.08.16-16.11.25:938][ 11]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.809
+[2020.08.16-16.11.47:100][601]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-16.11.47:151][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-16.11.47:151][601]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 4:11:47 AM)
+[2020.08.16-16.11.47:216][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-16.11.47:274][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057660s)
+[2020.08.16-16.11.47:275][601]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-16.11.47:275][601]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2020.08.16-16.11.47:275][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.059404s)
+[2020.08.16-16.11.47:314][601]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-16.11.47:321][601]LogInit: FAudioDevice initialized.
+[2020.08.16-16.11.47:355][601]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-16.11.47:374][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-22.11.47
+[2020.08.16-16.11.47:380][601]LogWorld: Bringing up level for play took: 0.023985
+[2020.08.16-16.11.47:389][601]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.26
+[2020.08.16-16.23.01:590][816]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.16-16.23.01:640][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.16-16.23.01:640][816]PIE: New page: PIE session: DemoTestMap (Aug 17, 2020, 4:23:01 AM)
+[2020.08.16-16.23.01:683][816]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DemoTestMap
+[2020.08.16-16.23.01:863][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179706s)
+[2020.08.16-16.23.01:864][816]LogAIModule: Creating AISystem for world DemoTestMap
+[2020.08.16-16.23.01:865][816]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2020.08.16-16.23.01:865][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DemoTestMap.DemoTestMap to /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap (0.181719s)
+[2020.08.16-16.23.01:910][816]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.16-16.23.01:919][816]LogInit: FAudioDevice initialized.
+[2020.08.16-16.23.01:958][816]LogLoad: Game class is 'GameModeBase'
+[2020.08.16-16.23.01:977][816]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DemoTestMap.DemoTestMap up for play (max tick rate 60) at 2020.08.16-22.23.01
+[2020.08.16-16.23.01:982][816]LogWorld: Bringing up level for play took: 0.023686
+[2020.08.16-16.23.01:992][816]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DemoTestMap 0.863
+[2020.08.16-16.24.11:548][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoTestMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.16-16.24.12:710][717]LogSavePackage: Save=809.25ms
+[2020.08.16-16.24.12:711][717]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DemoTestMap82D982204FE2EF3C9B4F529649D7DF76.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap'
+[2020.08.16-16.24.12:744][717]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap.umap
+[2020.08.16-16.24.12:979][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoTestMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap_BuiltData.uasset" SILENT=true
+[2020.08.16-16.24.13:222][717]LogSavePackage: Save=166.32ms
+[2020.08.16-16.24.13:222][717]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DemoTestMap_BuiltData7E84F4E448985E9B217B86881A6492F1.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap_BuiltData.uasset'
+[2020.08.16-16.24.13:263][717]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/DemoTestMap_BuiltData.uasset
+[2020.08.16-16.53.43:760][144]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.08.16-17.36.54:992][194]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\Vigilance 01\Vehicle\SM_CR02_Body.FBX)
+[2020.08.16-17.36.57:156][194]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.08.16-17.36.57:156][194]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2020.08.16-17.36.57:157][194]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2020.08.16-17.36.57:157][194]LogFbx: ItemName: Model, ItemCount : 6
+[2020.08.16-17.36.57:636][194]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2020.08.16-17.36.57:636][194]LogFbx: ItemName: Geometry, ItemCount : 5
+[2020.08.16-17.36.57:636][194]LogFbx: ItemName: Material, ItemCount : 4
+[2020.08.16-17.36.57:758][194]LogFbx: Loading FBX Scene from E:\GameDev\GameAssets\ProjectFiles\Vigilance 01\Vehicle\SM_CR02_Body.FBX
+[2020.08.16-17.36.58:324][194]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-17.37.04:991][194]LogFbx: Loading FBX Scene from E:\GameDev\GameAssets\ProjectFiles\Vigilance 01\Vehicle\SM_CR02_Body.FBX
+[2020.08.16-17.37.05:340][194]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-17.37.05:938][194]LogFbx: Warning: Triangulating mesh UCX_SM_CR02_Body_LOD0 for collision model
+[2020.08.16-17.37.08:763][194]LogStaticMesh: Building static mesh SM_CR02_Body_SM_CR02_Body_LOD0...
+[2020.08.16-17.37.10:912][194]LogStaticMesh: Built static mesh [2.45s] /Game/GameContent/Vehicle/SM_CR02_Body_SM_CR02_Body_LOD0.SM_CR02_Body_SM_CR02_Body_LOD0
+[2020.08.16-17.37.11:636][194]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.16-17.37.12:825][194]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\Vigilance 01\Vehicle\SM_CR02_FDoor_Left.FBX)
+[2020.08.16-17.37.12:883][194]LogFbx: Loading FBX Scene from E:\GameDev\GameAssets\ProjectFiles\Vigilance 01\Vehicle\SM_CR02_FDoor_Left.FBX
+[2020.08.16-17.37.12:931][194]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-17.37.12:941][194]LogFbx: Warning: Triangulating mesh UCX_SM_CR02_FDoor_L_01_LOD0 for collision model
+[2020.08.16-17.37.13:149][194]LogStaticMesh: Building static mesh SM_CR02_FDoor_Left_SM_CR02_FDoor_L_01_LOD0...
+[2020.08.16-17.37.13:287][194]LogStaticMesh: Built static mesh [0.16s] /Game/GameContent/Vehicle/SM_CR02_FDoor_Left_SM_CR02_FDoor_L_01_LOD0.SM_CR02_FDoor_Left_SM_CR02_FDoor_L_01_LOD0
+[2020.08.16-17.37.13:539][194]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.16-17.37.14:000][194]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\GameDev\GameAssets\ProjectFiles\Vigilance 01\Vehicle\SM_CR02_FDoor_Right.FBX)
+[2020.08.16-17.37.14:032][194]LogFbx: Loading FBX Scene from E:\GameDev\GameAssets\ProjectFiles\Vigilance 01\Vehicle\SM_CR02_FDoor_Right.FBX
+[2020.08.16-17.37.14:085][194]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-17.37.14:087][194]LogFbx: Warning: Triangulating mesh UCX_SM_CR02_FDoor_R_01_LOD0 for collision model
+[2020.08.16-17.37.14:239][194]LogStaticMesh: Building static mesh SM_CR02_FDoor_Right_SM_CR02_FDoor_R_01_LOD0...
+[2020.08.16-17.37.14:349][194]LogStaticMesh: Built static mesh [0.12s] /Game/GameContent/Vehicle/SM_CR02_FDoor_Right_SM_CR02_FDoor_R_01_LOD0.SM_CR02_FDoor_Right_SM_CR02_FDoor_R_01_LOD0
+[2020.08.16-17.37.14:475][194]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.16-17.37.23:492][352]LogSavePackage: Save=112.94ms
+[2020.08.16-17.37.23:492][352]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/RTC_Character_UE4Root_Skeleton12BE121A4D8BF317C99B68827DF15822.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/RTC_Character_UE4Root_Skeleton.uasset'
+[2020.08.16-17.37.23:518][352]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/RTC_Character_UE4Root_Skeleton.uasset
+[2020.08.16-17.37.23:753][352]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2020.08.16-17.37.23:770][352]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ALS_N_Sprint_F) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.37.23:957][352]LogSavePackage: Save=303.07ms
+[2020.08.16-17.37.23:957][352]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/ALS_N_Sprint_FDFF56FA3421357A2DADA5FBA994D23A1.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset'
+[2020.08.16-17.37.23:960][352]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/NewFolder/ALS_N_Sprint_F.uasset
+[2020.08.16-17.37.24:172][352]LogSavePackage: Save=123.42ms
+[2020.08.16-17.37.24:173][352]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SM_CR02_Body_SM_CR02_Body_LOD076624D944AD3F6C9407F0B8CE99CC127.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/SM_CR02_Body_SM_CR02_Body_LOD0.uasset'
+[2020.08.16-17.37.24:175][352]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/SM_CR02_Body_SM_CR02_Body_LOD0.uasset
+[2020.08.16-17.37.24:324][352]LogSavePackage: Save=60.69ms
+[2020.08.16-17.37.24:325][352]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SM_CR02_FDoor_Left_SM_CR02_FDoorAE753B2847793673F1B33EB70AB1FF66.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/SM_CR02_FDoor_Left_SM_CR02_FDoor_L_01_LOD0.uasset'
+[2020.08.16-17.37.24:327][352]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/SM_CR02_FDoor_Left_SM_CR02_FDoor_L_01_LOD0.uasset
+[2020.08.16-17.37.24:398][352]LogSavePackage: Save=25.52ms
+[2020.08.16-17.37.24:398][352]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SM_CR02_FDoor_Right_SM_CR02_FDoo073920F044185B2054CC47915C25204D.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/SM_CR02_FDoor_Right_SM_CR02_FDoor_R_01_LOD0.uasset'
+[2020.08.16-17.37.24:401][352]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/SM_CR02_FDoor_Right_SM_CR02_FDoor_R_01_LOD0.uasset
+[2020.08.16-17.37.25:135][352]LogSavePackage: Save=686.19ms
+[2020.08.16-17.37.25:135][352]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/UE4_Mannequin_SkeletonC96D44934927BA26A513E4A47174E5C0.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.08.16-17.37.25:175][352]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2020.08.16-17.50.49:117][715]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Car/Driving.fbx)
+[2020.08.16-17.50.49:169][715]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.08.16-17.50.49:169][715]LogFbx: ItemName: NodeAttribute, ItemCount : 66
+[2020.08.16-17.50.49:169][715]LogFbx: ItemName: Model, ItemCount : 66
+[2020.08.16-17.50.49:169][715]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2020.08.16-17.50.49:169][715]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2020.08.16-17.50.49:169][715]LogFbx: ItemName: AnimationCurveNode, ItemCount : 198
+[2020.08.16-17.50.49:169][715]LogFbx: ItemName: AnimationCurve, ItemCount : 591
+[2020.08.16-17.50.49:175][715]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Car/Driving.fbx
+[2020.08.16-17.50.49:678][715]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-17.50.51:253][715]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Car/Driving.fbx
+[2020.08.16-17.50.51:319][715]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-17.50.51:450][715]LogFbx: SortedLinks :(0) root
+[2020.08.16-17.50.51:450][715]LogFbx: SortedLinks :(1) Pelvis
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(2) spine_01
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(3) spine_02
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(4) spine_03
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(5) neck_01
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(6) head
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(7) End
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(8) clavicle_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(9) upperarm_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(10) lowerarm_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(11) hand_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(12) thumb_01_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(13) thumb_02_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(14) thumb_03_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(16) index_01_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(17) index_02_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(18) index_03_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(19) LeftHandIndex4
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(20) middle_01_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(21) middle_02_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(22) middle_03_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(23) LeftHandMiddle4
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(24) ring_01_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(25) ring_02_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(26) ring_03_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(27) LeftHandRing4
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(28) pinky_01_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(29) pinky_02_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(30) pinky_03_l
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(31) LeftHandPinky4
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(32) clavicle_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(33) upperarm_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(34) lowerarm_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(35) hand_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(36) thumb_01_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(37) thumb_02_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(38) thumb_03_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(39) RightHandThumb4
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(40) index_01_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(41) index_02_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(42) index_03_r
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(43) RightHandIndex4
+[2020.08.16-17.50.51:451][715]LogFbx: SortedLinks :(44) middle_01_r
+[2020.08.16-17.50.51:452][715]LogFbx: SortedLinks :(45) middle_02_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(46) middle_03_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(47) RightHandMiddle4
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(48) ring_01_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(49) ring_02_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(50) ring_03_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(51) RightHandRing4
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(52) pinky_01_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(53) pinky_02_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(54) pinky_03_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(55) RightHandPinky4
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(56) thigh_l
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(57) calf_l
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(58) foot_l
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(59) ball_l
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(60) End_001
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(61) thigh_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(62) calf_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(63) foot_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(64) ball_r
+[2020.08.16-17.50.51:470][715]LogFbx: SortedLinks :(65) End_002
+[2020.08.16-17.50.51:474][715]LogFbx: Parsing AnimStack root|Armature|mixamo.com|Layer0
+[2020.08.16-17.50.51:552][715]LogLinker: Can't find file '/Game/GameContent/Animations/Mixamo/Driving'
+[2020.08.16-17.50.51:571][715]LogLinker: Can't find file '/Game/GameContent/Animations/Mixamo/Driving'
+[2020.08.16-17.52.02:106][715]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Mixamo/Driving.Driving
+[2020.08.16-17.52.02:160][715]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Driving) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.52.04:351][715]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_3.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:094B
+[2020.08.16-17.52.10:737][715]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Car/Entering Car.fbx)
+[2020.08.16-17.52.10:881][715]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Car/Entering Car.fbx
+[2020.08.16-17.52.11:182][715]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(0) root
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(1) Pelvis
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(2) spine_01
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(3) spine_02
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(4) spine_03
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(5) neck_01
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(6) head
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(7) End
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(8) clavicle_l
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(9) upperarm_l
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(10) lowerarm_l
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(11) hand_l
+[2020.08.16-17.52.11:185][715]LogFbx: SortedLinks :(12) thumb_01_l
+[2020.08.16-17.52.11:186][715]LogFbx: SortedLinks :(13) thumb_02_l
+[2020.08.16-17.52.11:186][715]LogFbx: SortedLinks :(14) thumb_03_l
+[2020.08.16-17.52.11:186][715]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.08.16-17.52.11:186][715]LogFbx: SortedLinks :(16) index_01_l
+[2020.08.16-17.52.11:186][715]LogFbx: SortedLinks :(17) index_02_l
+[2020.08.16-17.52.11:186][715]LogFbx: SortedLinks :(18) index_03_l
+[2020.08.16-17.52.11:186][715]LogFbx: SortedLinks :(19) LeftHandIndex4
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(20) middle_01_l
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(21) middle_02_l
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(22) middle_03_l
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(23) LeftHandMiddle4
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(24) ring_01_l
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(25) ring_02_l
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(26) ring_03_l
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(27) LeftHandRing4
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(28) pinky_01_l
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(29) pinky_02_l
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(30) pinky_03_l
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(31) LeftHandPinky4
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(32) clavicle_r
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(33) upperarm_r
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(34) lowerarm_r
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(35) hand_r
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(36) thumb_01_r
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(37) thumb_02_r
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(38) thumb_03_r
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(39) RightHandThumb4
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(40) index_01_r
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(41) index_02_r
+[2020.08.16-17.52.11:197][715]LogFbx: SortedLinks :(42) index_03_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(43) RightHandIndex4
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(44) middle_01_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(45) middle_02_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(46) middle_03_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(47) RightHandMiddle4
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(48) ring_01_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(49) ring_02_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(50) ring_03_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(51) RightHandRing4
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(52) pinky_01_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(53) pinky_02_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(54) pinky_03_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(55) RightHandPinky4
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(56) thigh_l
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(57) calf_l
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(58) foot_l
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(59) ball_l
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(60) End_001
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(61) thigh_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(62) calf_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(63) foot_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(64) ball_r
+[2020.08.16-17.52.11:198][715]LogFbx: SortedLinks :(65) End_002
+[2020.08.16-17.52.11:201][715]LogFbx: Parsing AnimStack root|Armature|mixamo.com|Layer0
+[2020.08.16-17.52.11:226][715]LogLinker: Can't find file '/Game/GameContent/Animations/Mixamo/Entering_Car'
+[2020.08.16-17.52.11:226][715]LogLinker: Can't find file '/Game/GameContent/Animations/Mixamo/Entering_Car'
+[2020.08.16-17.53.30:215][715]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Mixamo/Entering_Car.Entering_Car
+[2020.08.16-17.53.30:291][715]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Entering_Car) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.53.30:926][715]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_3.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:094B
+[2020.08.16-17.53.31:362][715]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Car/Exiting Car.fbx)
+[2020.08.16-17.53.31:380][715]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Animations/MQ/Car/Exiting Car.fbx
+[2020.08.16-17.53.31:471][715]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.16-17.53.31:477][715]LogFbx: SortedLinks :(0) root
+[2020.08.16-17.53.31:477][715]LogFbx: SortedLinks :(1) Pelvis
+[2020.08.16-17.53.31:477][715]LogFbx: SortedLinks :(2) spine_01
+[2020.08.16-17.53.31:477][715]LogFbx: SortedLinks :(3) spine_02
+[2020.08.16-17.53.31:477][715]LogFbx: SortedLinks :(4) spine_03
+[2020.08.16-17.53.31:477][715]LogFbx: SortedLinks :(5) neck_01
+[2020.08.16-17.53.31:477][715]LogFbx: SortedLinks :(6) head
+[2020.08.16-17.53.31:477][715]LogFbx: SortedLinks :(7) End
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(8) clavicle_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(9) upperarm_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(10) lowerarm_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(11) hand_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(12) thumb_01_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(13) thumb_02_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(14) thumb_03_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(16) index_01_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(17) index_02_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(18) index_03_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(19) LeftHandIndex4
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(20) middle_01_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(21) middle_02_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(22) middle_03_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(23) LeftHandMiddle4
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(24) ring_01_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(25) ring_02_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(26) ring_03_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(27) LeftHandRing4
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(28) pinky_01_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(29) pinky_02_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(30) pinky_03_l
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(31) LeftHandPinky4
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(32) clavicle_r
+[2020.08.16-17.53.31:478][715]LogFbx: SortedLinks :(33) upperarm_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(34) lowerarm_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(35) hand_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(36) thumb_01_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(37) thumb_02_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(38) thumb_03_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(39) RightHandThumb4
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(40) index_01_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(41) index_02_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(42) index_03_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(43) RightHandIndex4
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(44) middle_01_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(45) middle_02_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(46) middle_03_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(47) RightHandMiddle4
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(48) ring_01_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(49) ring_02_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(50) ring_03_r
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(51) RightHandRing4
+[2020.08.16-17.53.31:479][715]LogFbx: SortedLinks :(52) pinky_01_r
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(53) pinky_02_r
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(54) pinky_03_r
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(55) RightHandPinky4
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(56) thigh_l
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(57) calf_l
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(58) foot_l
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(59) ball_l
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(60) End_001
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(61) thigh_r
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(62) calf_r
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(63) foot_r
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(64) ball_r
+[2020.08.16-17.53.31:492][715]LogFbx: SortedLinks :(65) End_002
+[2020.08.16-17.53.31:496][715]LogFbx: Parsing AnimStack root|Armature|mixamo.com|Layer0
+[2020.08.16-17.53.31:534][715]LogLinker: Can't find file '/Game/GameContent/Animations/Mixamo/Exiting_Car'
+[2020.08.16-17.53.31:534][715]LogLinker: Can't find file '/Game/GameContent/Animations/Mixamo/Exiting_Car'
+[2020.08.16-17.54.52:899][715]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Mixamo/Exiting_Car.Exiting_Car
+[2020.08.16-17.54.53:021][715]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Exiting_Car) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.54.53:735][715]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_3.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:094B
+[2020.08.16-17.55.05:374][922]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_71:PersistentLevel.Actor_18.DebugSkelMeshComponent_56) Already registered. Aborting.
+[2020.08.16-17.55.12:256][922]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-17.56.24:465][996]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.08.16-17.56.37:113][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Driving.Driving
+[2020.08.16-17.56.37:246][112]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_22) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.56.38:097][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Driving.Driving
+[2020.08.16-17.56.38:163][112]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_23) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.56.39:406][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Driving.Driving
+[2020.08.16-17.56.39:665][112]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_24) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.56.41:905][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Entering_Car.Entering_Car
+[2020.08.16-17.56.42:045][112]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_25) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.56.42:932][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Entering_Car.Entering_Car
+[2020.08.16-17.56.43:092][112]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_26) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.56.44:802][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Entering_Car.Entering_Car
+[2020.08.16-17.56.44:900][112]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_27) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.56.47:072][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Exiting_Car.Exiting_Car
+[2020.08.16-17.56.47:249][112]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_28) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.56.48:680][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Exiting_Car.Exiting_Car
+[2020.08.16-17.56.49:460][112]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_29) using current/default (AnimCompress_BitwiseCompressOnly_36) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.56.50:926][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Exiting_Car.Exiting_Car
+[2020.08.16-17.56.51:461][112]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_30) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.08.16-17.58.44:845][355]LogSavePackage: Save=1244.03ms
+[2020.08.16-17.58.44:869][355]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/UE4_Mannequin_SkeletonC59261FC464E0B0530CFA1B3F763778B.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.08.16-17.58.45:455][355]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2020.08.16-17.58.45:748][355]LogSavePackage: Save=93.13ms
+[2020.08.16-17.58.45:749][355]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/RTC_Character_UE4Root_Skeleton926B72B443C79B1DF44831A04ED28BD6.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/RTC_Character_UE4Root_Skeleton.uasset'
+[2020.08.16-17.58.45:834][355]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/RTC_Character_UE4Root_Skeleton.uasset
+[2020.08.16-17.58.46:254][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Animations/Mixamo/Driving" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Driving.uasset" SILENT=true
+[2020.08.16-17.58.47:277][355]LogSavePackage: Save=997.62ms
+[2020.08.16-17.58.47:278][355]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/DrivingF9EB81B24B1A61B0118517A595695598.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Driving.uasset'
+[2020.08.16-17.58.47:280][355]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Driving.uasset
+[2020.08.16-17.58.47:787][355]LogSavePackage: Save=415.19ms
+[2020.08.16-17.58.47:787][355]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Entering_Car5A51FDE043C9F86616FD3D87F68582FD.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Entering_Car.uasset'
+[2020.08.16-17.58.47:800][355]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Entering_Car.uasset
+[2020.08.16-17.58.47:842][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Animations/Mixamo/Exiting_Car" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Exiting_Car.uasset" SILENT=true
+[2020.08.16-17.58.48:109][355]LogSavePackage: Save=265.68ms
+[2020.08.16-17.58.48:110][355]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Exiting_Car6322ACA047F9AABB5D445FB2A4ED4DAE.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Exiting_Car.uasset'
+[2020.08.16-17.58.48:113][355]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Mixamo/Exiting_Car.uasset
+[2020.08.16-17.58.48:167][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Animations/Car/Driving" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Car/Driving.uasset" SILENT=true
+[2020.08.16-17.58.48:724][355]LogSavePackage: Save=463.38ms
+[2020.08.16-17.58.48:724][355]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Driving0B37206E4A632D4926C459AC4546D19A.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Car/Driving.uasset'
+[2020.08.16-17.58.48:726][355]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Car/Driving.uasset
+[2020.08.16-17.58.48:837][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Animations/Car/Entering_Car" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Car/Entering_Car.uasset" SILENT=true
+[2020.08.16-17.58.50:895][355]LogSavePackage: Save=2055.62ms
+[2020.08.16-17.58.50:955][355]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Entering_CarCA83C0E740A3846B01920EA48A38B5B8.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Car/Entering_Car.uasset'
+[2020.08.16-17.58.50:958][355]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Car/Entering_Car.uasset
+[2020.08.16-17.58.51:150][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Animations/Car/Exiting_Car" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Car/Exiting_Car.uasset" SILENT=true
+[2020.08.16-17.58.51:481][355]LogSavePackage: Save=328.28ms
+[2020.08.16-17.58.51:481][355]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Exiting_CarE180E1274C89F24C8E7F47BB59E94907.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Car/Exiting_Car.uasset'
+[2020.08.16-17.58.51:483][355]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Animations/Car/Exiting_Car.uasset
+[2020.08.16-17.59.55:893][700]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.Actor_19.DebugSkelMeshComponent_61) Already registered. Aborting.
+[2020.08.16-17.59.57:481][700]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_76:PersistentLevel.Actor_19.DebugSkelMeshComponent_61) - call TermArticulated first.
+[2020.08.16-18.00.17:787][703]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.08.16-18.12.44:345][964]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.16-18.12.45:249][975]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.16-18.12.46:264][  2]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.16-18.13.14:858][714]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.16-18.15.05:315][524]LogEditorTransaction: Undo Set Location
+[2020.08.16-18.15.15:055][524]LogStats: FPlatformStackWalk::StackWalkAndDump -  9.649 s
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: 
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: 
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: Stack: 
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x000000006FC62786 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x000000006FA0123A UE4Editor-Core.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x000000006FA1B906 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x0000000069CB0B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x0000000069C5DD9F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x000000006334C07B UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x000000006334CE85 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x00000000632EFB10 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x00000000632F4747 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x000000006EF11290 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x000000006EF05FD1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x000000006EED4A47 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:058][524]LogOutputDevice: Error: [Callstack] 0x000000006EED6C17 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006EF73675 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006ED88CAA UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006ED28824 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000691E9844 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000068F81859 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000068F1092C UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000068F1562C UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000692DAC89 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000069280AAB UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000069284A4A UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000069282DD7 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000692E12CC UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000068EBD7B0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000068F3DA3D UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000068F8E0CD UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000069C5EA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000069C86112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000069C6DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000069C6E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000069CD28FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000069D15A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000068F10FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000068F15D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006ED29636 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006ED683A0 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006A4CBE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006A4B7803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006ED163A1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006ECE700E UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006ECE8C16 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006ED6988C UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x000000006ED5BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000070BBE28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000070BB1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000070BC03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000070BAD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000A5A2E338 USER32.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000A5A2DD79 USER32.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x0000000070BC1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000F3B250C8 UE4Editor.exe!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000F3B35430 UE4Editor.exe!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000F3B354AA UE4Editor.exe!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000F3B42379 UE4Editor.exe!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000F3B43D57 UE4Editor.exe!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000A5BD6FD4 KERNEL32.DLL!UnknownFunction []
+[2020.08.16-18.15.15:059][524]LogOutputDevice: Error: [Callstack] 0x00000000A5FBCEC1 ntdll.dll!UnknownFunction []
+[2020.08.16-18.15.15:060][524]LogOutputDevice: Error: 
+[2020.08.16-18.15.15:083][524]LogStats:                SubmitErrorReport -  0.016 s
