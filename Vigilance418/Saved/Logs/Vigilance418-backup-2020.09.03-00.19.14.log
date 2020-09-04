@@ -1,0 +1,993 @@
+﻿Log file open, 09/02/20 15:50:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vigilance418
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1140877216) SRandInit(1140877217).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.177343
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/RootMotionExtractor/Binaries/Win64/UE4Editor-RootMotionExtractor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RootMotionExtractor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.09.02-09.51.00:754][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.02-09.51.00:755][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.02-09.51.01:149][  0]LogInit: Computer: ISHRAQ-PC
+[2020.09.02-09.51.01:149][  0]LogInit: User: farha
+[2020.09.02-09.51.01:149][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.09.02-09.51.01:149][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.02-09.51.01:189][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.09.02-09.51.01:194][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.02-09.51.01:194][  0]LogMemory: Process Physical Memory: 214.10 MB used, 214.10 MB peak
+[2020.09.02-09.51.01:194][  0]LogMemory: Process Virtual Memory: 280.41 MB used, 280.41 MB peak
+[2020.09.02-09.51.01:194][  0]LogMemory: Physical Memory: 3748.52 MB used,  228.50 MB free, 3977.01 MB total
+[2020.09.02-09.51.01:194][  0]LogMemory: Virtual Memory: 4770.80 MB used,  228.50 MB free, 134217728.00 MB total
+[2020.09.02-09.51.29:760][  0]LogInit: Using OS detected language (en-US).
+[2020.09.02-09.51.29:760][  0]LogInit: Using OS detected locale (en-US).
+[2020.09.02-09.51.31:539][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.09.02-09.51.42:391][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.02-09.52.04:469][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.02-09.52.04:896][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.09.02-09.52.04:896][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.09.02-09.52.05:055][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.02-09.52.05:055][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.02-09.52.05:055][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.02-09.52.05:092][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.02-09.52.05:120][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.02-09.52.05:132][  0]LogWindows: EnumDisplayDevices:
+[2020.09.02-09.52.05:132][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.09.02-09.52.05:132][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.09.02-09.52.05:132][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.09.02-09.52.05:132][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.09.02-09.52.05:132][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.09.02-09.52.05:132][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.09.02-09.52.05:132][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.09.02-09.52.05:136][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.02-09.52.06:498][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.09.02-09.52.06:788][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GITHUB/vigilance_4.18/Vigilance418/Intermediate/Shaders/WorkingDirectory/5140/).
+[2020.09.02-09.52.06:867][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/D5933F0442A80EB56525B3BC4C9B6575/'.
+[2020.09.02-09.52.06:867][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.02-09.52.24:887][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.09.02-09.52.25:015][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.09.02-09.52.25:136][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.09.02-09.52.25:276][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.09.02-09.52.25:711][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.09.02-09.52.26:096][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.09.02-09.52.26:371][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.09.02-09.52.26:678][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.09.02-09.52.26:865][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.09.02-09.52.27:155][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.09.02-09.52.27:310][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.09.02-09.52.27:454][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.09.02-09.52.27:560][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.09.02-09.52.27:708][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.09.02-09.52.28:073][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.09.02-09.52.28:073][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.09.02-09.52.28:455][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.09.02-09.52.28:756][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.09.02-09.52.29:491][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.09.02-09.52.29:603][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.09.02-09.52.29:836][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.09.02-09.52.29:990][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.09.02-09.52.30:275][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.09.02-09.52.30:571][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.09.02-09.52.30:571][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.02-09.52.35:605][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.02-09.52.45:740][  0]LogDerivedDataCache: Loaded boot cache 10.12s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.09.02-09.52.45:741][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.09.02-09.52.45:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.02-09.52.45:741][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.02-09.52.45:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.02-09.52.45:741][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.02-09.52.45:842][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.02-09.52.45:900][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.02-09.52.45:986][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.09.02-09.52.46:022][  0]LogSlate: Using Freetype 2.6.0
+[2020.09.02-09.52.46:084][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.02-09.52.46:085][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.02-09.52.56:188][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.02-09.52.58:617][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.09.02-09.52.58:744][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.09.02-09.52.58:749][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.02-09.52.58:757][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.09.02-09.52.58:757][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.09.02-09.52.58:757][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.09.02-09.52.59:039][  0]LogNetVersion: Vigilance418 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 63410103)
+[2020.09.02-09.53.01:336][  0]LogAssetRegistry: FAssetRegistry took 0.0293 seconds to start up
+[2020.09.02-09.53.09:610][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.237505 seconds
+[2020.09.02-09.53.09:617][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.09.02-09.53.09:617][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.09.02-09.53.09:618][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.02-09.53.09:829][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.09.02-09.53.35:969][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.02-09.53.36:098][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.02-09.53.38:590][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.09.02-09.53.40:355][  0]SourceControl: Source control is disabled
+[2020.09.02-09.53.40:355][  0]SourceControl: Source control is disabled
+[2020.09.02-09.53.40:656][  0]SourceControl: Source control is disabled
+[2020.09.02-09.53.41:064][  0]SourceControl: Source control is disabled
+[2020.09.02-09.53.45:557][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.02-09.53.46:253][  0]LogOcInput: OculusInput pre-init called
+[2020.09.02-09.53.47:693][  0]LogEngine: Initializing Engine...
+[2020.09.02-09.53.47:752][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.02-09.53.49:249][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.09.02-09.53.49:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.09.02-09.53.49:574][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.02-09.53.49:630][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-09.53.49:702][  0]LogInit: FAudioDevice initialized.
+[2020.09.02-09.53.49:974][  0]LogDerivedDataCache: Saved boot cache 0.27s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.09.02-09.53.50:103][  0]LogInit: Texture streaming: Enabled
+[2020.09.02-09.53.50:963][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.02-09.53.51:343][  0]LogInit: Transaction tracking system initialized
+[2020.09.02-09.53.52:478][  0]BlueprintLog: New page: Editor Load
+[2020.09.02-09.53.55:245][  0]LocalizationService: Localization service is disabled
+[2020.09.02-09.53.57:763][  0]LogConsoleResponse: Display: 
+[2020.09.02-09.54.00:236][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.02-09.54.00:259][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.02-09.54.00:259][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.09.02-09.54.01:885][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' took 1.81s
+[2020.09.02-09.54.04:891][  0]SourceControl: Source control is disabled
+[2020.09.02-09.54.04:924][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/NewDemoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.09.02-09.54.04:933][  0]LightingResults: New page: Lighting Build
+[2020.09.02-09.54.05:074][  0]MapCheck: New page: Map Check
+[2020.09.02-09.54.05:074][  0]LightingResults: New page: Lighting Build
+[2020.09.02-09.54.57:954][  0]LogAIModule: Creating AISystem for world NewDemoTestMap
+[2020.09.02-09.54.59:453][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.02-09.54.59:934][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.02-09.55.00:293][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 331.36ms to complete.
+[2020.09.02-09.55.00:350][  0]LogFileHelpers: Loading map 'NewDemoTestMap' took 55.427
+[2020.09.02-09.55.07:903][  0]LogCollectionManager: Loaded 0 collections in 0.034328 seconds
+[2020.09.02-09.55.08:313][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' took 0.01s
+[2020.09.02-09.55.08:313][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' took 0.01s
+[2020.09.02-09.55.08:313][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' took 0.01s
+[2020.09.02-09.55.08:314][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.09.02-09.55.08:356][  0]LogContentBrowser: Native class hierarchy populated in 0.0238 seconds. Added 2364 classes and 521 folders.
+[2020.09.02-09.55.08:691][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.02-09.55.11:876][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.09.02-09.55.12:828][  0]LogSlate: Took 0.036487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.02-09.55.12:988][  0]LogSlate: Took 0.011621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.02-09.55.14:299][  0]LogRenderer: Reallocating scene render targets to support 1044x656 Format 9 NumSamples 1 (Frame:1).
+[2020.09.02-09.55.22:466][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.09.02-09.55.22:466][  0]LogLoad: (Engine Initialization) Total time: 340.80 seconds
+[2020.09.02-09.55.22:466][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.02-09.55.22:590][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.09.02-09.55.23:716][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.09.02-09.55.28:681][  8]LogAssetRegistry: Asset discovery search completed in 147.3685 seconds
+[2020.09.02-09.55.28:732][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.09.02-09.55.28:734][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012086 seconds (updated 0 objects)
+[2020.09.02-09.56.32:817][230]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.09.02-09.56.37:463][230]LogSlate: Took 0.119897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.02-09.58.02:061][522]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:094B
+[2020.09.02-09.58.04:167][616]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.02-09.58.10:073][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-09.58.10:359][616]PIE: New page: PIE session: NewDemoTestMap (Sep 2, 2020, 9:58:10 PM)
+[2020.09.02-09.58.10:530][616]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewDemoTestMap
+[2020.09.02-09.58.10:959][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.430241s)
+[2020.09.02-09.58.10:960][616]LogAIModule: Creating AISystem for world NewDemoTestMap
+[2020.09.02-09.58.10:975][616]LogPlayLevel: PIE: World Init took: (0.015409s)
+[2020.09.02-09.58.10:986][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewDemoTestMap.NewDemoTestMap to /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap (0.468266s)
+[2020.09.02-09.58.11:261][616]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-09.58.11:269][616]LogInit: FAudioDevice initialized.
+[2020.09.02-09.58.11:407][616]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.02-09.58.11:623][616]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap up for play (max tick rate 3) at 2020.09.02-15.58.11
+[2020.09.02-09.58.11:981][616]LogWorld: Bringing up level for play took: 0.411843
+[2020.09.02-09.58.12:282][616]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0060 seconds. Added 11 classes and 0 folders.
+[2020.09.02-09.58.12:288][616]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-09.58.12:288][616]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-09.58.12:288][616]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-09.58.13:076][616]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-09.58.13:100][616]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewDemoTestMap 3.97
+[2020.09.02-11.00.57:393][398]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.02-11.00.57:529][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-11.00.57:530][398]PIE: New page: PIE session: NewDemoTestMap (Sep 2, 2020, 11:00:57 PM)
+[2020.09.02-11.00.57:533][398]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewDemoTestMap
+[2020.09.02-11.00.57:879][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.345744s)
+[2020.09.02-11.00.57:881][398]LogAIModule: Creating AISystem for world NewDemoTestMap
+[2020.09.02-11.00.57:883][398]LogPlayLevel: PIE: World Init took: (0.003894s)
+[2020.09.02-11.00.57:885][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewDemoTestMap.NewDemoTestMap to /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap (0.352058s)
+[2020.09.02-11.00.57:974][398]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-11.00.57:983][398]LogInit: FAudioDevice initialized.
+[2020.09.02-11.00.58:032][398]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.02-11.00.58:062][398]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap up for play (max tick rate 60) at 2020.09.02-17.00.58
+[2020.09.02-11.00.58:067][398]LogWorld: Bringing up level for play took: 0.034314
+[2020.09.02-11.00.58:068][398]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.00.58:069][398]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.00.58:069][398]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.00.58:104][398]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.00.58:104][398]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewDemoTestMap 0.975
+[2020.09.02-11.01.24:259][340]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.02-11.01.24:314][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-11.01.24:314][340]PIE: New page: PIE session: NewDemoTestMap (Sep 2, 2020, 11:01:24 PM)
+[2020.09.02-11.01.24:314][340]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewDemoTestMap
+[2020.09.02-11.01.24:365][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050615s)
+[2020.09.02-11.01.24:366][340]LogAIModule: Creating AISystem for world NewDemoTestMap
+[2020.09.02-11.01.24:366][340]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2020.09.02-11.01.24:367][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewDemoTestMap.NewDemoTestMap to /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap (0.052228s)
+[2020.09.02-11.01.24:396][340]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-11.01.24:403][340]LogInit: FAudioDevice initialized.
+[2020.09.02-11.01.24:439][340]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.02-11.01.24:460][340]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap up for play (max tick rate 60) at 2020.09.02-17.01.24
+[2020.09.02-11.01.24:464][340]LogWorld: Bringing up level for play took: 0.024048
+[2020.09.02-11.01.24:465][340]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.01.24:465][340]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.01.24:465][340]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.01.24:486][340]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.01.24:486][340]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewDemoTestMap -0.644
+[2020.09.02-11.01.26:460][397]Cmd: LevelEditor.ToggleImmersive
+[2020.09.02-11.02.05:356][510]LogConsoleResponse: Display: 
+[2020.09.02-11.02.05:376][511]LogRenderer: Reallocating scene render targets to support 1180x656 Format 9 NumSamples 1 (Frame:1172).
+[2020.09.02-11.02.09:252][547]LogConsoleResponse: Display: 
+[2020.09.02-11.02.48:375][807]LogRenderer: Reallocating scene render targets to support 1360x740 Format 9 NumSamples 1 (Frame:21).
+[2020.09.02-11.02.50:998][111]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.02-11.02.51:061][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-11.02.51:061][111]PIE: New page: PIE session: NewDemoTestMap (Sep 2, 2020, 11:02:51 PM)
+[2020.09.02-11.02.51:061][111]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewDemoTestMap
+[2020.09.02-11.02.51:107][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046016s)
+[2020.09.02-11.02.51:108][111]LogAIModule: Creating AISystem for world NewDemoTestMap
+[2020.09.02-11.02.51:109][111]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2020.09.02-11.02.51:109][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewDemoTestMap.NewDemoTestMap to /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap (0.047603s)
+[2020.09.02-11.02.51:136][111]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-11.02.51:144][111]LogInit: FAudioDevice initialized.
+[2020.09.02-11.02.51:178][111]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.02-11.02.51:199][111]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap up for play (max tick rate 144) at 2020.09.02-17.02.51
+[2020.09.02-11.02.51:203][111]LogWorld: Bringing up level for play took: 0.024864
+[2020.09.02-11.02.51:204][111]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.02.51:221][111]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.02.51:221][111]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.02.51:244][111]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.02.51:244][111]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewDemoTestMap 0.114
+[2020.09.02-11.03.13:432][611]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.02-11.03.13:500][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-11.03.13:501][611]PIE: New page: PIE session: NewDemoTestMap (Sep 2, 2020, 11:03:13 PM)
+[2020.09.02-11.03.13:501][611]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewDemoTestMap
+[2020.09.02-11.03.13:547][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045661s)
+[2020.09.02-11.03.13:548][611]LogAIModule: Creating AISystem for world NewDemoTestMap
+[2020.09.02-11.03.13:548][611]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2020.09.02-11.03.13:548][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewDemoTestMap.NewDemoTestMap to /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap (0.047090s)
+[2020.09.02-11.03.13:578][611]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-11.03.13:585][611]LogInit: FAudioDevice initialized.
+[2020.09.02-11.03.13:621][611]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.02-11.03.13:651][611]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap up for play (max tick rate 144) at 2020.09.02-17.03.13
+[2020.09.02-11.03.13:655][611]LogWorld: Bringing up level for play took: 0.033540
+[2020.09.02-11.03.13:656][611]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.03.13:656][611]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.03.13:656][611]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.03.13:695][611]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.03.13:695][611]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewDemoTestMap 0.566
+[2020.09.02-11.03.32:555][813]LogConsoleResponse: Display: 
+[2020.09.02-11.03.32:558][813]LogContentStreaming: Texture pool size now 400 MB
+[2020.09.02-11.03.32:622][815]LogRenderer: Reallocating scene render targets to support 1360x740 Format 9 NumSamples 1 (Frame:203).
+[2020.09.02-11.03.33:146][825]LogConsoleResponse: Display: 
+[2020.09.02-11.04.05:843][410]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.10:679][483]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.10:854][486]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.11:031][489]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.11:326][494]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 16 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.11:555][498]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 6 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.11:794][502]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.12:035][506]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.13:383][529]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.13:605][533]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.13:900][538]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.14:125][542]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.14:359][546]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.14:588][550]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.14:877][555]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.14:992][557]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.15:281][562]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.15:514][566]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.15:746][570]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.04.17:262][595]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/CustomBlueprints/Caller/Call_In_The_player_Apartment.Call_In_The_player_Apartment_C:ExecuteUbergraph_Call_In_The_player_Apartment'!
+[2020.09.02-11.05.01:496][405]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:549][406]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:602][407]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:643][408]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:695][409]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:741][410]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:788][411]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:836][412]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:889][413]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:938][414]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.01:990][415]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.02:038][416]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.02:090][417]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.02:141][418]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.02:195][419]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.02:244][420]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.05.02:293][421]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_4.WayPointerUI_C_8
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.06.28:341][167]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.06.32:066][247]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 21 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.06.35:467][320]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.06.37:474][363]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.06.38:965][395]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.06.39:164][399]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.07.22:729][303]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/Blueprints/CustomBlueprints/ApatmentInterrogation/TriggerApartmentInterrogation.TriggerApartmentInterrogation_C:ExecuteUbergraph_TriggerApartmentInterrogation'!
+[2020.09.02-11.07.22:729][303]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	TriggerApartmentInterrogation_C /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap:PersistentLevel.TriggerApartmentInterrogation_126
+	Function /Game/Blueprints/CustomBlueprints/ApatmentInterrogation/TriggerApartmentInterrogation.TriggerApartmentInterrogation_C:ExecuteUbergraph_TriggerApartmentInterrogation:1814
+[2020.09.02-11.07.22:865][303]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item2 from function: 'ExecuteUbergraph_TriggerApartmentInterrogation' from node: Show Way Point in graph: EventGraph in object: TriggerApartmentInterrogation with description: Accessed None trying to read property CallFunc_Array_Get_Item2
+[2020.09.02-11.07.34:087][540]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.07.43:253][261]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.02-11.07.43:309][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-11.07.43:310][261]PIE: New page: PIE session: NewDemoTestMap (Sep 2, 2020, 11:07:43 PM)
+[2020.09.02-11.07.43:310][261]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewDemoTestMap
+[2020.09.02-11.07.43:355][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045277s)
+[2020.09.02-11.07.43:356][261]LogAIModule: Creating AISystem for world NewDemoTestMap
+[2020.09.02-11.07.43:356][261]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2020.09.02-11.07.43:357][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewDemoTestMap.NewDemoTestMap to /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap (0.046921s)
+[2020.09.02-11.07.43:384][261]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-11.07.43:391][261]LogInit: FAudioDevice initialized.
+[2020.09.02-11.07.43:451][261]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.02-11.07.43:472][261]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap up for play (max tick rate 144) at 2020.09.02-17.07.43
+[2020.09.02-11.07.43:476][261]LogWorld: Bringing up level for play took: 0.023953
+[2020.09.02-11.07.43:477][261]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.07.43:477][261]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.02-11.07.43:477][261]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.07.43:497][261]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.02-11.07.43:497][261]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewDemoTestMap 0.368
+[2020.09.02-11.08.09:955][721]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.10:151][724]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.10:481][729]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 14 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.10:688][732]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 13 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.10:948][736]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 5 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.11:290][741]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 6 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.11:558][745]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 5 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.11:772][748]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 4 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.21:830][899]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.22:094][903]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.22:346][907]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 23 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.22:667][912]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 16 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.22:930][916]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 17 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.23:185][920]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 6 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.23:436][924]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 6 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.23:690][928]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 3 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.24:011][933]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.24:842][946]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Blueprints/CustomBlueprints/Caller/Call_In_The_player_Apartment.Call_In_The_player_Apartment_C:ExecuteUbergraph_Call_In_The_player_Apartment'!
+[2020.09.02-11.08.25:082][950]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.25:390][955]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.25:764][961]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 22 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.45:679][302]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 1 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.08.51:505][414]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.51:557][415]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.51:612][416]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.51:666][417]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.51:722][418]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.51:785][419]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.51:837][420]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.51:890][421]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.51:942][422]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.51:993][423]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.52:907][441]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.52:955][442]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:002][443]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:045][444]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:092][445]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:140][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:187][447]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:233][448]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:284][449]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:334][450]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:386][451]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:387][451]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:437][452]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:437][452]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:485][453]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:485][453]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:533][454]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:533][454]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:583][455]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:583][455]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:636][456]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:636][456]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:683][457]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_10
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.08.53:684][457]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	WayPointerUI_C /Engine/Transient.UnrealEdEngine_0:GameGI_C_5.WayPointerUI_C_11
+	Function /Game/Blueprints/CustomBlueprints/WayPoint/WayPointerUI.WayPointerUI_C:Get Player Distence:004E
+[2020.09.02-11.10.28:809][328]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 69 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.10.29:236][336]LogCharacterMovement: Player_CharacterBP_94 is stuck and failed to move! Velocity: X=-0.17 Y=-0.23 Z=0.00 Location: X=-15876.67 Y=-13122.64 Z=110.06 Normal: X=0.89 Y=-0.46 Z=0.00 PenetrationDepth:0.544 Actor:PoliceWhenGettingMurderInfo_BP_14 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.09.02-11.10.45:291][668]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.10.47:285][710]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.11.08:476][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/CustomBlueprints/ApatmentInterrogation/TriggerApartmentInterrogation.TriggerApartmentInterrogation_C:ExecuteUbergraph_TriggerApartmentInterrogation'!
+[2020.09.02-11.11.08:476][159]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	TriggerApartmentInterrogation_C /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap:PersistentLevel.TriggerApartmentInterrogation_126
+	Function /Game/Blueprints/CustomBlueprints/ApatmentInterrogation/TriggerApartmentInterrogation.TriggerApartmentInterrogation_C:ExecuteUbergraph_TriggerApartmentInterrogation:1444
+[2020.09.02-11.11.08:477][159]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_TriggerApartmentInterrogation' from node: Show Way Point in graph: EventGraph in object: TriggerApartmentInterrogation with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2020.09.02-11.11.12:218][234]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/CustomBlueprints/ApatmentInterrogation/TriggerApartmentInterrogation.TriggerApartmentInterrogation_C:ExecuteUbergraph_TriggerApartmentInterrogation'!
+[2020.09.02-11.11.12:218][234]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	TriggerApartmentInterrogation_C /Game/Maps/UEDPIE_0_NewDemoTestMap.NewDemoTestMap:PersistentLevel.TriggerApartmentInterrogation_126
+	Function /Game/Blueprints/CustomBlueprints/ApatmentInterrogation/TriggerApartmentInterrogation.TriggerApartmentInterrogation_C:ExecuteUbergraph_TriggerApartmentInterrogation:1444
+[2020.09.02-11.11.12:220][234]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_TriggerApartmentInterrogation' from node: Show Way Point in graph: EventGraph in object: TriggerApartmentInterrogation with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2020.09.02-11.11.30:374][617]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.11.48:551][ 29]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.11.48:994][ 39]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.11.51:196][ 89]LogScriptCore: Warning: Script Msg: Attempted to access index -1 from array 'Hit Enemys Loco' of length 0 in '/Game/Blueprints/PlayerBlueprint/Player_CharacterBP.Player_CharacterBP_C:find Closes Enemy'!
+[2020.09.02-11.13.23:125][ 22]LogEditorViewport: Clicking on Actor (LMB): RandomCvilian_C (RandomCvilian2)
+[2020.09.02-11.13.45:844][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.02-11.13.46:376][438]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.09.02-11.13.48:135][545]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.02-11.13.49:129][546]Cmd: QUIT_EDITOR
+[2020.09.02-11.13.50:995][546]LogExit: Preparing to exit.
+[2020.09.02-11.14.01:808][546]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.09.02-11.14.08:054][546]LogExit: Editor shut down
+[2020.09.02-11.14.10:290][546]LogExit: Transaction tracking system shut down
+[2020.09.02-11.14.12:254][546]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.09.02-11.14.12:255][546]LogDirectoryWatcher: A directory notification for '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.09.02-11.14.12:255][546]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.09.02-11.14.12:255][546]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.09.02-11.14.12:255][546]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.09.02-11.14.12:255][546]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.09.02-11.14.12:255][546]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.09.02-11.14.22:354][546]LogExit: Object subsystem successfully closed.
+[2020.09.02-11.14.23:824][546]LogD3D11RHI: Shutdown
+[2020.09.02-11.14.23:852][546]LogD3D11RHI: CleanupD3DDevice
+[2020.09.02-11.14.23:948][546]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.09.02-11.14.25:186][546]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2020.09.02-11.14.25:213][546]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2020.09.02-11.14.25:213][546]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2020.09.02-11.14.25:225][546]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/' was aborted.
+[2020.09.02-11.14.25:233][546]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2020.09.02-11.14.25:233][546]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2020.09.02-11.14.25:233][546]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2020.09.02-11.14.25:295][546]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' was aborted.
+[2020.09.02-11.14.25:295][546]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' was aborted.
+[2020.09.02-11.14.25:295][546]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' was aborted.
+[2020.09.02-11.14.25:295][546]LogModuleManager: Shutting down and abandoning module SceneOutliner (540)
+[2020.09.02-11.14.25:306][546]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2020.09.02-11.14.25:325][546]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2020.09.02-11.14.25:336][546]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2020.09.02-11.14.25:456][546]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2020.09.02-11.14.25:488][546]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2020.09.02-11.14.25:489][546]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2020.09.02-11.14.25:489][546]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2020.09.02-11.14.25:489][546]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2020.09.02-11.14.25:489][546]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2020.09.02-11.14.25:489][546]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2020.09.02-11.14.25:489][546]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2020.09.02-11.14.25:557][546]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2020.09.02-11.14.25:585][546]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2020.09.02-11.14.25:591][546]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2020.09.02-11.14.25:591][546]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2020.09.02-11.14.25:678][546]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2020.09.02-11.14.25:707][546]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2020.09.02-11.14.25:724][546]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2020.09.02-11.14.25:737][546]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2020.09.02-11.14.25:738][546]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2020.09.02-11.14.25:738][546]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2020.09.02-11.14.25:761][546]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2020.09.02-11.14.25:761][546]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2020.09.02-11.14.25:783][546]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2020.09.02-11.14.25:821][546]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2020.09.02-11.14.25:840][546]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2020.09.02-11.14.25:880][546]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2020.09.02-11.14.25:905][546]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2020.09.02-11.14.25:905][546]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2020.09.02-11.14.25:905][546]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2020.09.02-11.14.25:905][546]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2020.09.02-11.14.26:044][546]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2020.09.02-11.14.26:069][546]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2020.09.02-11.14.26:069][546]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2020.09.02-11.14.26:069][546]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2020.09.02-11.14.26:094][546]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2020.09.02-11.14.26:108][546]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2020.09.02-11.14.26:108][546]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2020.09.02-11.14.26:125][546]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2020.09.02-11.14.26:125][546]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2020.09.02-11.14.26:173][546]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2020.09.02-11.14.26:190][546]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2020.09.02-11.14.26:190][546]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2020.09.02-11.14.26:190][546]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2020.09.02-11.14.26:191][546]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2020.09.02-11.14.26:233][546]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2020.09.02-11.14.26:233][546]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2020.09.02-11.14.26:233][546]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2020.09.02-11.14.26:233][546]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2020.09.02-11.14.26:233][546]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2020.09.02-11.14.26:278][546]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2020.09.02-11.14.26:301][546]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2020.09.02-11.14.26:323][546]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2020.09.02-11.14.26:329][546]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2020.09.02-11.14.26:340][546]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2020.09.02-11.14.26:395][546]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2020.09.02-11.14.26:476][546]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2020.09.02-11.14.26:541][546]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2020.09.02-11.14.26:668][546]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2020.09.02-11.14.26:668][546]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2020.09.02-11.14.26:683][546]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2020.09.02-11.14.26:711][546]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2020.09.02-11.14.26:856][546]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2020.09.02-11.14.26:856][546]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2020.09.02-11.14.26:856][546]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2020.09.02-11.14.26:917][546]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2020.09.02-11.14.26:939][546]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2020.09.02-11.14.26:939][546]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2020.09.02-11.14.26:967][546]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2020.09.02-11.14.27:014][546]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2020.09.02-11.14.27:056][546]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2020.09.02-11.14.27:061][546]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2020.09.02-11.14.27:062][546]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2020.09.02-11.14.27:091][546]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2020.09.02-11.14.27:091][546]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2020.09.02-11.14.27:211][546]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2020.09.02-11.14.27:233][546]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2020.09.02-11.14.27:233][546]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2020.09.02-11.14.27:233][546]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2020.09.02-11.14.27:233][546]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2020.09.02-11.14.27:243][546]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2020.09.02-11.14.27:243][546]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2020.09.02-11.14.27:243][546]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2020.09.02-11.14.27:250][546]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2020.09.02-11.14.27:250][546]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2020.09.02-11.14.27:250][546]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.09.02-11.14.27:250][546]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2020.09.02-11.14.27:276][546]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2020.09.02-11.14.27:276][546]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2020.09.02-11.14.27:276][546]LogModuleManager: Shutting down and abandoning module RootMotionExtractor (318)
+[2020.09.02-11.14.27:408][546]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2020.09.02-11.14.27:408][546]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2020.09.02-11.14.27:425][546]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2020.09.02-11.14.27:425][546]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2020.09.02-11.14.27:437][546]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2020.09.02-11.14.27:437][546]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2020.09.02-11.14.27:437][546]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2020.09.02-11.14.27:625][546]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2020.09.02-11.14.28:126][546]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2020.09.02-11.14.28:126][546]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2020.09.02-11.14.28:127][546]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2020.09.02-11.14.28:127][546]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2020.09.02-11.14.28:162][546]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2020.09.02-11.14.28:702][546]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2020.09.02-11.14.29:157][546]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2020.09.02-11.14.29:762][546]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2020.09.02-11.14.29:762][546]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2020.09.02-11.14.29:762][546]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2020.09.02-11.14.29:762][546]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2020.09.02-11.14.30:476][546]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2020.09.02-11.14.30:511][546]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2020.09.02-11.14.30:550][546]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2020.09.02-11.14.30:864][546]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2020.09.02-11.14.30:865][546]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2020.09.02-11.14.31:603][546]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2020.09.02-11.14.31:699][546]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2020.09.02-11.14.31:699][546]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2020.09.02-11.14.31:699][546]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2020.09.02-11.14.31:699][546]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2020.09.02-11.14.31:699][546]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2020.09.02-11.14.31:699][546]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2020.09.02-11.14.32:170][546]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2020.09.02-11.14.32:755][546]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2020.09.02-11.14.32:888][546]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.09.02-11.14.33:388][546]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.09.02-11.14.33:478][546]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.09.02-11.14.33:478][546]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.09.02-11.14.34:105][546]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.09.02-11.14.34:725][546]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.09.02-11.14.34:832][546]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.09.02-11.14.34:833][546]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.09.02-11.14.34:849][546]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.09.02-11.14.34:905][546]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.09.02-11.14.34:955][546]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.09.02-11.14.34:961][546]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.09.02-11.14.34:961][546]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.09.02-11.14.34:961][546]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.09.02-11.14.34:988][546]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.09.02-11.14.34:988][546]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.09.02-11.14.34:994][546]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.09.02-11.14.34:994][546]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.09.02-11.14.34:994][546]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.09.02-11.14.35:081][546]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.09.02-11.14.35:101][546]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.09.02-11.14.35:101][546]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.09.02-11.14.35:154][546]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.09.02-11.14.35:175][546]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.09.02-11.14.35:215][546]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.09.02-11.14.35:215][546]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.09.02-11.14.35:215][546]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.09.02-11.14.35:297][546]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.09.02-11.14.35:432][546]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.09.02-11.14.35:432][546]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.09.02-11.14.35:491][546]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.09.02-11.14.35:491][546]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.09.02-11.14.35:527][546]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.09.02-11.14.35:527][546]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.09.02-11.14.35:527][546]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.09.02-11.14.35:527][546]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.09.02-11.14.35:527][546]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.09.02-11.14.35:528][546]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.09.02-11.14.35:528][546]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.09.02-11.14.35:547][546]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.09.02-11.14.35:602][546]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.09.02-11.14.35:602][546]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.09.02-11.14.35:628][546]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.09.02-11.14.35:649][546]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.09.02-11.14.35:651][546]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.09.02-11.14.35:666][546]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.09.02-11.14.35:727][546]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.09.02-11.14.35:766][546]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.09.02-11.14.35:823][546]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.09.02-11.14.35:904][546]LogDerivedDataCache: Shutdown
+[2020.09.02-11.14.35:904][546]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.09.02-11.14.35:951][546]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.09.02-11.14.36:066][546]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.09.02-11.14.36:123][546]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.09.02-11.14.36:171][546]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.09.02-11.14.36:194][546]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.09.02-11.14.36:231][546]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.09.02-11.14.36:231][546]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.09.02-11.14.36:238][546]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.09.02-11.14.36:305][546]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.09.02-11.14.36:349][546]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.09.02-11.14.36:362][546]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.09.02-11.14.36:362][546]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.09.02-11.14.36:362][546]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.09.02-11.14.36:362][546]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.09.02-11.14.36:362][546]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.09.02-11.14.36:362][546]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.09.02-11.14.36:372][546]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.09.02-11.14.36:372][546]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.09.02-11.14.36:406][546]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.09.02-11.14.36:406][546]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.09.02-11.14.36:406][546]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.09.02-11.14.36:406][546]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.09.02-11.14.36:406][546]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.09.02-11.14.36:406][546]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.09.02-11.14.36:406][546]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.09.02-11.14.36:407][546]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.09.02-11.14.36:407][546]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.09.02-11.14.36:407][546]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.09.02-11.14.36:407][546]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.09.02-11.14.36:407][546]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.09.02-11.14.36:407][546]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.09.02-11.14.36:407][546]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.09.02-11.14.36:417][546]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.09.02-11.14.36:418][546]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.09.02-11.14.36:418][546]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.09.02-11.14.36:428][546]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.09.02-11.14.36:500][546]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.09.02-11.14.36:517][546]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.09.02-11.14.36:517][546]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.09.02-11.14.36:517][546]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.09.02-11.14.36:517][546]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.09.02-11.14.36:517][546]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.09.02-11.14.36:539][546]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.09.02-11.14.36:539][546]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.09.02-11.14.36:539][546]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.09.02-11.14.36:558][546]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.09.02-11.14.36:558][546]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.09.02-11.14.36:558][546]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.09.02-11.14.36:558][546]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.09.02-11.14.36:558][546]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.09.02-11.14.36:645][546]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.09.02-11.14.36:729][546]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.09.02-11.14.36:729][546]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.02-11.14.36:738][546]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC50E3774-4C64-771B-C996-43B35412CEAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dab985eb449ee4f1b342389e404cab9f%7C845779d9bd904572b61cf91381b7a44e%7C4e718ad1-99cd-4dc7-9063-d4e2b6f3fd7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.09.02-11.14.36:835][546]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.09.02-11.14.36:938][546]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.09.02-11.14.36:959][546]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.09.02-11.14.36:959][546]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.09.02-11.14.36:984][546]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.09.02-11.14.37:027][546]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.09.02-11.14.37:027][546]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.09.02-11.14.37:028][546]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.09.02-11.14.37:077][546]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.09.02-11.14.37:099][546]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.09.02-11.14.37:099][546]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.09.02-11.14.37:099][546]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.09.02-11.14.37:099][546]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.09.02-11.14.37:099][546]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.09.02-11.14.37:099][546]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.09.02-11.14.37:110][546]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.09.02-11.14.37:110][546]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.09.02-11.14.37:116][546]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.09.02-11.14.37:126][546]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.09.02-11.14.37:247][546]LogExit: Exiting.
+[2020.09.02-11.14.37:726][546]Log file closed, 09/02/20 17:14:37
