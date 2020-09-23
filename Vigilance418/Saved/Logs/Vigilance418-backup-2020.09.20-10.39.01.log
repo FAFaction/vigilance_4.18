@@ -1,0 +1,956 @@
+﻿Log file open, 09/19/20 18:58:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vigilance418
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1624631949) SRandInit(-1624631948).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.493566
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/RootMotionExtractor/Binaries/Win64/UE4Editor-RootMotionExtractor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RootMotionExtractor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.09.19-12.58.47:356][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.19-12.58.47:367][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.19-12.58.47:465][  0]LogInit: Computer: ISHRAQ-PC
+[2020.09.19-12.58.47:466][  0]LogInit: User: farha
+[2020.09.19-12.58.47:466][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.09.19-12.58.47:466][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.19-12.58.47:466][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.09.19-12.58.47:466][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.19-12.58.47:466][  0]LogMemory: Process Physical Memory: 275.40 MB used, 275.40 MB peak
+[2020.09.19-12.58.47:466][  0]LogMemory: Process Virtual Memory: 265.35 MB used, 265.35 MB peak
+[2020.09.19-12.58.47:466][  0]LogMemory: Physical Memory: 2198.71 MB used,  1778.30 MB free, 3977.01 MB total
+[2020.09.19-12.58.47:466][  0]LogMemory: Virtual Memory: 4755.68 MB used,  1778.30 MB free, 134217728.00 MB total
+[2020.09.19-12.58.48:893][  0]LogInit: Using OS detected language (en-US).
+[2020.09.19-12.58.48:893][  0]LogInit: Using OS detected locale (en-US).
+[2020.09.19-12.58.49:057][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.09.19-12.58.50:394][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.19-12.58.53:405][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.19-12.58.53:412][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.09.19-12.58.53:412][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.09.19-12.58.53:417][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.19-12.58.53:417][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.19-12.58.53:417][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.19-12.58.53:445][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.19-12.58.53:446][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.19-12.58.53:446][  0]LogWindows: EnumDisplayDevices:
+[2020.09.19-12.58.53:447][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.09.19-12.58.53:447][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.09.19-12.58.53:447][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.09.19-12.58.53:447][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.09.19-12.58.53:447][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.09.19-12.58.53:447][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.09.19-12.58.53:447][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.09.19-12.58.53:452][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.19-12.58.53:938][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.09.19-12.58.54:126][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GITHUB/vigilance_4.18/Vigilance418/Intermediate/Shaders/WorkingDirectory/5320/).
+[2020.09.19-12.58.54:126][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/90C5BCB3499041FEB18DEA83836F9CCE/'.
+[2020.09.19-12.58.54:131][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.19-12.59.04:856][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.09.19-12.59.04:934][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.09.19-12.59.05:008][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.09.19-12.59.05:118][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.09.19-12.59.05:242][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.09.19-12.59.05:346][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.09.19-12.59.05:429][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.09.19-12.59.05:500][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.09.19-12.59.05:603][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.09.19-12.59.05:728][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.09.19-12.59.05:827][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.09.19-12.59.06:005][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.09.19-12.59.06:079][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.09.19-12.59.06:194][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.09.19-12.59.06:394][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.09.19-12.59.06:394][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.09.19-12.59.06:529][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.09.19-12.59.06:641][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.09.19-12.59.07:019][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.09.19-12.59.07:094][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.09.19-12.59.07:212][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.09.19-12.59.07:338][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.09.19-12.59.07:445][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.09.19-12.59.07:550][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.09.19-12.59.07:550][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.19-12.59.10:630][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.19-12.59.12:719][  0]LogDerivedDataCache: Loaded boot cache 2.05s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.09.19-12.59.12:719][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.09.19-12.59.12:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.19-12.59.12:719][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.19-12.59.12:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.19-12.59.12:719][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.19-12.59.12:796][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.19-12.59.12:808][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.19-12.59.12:827][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.09.19-12.59.12:888][  0]LogSlate: Using Freetype 2.6.0
+[2020.09.19-12.59.12:947][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.19-12.59.12:947][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.19-12.59.26:608][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.19-12.59.30:108][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.09.19-12.59.30:587][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.09.19-12.59.30:613][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.19-12.59.30:613][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.09.19-12.59.30:613][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.09.19-12.59.30:613][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.09.19-12.59.31:066][  0]LogNetVersion: Vigilance418 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 63410103)
+[2020.09.19-12.59.32:349][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2020.09.19-12.59.37:890][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.279834 seconds
+[2020.09.19-12.59.37:917][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.09.19-12.59.37:917][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2020.09.19-12.59.37:917][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.19-12.59.38:101][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.09.19-13.00.00:183][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.19-13.00.00:323][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.19-13.00.02:166][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.09.19-13.00.03:549][  0]SourceControl: Source control is disabled
+[2020.09.19-13.00.03:549][  0]SourceControl: Source control is disabled
+[2020.09.19-13.00.03:757][  0]SourceControl: Source control is disabled
+[2020.09.19-13.00.03:867][  0]SourceControl: Source control is disabled
+[2020.09.19-13.00.07:417][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.19-13.00.07:908][  0]LogOcInput: OculusInput pre-init called
+[2020.09.19-13.00.08:949][  0]LogEngine: Initializing Engine...
+[2020.09.19-13.00.08:999][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.19-13.00.09:746][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.09.19-13.00.09:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2020.09.19-13.00.10:136][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.19-13.00.10:199][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.19-13.00.10:217][  0]LogInit: FAudioDevice initialized.
+[2020.09.19-13.00.10:505][  0]LogDerivedDataCache: Saved boot cache 0.29s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.09.19-13.00.10:562][  0]LogInit: Texture streaming: Enabled
+[2020.09.19-13.00.11:025][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.19-13.00.11:033][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={5B81B3FC-49D0-1A6F-4269-DCA594FFB914}
+[2020.09.19-13.00.11:370][  0]LogInit: Transaction tracking system initialized
+[2020.09.19-13.00.12:428][  0]BlueprintLog: New page: Editor Load
+[2020.09.19-13.00.15:352][  0]LocalizationService: Localization service is disabled
+[2020.09.19-13.00.18:185][  0]LogConsoleResponse: Display: 
+[2020.09.19-13.00.20:646][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.19-13.00.20:749][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.19-13.00.20:770][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.09.19-13.00.22:258][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' took 1.27s
+[2020.09.19-13.00.24:618][  0]SourceControl: Source control is disabled
+[2020.09.19-13.00.24:659][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/GamePlayTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.09.19-13.00.24:668][  0]LightingResults: New page: Lighting Build
+[2020.09.19-13.00.24:782][  0]MapCheck: New page: Map Check
+[2020.09.19-13.00.24:782][  0]LightingResults: New page: Lighting Build
+[2020.09.19-13.00.50:283][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle3.Idle3
+[2020.09.19-13.00.50:929][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle3.Idle3) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.00.51:108][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle2.Idle2
+[2020.09.19-13.00.51:108][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle2.Idle2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.00.51:952][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdStart90_R.Crouch_WalkFwdStart90_R
+[2020.09.19-13.00.51:952][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdStart90_R.Crouch_WalkFwdStart90_R) using current/default (AnimCompress_BitwiseCompressOnly_22) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.00.52:201][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdStart90_L.Crouch_WalkFwdStart90_L
+[2020.09.19-13.00.52:201][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdStart90_L.Crouch_WalkFwdStart90_L) using current/default (AnimCompress_BitwiseCompressOnly_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.00.52:632][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdStart180_R.Crouch_WalkFwdStart180_R
+[2020.09.19-13.00.52:632][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdStart180_R.Crouch_WalkFwdStart180_R) using current/default (AnimCompress_BitwiseCompressOnly_20) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.00.52:950][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdStart180_L.Crouch_WalkFwdStart180_L
+[2020.09.19-13.00.52:950][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdStart180_L.Crouch_WalkFwdStart180_L) using current/default (AnimCompress_BitwiseCompressOnly_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.00.53:364][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90R_new.Crouch_Turn90R_new
+[2020.09.19-13.00.53:364][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90R_new.Crouch_Turn90R_new) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.00.53:690][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90L_new.Crouch_Turn90L_new
+[2020.09.19-13.00.53:691][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_Turn90L_new.Crouch_Turn90L_new) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.00.54:284][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_Idle.Crouch_Idle
+[2020.09.19-13.00.54:285][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_Idle.Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.00.55:641][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Run_R.RM_Ledge_Run_R
+[2020.09.19-13.00.55:641][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Run_R.RM_Ledge_Run_R) using current/default (AnimCompress_BitwiseCompressOnly_80) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.01:054][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/22_Frank_Punch_PowerSmash.22_Frank_Punch_PowerSmash
+[2020.09.19-13.01.01:054][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/22_Frank_Punch_PowerSmash.22_Frank_Punch_PowerSmash) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.01:335][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkBwdLoop.WalkBwdLoop
+[2020.09.19-13.01.01:336][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkBwdLoop.WalkBwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_164) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.01:368][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeRightLoop.StrafeRightLoop
+[2020.09.19-13.01.01:368][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeRightLoop.StrafeRightLoop) using current/default (AnimCompress_BitwiseCompressOnly_144) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.01:534][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeRight45Loop.StrafeRight45Loop
+[2020.09.19-13.01.01:534][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeRight45Loop.StrafeRight45Loop) using current/default (AnimCompress_BitwiseCompressOnly_143) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.02:134][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeRight135Loop.StrafeRight135Loop
+[2020.09.19-13.01.02:134][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeRight135Loop.StrafeRight135Loop) using current/default (AnimCompress_BitwiseCompressOnly_142) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.02:198][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeLeftLoop.StrafeLeftLoop
+[2020.09.19-13.01.02:199][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeLeftLoop.StrafeLeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_138) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.02:304][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeLeft45Loop.StrafeLeft45Loop
+[2020.09.19-13.01.02:305][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeLeft45Loop.StrafeLeft45Loop) using current/default (AnimCompress_BitwiseCompressOnly_137) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.02:341][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeLeft135Loop.StrafeLeft135Loop
+[2020.09.19-13.01.02:341][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/StrafeLeft135Loop.StrafeLeft135Loop) using current/default (AnimCompress_BitwiseCompressOnly_136) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.02:344][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunStrafeRight45Loop.RunStrafeRight45Loop
+[2020.09.19-13.01.02:344][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunStrafeRight45Loop.RunStrafeRight45Loop) using current/default (AnimCompress_BitwiseCompressOnly_131) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.02:363][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunStrafeRight135Loop.RunStrafeRight135Loop
+[2020.09.19-13.01.02:363][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunStrafeRight135Loop.RunStrafeRight135Loop) using current/default (AnimCompress_BitwiseCompressOnly_130) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.02:366][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunStrafeLeft45Loop.RunStrafeLeft45Loop
+[2020.09.19-13.01.02:367][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunStrafeLeft45Loop.RunStrafeLeft45Loop) using current/default (AnimCompress_BitwiseCompressOnly_129) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.02:571][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunStrafeLeft135Loop.RunStrafeLeft135Loop
+[2020.09.19-13.01.02:571][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunStrafeLeft135Loop.RunStrafeLeft135Loop) using current/default (AnimCompress_BitwiseCompressOnly_128) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.02:576][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunRtLoop.RunRtLoop
+[2020.09.19-13.01.02:576][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunRtLoop.RunRtLoop) using current/default (AnimCompress_BitwiseCompressOnly_127) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.11:008][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/PistolShootCrouched.PistolShootCrouched
+[2020.09.19-13.01.11:008][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/PistolShootCrouched.PistolShootCrouched) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.11:067][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/PistolShootStanding.PistolShootStanding
+[2020.09.19-13.01.11:067][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/PistolShootStanding.PistolShootStanding) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.12:241][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Death_2.Death_2
+[2020.09.19-13.01.12:241][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_42) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.15:059][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2020.09.19-13.01.15:173][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPerson/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.15:568][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.09.19-13.01.15:569][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.15:604][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.09.19-13.01.15:604][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.15:627][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle.Idle
+[2020.09.19-13.01.15:627][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle.Idle) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.15:897][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdLoop.WalkFwdLoop
+[2020.09.19-13.01.15:897][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdLoop.WalkFwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_168) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.16:093][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/SprintFwdLoop1.SprintFwdLoop1
+[2020.09.19-13.01.16:093][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/SprintFwdLoop1.SprintFwdLoop1) using current/default (AnimCompress_BitwiseCompressOnly_135) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.16:124][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Idle_1.KB_Idle_1
+[2020.09.19-13.01.16:124][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Idle_1.KB_Idle_1) using current/default (AnimCompress_BitwiseCompressOnly_87) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.16:230][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdLoop.RunFwdLoop
+[2020.09.19-13.01.16:231][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdLoop.RunFwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_110) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.17:456][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/12_Frank_Hit_high.12_Frank_Hit_high
+[2020.09.19-13.01.17:456][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/12_Frank_Hit_high.12_Frank_Hit_high) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.40:258][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Grab.RM_Ledge_Grab
+[2020.09.19-13.01.40:258][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Grab.RM_Ledge_Grab) using current/default (AnimCompress_BitwiseCompressOnly_53) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.41:432][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/Yelling.Yelling
+[2020.09.19-13.01.41:432][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/Yelling.Yelling) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.42:883][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunLtLoop.RunLtLoop
+[2020.09.19-13.01.42:883][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunLtLoop.RunLtLoop) using current/default (AnimCompress_BitwiseCompressOnly_126) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.42:886][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunBwdLoop.RunBwdLoop
+[2020.09.19-13.01.42:886][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunBwdLoop.RunBwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_109) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.43:045][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/CrouchLoop_new.CrouchLoop_new
+[2020.09.19-13.01.43:045][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/CrouchLoop_new.CrouchLoop_new) using current/default (AnimCompress_BitwiseCompressOnly_40) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.43:059][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkRt_new.Crouch_WalkRt_new
+[2020.09.19-13.01.43:060][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkRt_new.Crouch_WalkRt_new) using current/default (AnimCompress_BitwiseCompressOnly_36) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.43:457][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkRt45_new.Crouch_WalkRt45_new
+[2020.09.19-13.01.43:457][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkRt45_new.Crouch_WalkRt45_new) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.43:836][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkRt135_new.Crouch_WalkRt135_new
+[2020.09.19-13.01.43:836][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkRt135_new.Crouch_WalkRt135_new) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.44:044][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkLt_new.Crouch_WalkLt_new
+[2020.09.19-13.01.44:044][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkLt_new.Crouch_WalkLt_new) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.44:461][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkLt45_new.Crouch_WalkLt45_new
+[2020.09.19-13.01.44:461][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkLt45_new.Crouch_WalkLt45_new) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.44:737][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkLt135_new.Crouch_WalkLt135_new
+[2020.09.19-13.01.44:737][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkLt135_new.Crouch_WalkLt135_new) using current/default (AnimCompress_BitwiseCompressOnly_28) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.44:767][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdLoop.Crouch_WalkFwdLoop
+[2020.09.19-13.01.44:768][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkFwdLoop.Crouch_WalkFwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.45:329][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkBwd_new.Crouch_WalkBwd_new
+[2020.09.19-13.01.45:330][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Crouch_WalkBwd_new.Crouch_WalkBwd_new) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.45:899][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_CrouchAim.ALS_Props_Pistol_1H_Poses_CrouchAim
+[2020.09.19-13.01.45:900][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Poses_CrouchAim.ALS_Props_Pistol_1H_Poses_CrouchAim) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.46:352][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Aim_pose.ALS_Props_Pistol_1H_Aim_pose
+[2020.09.19-13.01.46:352][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_Props_Pistol_1H_Aim_pose.ALS_Props_Pistol_1H_Aim_pose) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.46:843][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Land.ALS_N_Land
+[2020.09.19-13.01.46:844][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Land.ALS_N_Land) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.47:673][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Jump.ALS_N_Jump
+[2020.09.19-13.01.47:674][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_Jump.ALS_N_Jump) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.48:158][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Jump_Up.RM_Ledge_Jump_Up
+[2020.09.19-13.01.48:158][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Jump_Up.RM_Ledge_Jump_Up) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.48:161][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Jump_R.RM_Ledge_Jump_R
+[2020.09.19-13.01.48:161][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Jump_R.RM_Ledge_Jump_R) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.48:312][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Jump_Out.RM_Ledge_Jump_Out
+[2020.09.19-13.01.48:313][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Jump_Out.RM_Ledge_Jump_Out) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.48:346][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Jump_L.RM_Ledge_Jump_L
+[2020.09.19-13.01.48:346][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Jump_L.RM_Ledge_Jump_L) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.48:348][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Grab_R.RM_Ledge_Grab_R
+[2020.09.19-13.01.48:348][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Grab_R.RM_Ledge_Grab_R) using current/default (AnimCompress_BitwiseCompressOnly_55) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.48:510][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Grab_L.RM_Ledge_Grab_L
+[2020.09.19-13.01.48:510][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Grab_L.RM_Ledge_Grab_L) using current/default (AnimCompress_BitwiseCompressOnly_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.48:682][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Corner_Outside_R.RM_Ledge_Corner_Outside_R
+[2020.09.19-13.01.48:682][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Corner_Outside_R.RM_Ledge_Corner_Outside_R) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.48:832][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Corner_Outside_L.RM_Ledge_Corner_Outside_L
+[2020.09.19-13.01.48:832][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Corner_Outside_L.RM_Ledge_Corner_Outside_L) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.48:863][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Climb_Up.RM_Ledge_Climb_Up
+[2020.09.19-13.01.48:864][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Climb_Up.RM_Ledge_Climb_Up) using current/default (AnimCompress_BitwiseCompressOnly_47) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.49:168][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/17_Frank_Hit_KnockDown.17_Frank_Hit_KnockDown
+[2020.09.19-13.01.49:169][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/17_Frank_Hit_KnockDown.17_Frank_Hit_KnockDown) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.58:685][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/Hard_Landing.Hard_Landing
+[2020.09.19-13.01.58:685][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/Hard_Landing.Hard_Landing) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.58:986][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/Falling_To_Roll.Falling_To_Roll
+[2020.09.19-13.01.58:987][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/Falling_To_Roll.Falling_To_Roll) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.59:192][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Vault1m.Vault1m
+[2020.09.19-13.01.59:192][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Vault1m.Vault1m) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.59:344][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle_Hit_Strong_Left.Idle_Hit_Strong_Left
+[2020.09.19-13.01.59:344][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle_Hit_Strong_Left.Idle_Hit_Strong_Left) using current/default (AnimCompress_BitwiseCompressOnly_64) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.59:563][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/30_Frank_Kick_Right_Side.30_Frank_Kick_Right_Side
+[2020.09.19-13.01.59:564][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/30_Frank_Kick_Right_Side.30_Frank_Kick_Right_Side) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.01.59:964][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/27_Frank_Kick_Left_tap.27_Frank_Kick_Left_tap
+[2020.09.19-13.01.59:965][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/27_Frank_Kick_Left_tap.27_Frank_Kick_Left_tap) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.00:588][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/21_Frank_Punch_Right_UpperCut.21_Frank_Punch_Right_UpperCut
+[2020.09.19-13.02.00:588][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/21_Frank_Punch_Right_UpperCut.21_Frank_Punch_Right_UpperCut) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.01:173][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/29_Frank_Kick_Right_Spin_Heel.29_Frank_Kick_Right_Spin_Heel
+[2020.09.19-13.02.01:173][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/29_Frank_Kick_Right_Spin_Heel.29_Frank_Kick_Right_Spin_Heel) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.01:175][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/03_Frank_Moves_Step_Backward.03_Frank_Moves_Step_Backward
+[2020.09.19-13.02.01:175][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/03_Frank_Moves_Step_Backward.03_Frank_Moves_Step_Backward) using current/default (AnimCompress_BitwiseCompressOnly_41) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.01:176][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/28_Frank_Kick_Right_Low.28_Frank_Kick_Right_Low
+[2020.09.19-13.02.01:176][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/28_Frank_Kick_Right_Low.28_Frank_Kick_Right_Low) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.01:540][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/20_Frank_Punch_Left_UpperCut.20_Frank_Punch_Left_UpperCut
+[2020.09.19-13.02.01:540][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/20_Frank_Punch_Left_UpperCut.20_Frank_Punch_Left_UpperCut) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.01:790][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/19_Frank_Punch_Right_Straight.19_Frank_Punch_Right_Straight
+[2020.09.19-13.02.01:790][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/19_Frank_Punch_Right_Straight.19_Frank_Punch_Right_Straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.01:906][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/18_Frank_Punch_Left_Jab.18_Frank_Punch_Left_Jab
+[2020.09.19-13.02.01:906][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/18_Frank_Punch_Left_Jab.18_Frank_Punch_Left_Jab) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.02:341][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/14_Frank_Hit_Heavy.14_Frank_Hit_Heavy
+[2020.09.19-13.02.02:341][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/14_Frank_Hit_Heavy.14_Frank_Hit_Heavy) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.02:451][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_p_HighRight_Weak.KB_Hit_p_HighRight_Weak
+[2020.09.19-13.02.02:451][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_p_HighRight_Weak.KB_Hit_p_HighRight_Weak) using current/default (AnimCompress_BitwiseCompressOnly_80) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.02:454][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_p_HighLeft_Weak.KB_Hit_p_HighLeft_Weak
+[2020.09.19-13.02.02:454][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_p_HighLeft_Weak.KB_Hit_p_HighLeft_Weak) using current/default (AnimCompress_BitwiseCompressOnly_79) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.02:528][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_m_MidRight_Med.KB_Hit_m_MidRight_Med
+[2020.09.19-13.02.02:528][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_m_MidRight_Med.KB_Hit_m_MidRight_Med) using current/default (AnimCompress_BitwiseCompressOnly_74) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.02:628][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_m_MidLeft_Med.KB_Hit_m_MidLeft_Med
+[2020.09.19-13.02.02:628][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_m_MidLeft_Med.KB_Hit_m_MidLeft_Med) using current/default (AnimCompress_BitwiseCompressOnly_71) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.05:802][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_LeftHook_Vic.Paired_CounterPunch_LeftHook_Vic
+[2020.09.19-13.02.05:802][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_LeftHook_Vic.Paired_CounterPunch_LeftHook_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.06:039][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_LeftHook_CounterReaction.Paired_CounterPunch_LeftHook_CounterReaction
+[2020.09.19-13.02.06:039][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_LeftHook_CounterReaction.Paired_CounterPunch_LeftHook_CounterReaction) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.06:241][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_LeftHook_Attack.Paired_CounterPunch_LeftHook_Attack
+[2020.09.19-13.02.06:242][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_LeftHook_Attack.Paired_CounterPunch_LeftHook_Attack) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.06:413][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_KneelPunchUppercut_Vic.Paired_CounterPunch_KneelPunchUppercut_Vic
+[2020.09.19-13.02.06:413][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_KneelPunchUppercut_Vic.Paired_CounterPunch_KneelPunchUppercut_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.08:179][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterKick_LowKick_Attack.Paired_CounterKick_LowKick_Attack
+[2020.09.19-13.02.08:179][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterKick_LowKick_Attack.Paired_CounterKick_LowKick_Attack) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.08:181][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle_Hit_Strong_Right.Idle_Hit_Strong_Right
+[2020.09.19-13.02.08:181][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle_Hit_Strong_Right.Idle_Hit_Strong_Right) using current/default (AnimCompress_BitwiseCompressOnly_65) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.08:705][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterKick_LowKick_Vic.Paired_CounterKick_LowKick_Vic
+[2020.09.19-13.02.08:705][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterKick_LowKick_Vic.Paired_CounterKick_LowKick_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.08:894][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterKick_LowKick_CounterRecation.Paired_CounterKick_LowKick_CounterRecation
+[2020.09.19-13.02.08:894][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterKick_LowKick_CounterRecation.Paired_CounterKick_LowKick_CounterRecation) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.09:876][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_Backfist_Vic.Paired_CounterPunch_Backfist_Vic
+[2020.09.19-13.02.09:877][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_Backfist_Vic.Paired_CounterPunch_Backfist_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.10:315][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_Backfist_CounterReaction.Paired_CounterPunch_Backfist_CounterReaction
+[2020.09.19-13.02.10:315][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_Backfist_CounterReaction.Paired_CounterPunch_Backfist_CounterReaction) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.10:683][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_Backfist_Attack.Paired_CounterPunch_Backfist_Attack
+[2020.09.19-13.02.10:683][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_Backfist_Attack.Paired_CounterPunch_Backfist_Attack) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.10:700][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_KneelPunchUppercut_CounterReaction.Paired_CounterPunch_KneelPunchUppercut_CounterReaction
+[2020.09.19-13.02.10:700][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_KneelPunchUppercut_CounterReaction.Paired_CounterPunch_KneelPunchUppercut_CounterReaction) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.10:743][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_KneelPunchUppercut_Attack.Paired_CounterPunch_KneelPunchUppercut_Attack
+[2020.09.19-13.02.10:743][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NONLethalCombat/Paired_CounterPunch_KneelPunchUppercut_Attack.Paired_CounterPunch_KneelPunchUppercut_Attack) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.15:830][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/EquipRifle.EquipRifle
+[2020.09.19-13.02.15:830][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/EquipRifle.EquipRifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.19:167][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_GrabFlipHeadStomp_Att.Paired_H2H_Stealth_GrabFlipHeadStomp_Att
+[2020.09.19-13.02.19:167][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_GrabFlipHeadStomp_Att.Paired_H2H_Stealth_GrabFlipHeadStomp_Att) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.19:237][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_GrabFlipHeadStomp_Vac.Paired_H2H_Stealth_GrabFlipHeadStomp_Vac
+[2020.09.19-13.02.19:238][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_GrabFlipHeadStomp_Vac.Paired_H2H_Stealth_GrabFlipHeadStomp_Vac) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.19:312][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_WalkFwd2.KB_WalkFwd2
+[2020.09.19-13.02.19:312][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_WalkFwd2.KB_WalkFwd2) using current/default (AnimCompress_BitwiseCompressOnly_231) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.19:440][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Car/Driving.Driving
+[2020.09.19-13.02.19:440][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Car/Driving.Driving) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.22:589][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_FallLoop.ALS_N_FallLoop
+[2020.09.19-13.02.22:589][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS_N_FallLoop.ALS_N_FallLoop) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.22:590][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS4Jumping/ALS_N_JumpRun_RF1.ALS_N_JumpRun_RF1
+[2020.09.19-13.02.22:907][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS4Jumping/ALS_N_JumpRun_RF1.ALS_N_JumpRun_RF1) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.22:908][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/NewFolder/ALS4Jumping/ALS_Flail.ALS_Flail
+[2020.09.19-13.02.22:909][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/NewFolder/ALS4Jumping/ALS_Flail.ALS_Flail) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.22:999][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart90_R.WalkFwdStart90_R
+[2020.09.19-13.02.22:999][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart90_R.WalkFwdStart90_R) using current/default (AnimCompress_BitwiseCompressOnly_177) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.23:491][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart90_L.WalkFwdStart90_L
+[2020.09.19-13.02.23:491][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart90_L.WalkFwdStart90_L) using current/default (AnimCompress_BitwiseCompressOnly_176) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.23:657][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart180_R.WalkFwdStart180_R
+[2020.09.19-13.02.23:657][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart180_R.WalkFwdStart180_R) using current/default (AnimCompress_BitwiseCompressOnly_175) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.23:881][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart180_L.WalkFwdStart180_L
+[2020.09.19-13.02.23:881][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart180_L.WalkFwdStart180_L) using current/default (AnimCompress_BitwiseCompressOnly_174) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.23:915][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart135_R.WalkFwdStart135_R
+[2020.09.19-13.02.23:915][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart135_R.WalkFwdStart135_R) using current/default (AnimCompress_BitwiseCompressOnly_173) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.23:920][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart135_L.WalkFwdStart135_L
+[2020.09.19-13.02.23:920][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/WalkFwdStart135_L.WalkFwdStart135_L) using current/default (AnimCompress_BitwiseCompressOnly_172) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.23:923][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/TurnRt90_Loop.TurnRt90_Loop
+[2020.09.19-13.02.23:923][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/TurnRt90_Loop.TurnRt90_Loop) using current/default (AnimCompress_BitwiseCompressOnly_161) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:069][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/TurnRt180.TurnRt180
+[2020.09.19-13.02.24:069][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/TurnRt180.TurnRt180) using current/default (AnimCompress_BitwiseCompressOnly_160) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:076][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/TurnLt90_Loop.TurnLt90_Loop
+[2020.09.19-13.02.24:076][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/TurnLt90_Loop.TurnLt90_Loop) using current/default (AnimCompress_BitwiseCompressOnly_159) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:080][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/TurnLt180.TurnLt180
+[2020.09.19-13.02.24:080][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/TurnLt180.TurnLt180) using current/default (AnimCompress_BitwiseCompressOnly_158) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:503][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart90_R.RunFwdStart90_R
+[2020.09.19-13.02.24:503][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart90_R.RunFwdStart90_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:655][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart90_L.RunFwdStart90_L
+[2020.09.19-13.02.24:655][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart90_L.RunFwdStart90_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:714][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart180_R.RunFwdStart180_R
+[2020.09.19-13.02.24:714][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart180_R.RunFwdStart180_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:820][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart180_L.RunFwdStart180_L
+[2020.09.19-13.02.24:820][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart180_L.RunFwdStart180_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:870][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart135_R.RunFwdStart135_R
+[2020.09.19-13.02.24:870][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart135_R.RunFwdStart135_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:875][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart135_L.RunFwdStart135_L
+[2020.09.19-13.02.24:875][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/RunFwdStart135_L.RunFwdStart135_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:904][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle6.Idle6
+[2020.09.19-13.02.24:904][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle6.Idle6) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.24:919][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle5.Idle5
+[2020.09.19-13.02.24:919][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle5.Idle5) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.25:065][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle4.Idle4
+[2020.09.19-13.02.25:066][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/Idle4.Idle4) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.25:146][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Run_L.RM_Ledge_Run_L
+[2020.09.19-13.02.25:146][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Run_L.RM_Ledge_Run_L) using current/default (AnimCompress_BitwiseCompressOnly_77) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.25:147][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_UpAim.RM_Ledge_Lean_UpAim
+[2020.09.19-13.02.25:148][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_UpAim.RM_Ledge_Lean_UpAim) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.25:149][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_Up.RM_Ledge_Lean_Up
+[2020.09.19-13.02.25:149][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Lean_Up.RM_Ledge_Lean_Up) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.25:174][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Idle.RM_Ledge_Idle
+[2020.09.19-13.02.25:174][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/Climbing/RM_Ledge_Idle.RM_Ledge_Idle) using current/default (AnimCompress_BitwiseCompressOnly_56) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.26:997][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_KarateChopKO_Vic.Paired_H2H_Stealth_KarateChopKO_Vic
+[2020.09.19-13.02.26:997][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_KarateChopKO_Vic.Paired_H2H_Stealth_KarateChopKO_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.36:773][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_KarateChopKO_Att.Paired_H2H_Stealth_KarateChopKO_Att
+[2020.09.19-13.02.36:773][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_KarateChopKO_Att.Paired_H2H_Stealth_KarateChopKO_Att) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.41:470][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_ClavicleStabDown_Vic.Paired_Knife_Stealth_ClavicleStabDown_Vic
+[2020.09.19-13.02.41:470][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_ClavicleStabDown_Vic.Paired_Knife_Stealth_ClavicleStabDown_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.41:473][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_GrabFlipStab_Att.Paired_Knife_Stealth_GrabFlipStab_Att
+[2020.09.19-13.02.41:474][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_GrabFlipStab_Att.Paired_Knife_Stealth_GrabFlipStab_Att) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.41:477][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_GrabFlipStab_Vic.Paired_Knife_Stealth_GrabFlipStab_Vic
+[2020.09.19-13.02.41:477][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_GrabFlipStab_Vic.Paired_Knife_Stealth_GrabFlipStab_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.41:690][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_NeckStab_Att.Paired_Knife_Stealth_NeckStab_Att
+[2020.09.19-13.02.41:690][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_NeckStab_Att.Paired_Knife_Stealth_NeckStab_Att) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.42:071][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_SpinStab_Att.Paired_Knife_Stealth_SpinStab_Att
+[2020.09.19-13.02.42:072][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_SpinStab_Att.Paired_Knife_Stealth_SpinStab_Att) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.42:074][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_SpinStab_Vic.Paired_Knife_Stealth_SpinStab_Vic
+[2020.09.19-13.02.42:075][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_SpinStab_Vic.Paired_Knife_Stealth_SpinStab_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.42:422][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_ThighAndNeckStab_Vic.Paired_Knife_Stealth_ThighAndNeckStab_Vic
+[2020.09.19-13.02.42:422][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_ThighAndNeckStab_Vic.Paired_Knife_Stealth_ThighAndNeckStab_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.42:427][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/MQ/Rifle/Rifle_Run.Rifle_Run
+[2020.09.19-13.02.42:427][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/MQ/Rifle/Rifle_Run.Rifle_Run) using current/default (AnimCompress_BitwiseCompressOnly_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.42:600][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/MQ/Rifle/Rifle_Idle_Standing.Rifle_Idle_Standing
+[2020.09.19-13.02.42:600][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/MQ/Rifle/Rifle_Idle_Standing.Rifle_Idle_Standing) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.42:782][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_RunFwdLoop.Rifle_RunFwdLoop
+[2020.09.19-13.02.42:782][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_RunFwdLoop.Rifle_RunFwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.42:785][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRun135LeftLoop.Rifle_StrafeRun135LeftLoop
+[2020.09.19-13.02.42:785][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRun135LeftLoop.Rifle_StrafeRun135LeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.43:547][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_WalkBwdLoop.Rifle_WalkBwdLoop
+[2020.09.19-13.02.43:548][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_WalkBwdLoop.Rifle_WalkBwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.44:413][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_WalkFwdLoop.Rifle_WalkFwdLoop
+[2020.09.19-13.02.44:413][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_WalkFwdLoop.Rifle_WalkFwdLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.44:420][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/HandsupPose.HandsupPose
+[2020.09.19-13.02.44:420][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/MovementAnimSetPro/HandsupPose.HandsupPose) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.44:602][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_m_LowRight_Med.KB_Hit_m_LowRight_Med
+[2020.09.19-13.02.44:602][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FightAnimSetPro/KB_Hit_m_LowRight_Med.KB_Hit_m_LowRight_Med) using current/default (AnimCompress_BitwiseCompressOnly_65) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.44:608][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/FrankFight/14_Frank_Hit_Heavy_Inplace.14_Frank_Hit_Heavy_Inplace
+[2020.09.19-13.02.44:608][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/FrankFight/14_Frank_Hit_Heavy_Inplace.14_Frank_Hit_Heavy_Inplace) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.44:788][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_NeckBreak_Att.Paired_H2H_Stealth_NeckBreak_Att
+[2020.09.19-13.02.44:789][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_NeckBreak_Att.Paired_H2H_Stealth_NeckBreak_Att) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.45:301][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_NeckBreak_Vic.Paired_H2H_Stealth_NeckBreak_Vic
+[2020.09.19-13.02.45:301][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_NeckBreak_Vic.Paired_H2H_Stealth_NeckBreak_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.45:304][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_ReverseDDT_Vic.Paired_H2H_Stealth_ReverseDDT_Vic
+[2020.09.19-13.02.45:304][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_ReverseDDT_Vic.Paired_H2H_Stealth_ReverseDDT_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.45:739][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_ReverseDDT_Att.Paired_H2H_Stealth_ReverseDDT_Att
+[2020.09.19-13.02.45:739][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_H2H_Stealth_ReverseDDT_Att.Paired_H2H_Stealth_ReverseDDT_Att) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.45:741][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_ClavicleStabDown_Att.Paired_Knife_Stealth_ClavicleStabDown_Att
+[2020.09.19-13.02.45:742][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_ClavicleStabDown_Att.Paired_Knife_Stealth_ClavicleStabDown_Att) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.45:744][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_NeckStab_Vic.Paired_Knife_Stealth_NeckStab_Vic
+[2020.09.19-13.02.45:745][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_NeckStab_Vic.Paired_Knife_Stealth_NeckStab_Vic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.45:949][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_ThighAndNeckStab_Att.Paired_Knife_Stealth_ThighAndNeckStab_Att
+[2020.09.19-13.02.45:949][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/Animations/TakeDowns/Paired_Knife_Stealth_ThighAndNeckStab_Att.Paired_Knife_Stealth_ThighAndNeckStab_Att) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.46:738][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Aim_CC.Aim_CC
+[2020.09.19-13.02.46:738][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Aim_CC.Aim_CC) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.49:594][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_Idle.Rifle_Idle
+[2020.09.19-13.02.49:594][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_Idle.Rifle_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.49:604][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRun135RightLoop.Rifle_StrafeRun135RightLoop
+[2020.09.19-13.02.49:604][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRun135RightLoop.Rifle_StrafeRun135RightLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.50:105][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRun45LeftLoop.Rifle_StrafeRun45LeftLoop
+[2020.09.19-13.02.50:105][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRun45LeftLoop.Rifle_StrafeRun45LeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.50:203][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRunLeftLoop.Rifle_StrafeRunLeftLoop
+[2020.09.19-13.02.50:203][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRunLeftLoop.Rifle_StrafeRunLeftLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.50:513][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRun45RightLoop.Rifle_StrafeRun45RightLoop
+[2020.09.19-13.02.50:513][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRun45RightLoop.Rifle_StrafeRun45RightLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.50:756][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRunRightLoop.Rifle_StrafeRunRightLoop
+[2020.09.19-13.02.50:756][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/GameContent/RifleAnimSetPro/Rifle_StrafeRunRightLoop.Rifle_StrafeRunRightLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.19-13.02.57:032][  0]LogAIModule: Creating AISystem for world GamePlayTestMap
+[2020.09.19-13.04.03:188][  0]LogEditorServer: Finished looking for orphan Actors (0.007 secs)
+[2020.09.19-13.04.22:589][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.19-13.04.24:946][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,248.074ms to complete.
+[2020.09.19-13.04.24:958][  0]LogFileHelpers: Loading map 'GamePlayTestMap' took 240.308
+[2020.09.19-13.04.56:728][  0]LogCollectionManager: Loaded 0 collections in 0.028055 seconds
+[2020.09.19-13.04.57:197][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' took 0.01s
+[2020.09.19-13.04.57:197][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' took 0.01s
+[2020.09.19-13.04.57:197][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' took 0.01s
+[2020.09.19-13.04.57:197][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.09.19-13.04.57:253][  0]LogContentBrowser: Native class hierarchy populated in 0.0299 seconds. Added 2364 classes and 521 folders.
+[2020.09.19-13.04.57:689][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.19-13.04.59:072][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.19-13.05.00:902][  0]LogSlate: Took 0.576558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.19-13.05.02:644][  0]LogSlate: Took 0.047707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.19-13.05.07:621][  0]LogRenderer: Reallocating scene render targets to support 1048x656 Format 9 NumSamples 1 (Frame:1).
+[2020.09.19-13.05.15:677][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.09.19-13.05.15:677][  0]LogLoad: (Engine Initialization) Total time: 419.10 seconds
+[2020.09.19-13.05.15:677][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.19-13.05.15:712][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.09.19-13.05.16:069][  0]Cmd: SELECT NONE
+[2020.09.19-13.05.18:401][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.09.19-13.05.25:247][  2]LogSlate: Took 0.020564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.09.19-13.05.30:365][ 22]LogAssetRegistry: Asset discovery search completed in 358.0382 seconds
+[2020.09.19-13.05.30:664][ 22]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.09.19-13.05.30:665][ 22]LogCollectionManager: Fixed up redirectors for 0 collections in 0.021251 seconds (updated 0 objects)
+[2020.09.19-13.30.37:444][615]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.19-13.30.40:707][616]Cmd: QUIT_EDITOR
+[2020.09.19-13.30.42:430][616]LogExit: Preparing to exit.
+[2020.09.19-13.30.51:268][616]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.09.19-13.31.01:958][616]LogExit: Editor shut down
+[2020.09.19-13.31.05:966][616]LogExit: Transaction tracking system shut down
+[2020.09.19-13.31.09:735][616]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.09.19-13.31.09:735][616]LogDirectoryWatcher: A directory notification for '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.09.19-13.31.09:735][616]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.09.19-13.31.09:735][616]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.09.19-13.31.09:735][616]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.09.19-13.31.09:735][616]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.09.19-13.31.09:736][616]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.09.19-13.31.25:616][616]LogExit: Object subsystem successfully closed.
+[2020.09.19-13.31.27:754][616]LogD3D11RHI: Shutdown
+[2020.09.19-13.31.27:766][616]LogD3D11RHI: CleanupD3DDevice
+[2020.09.19-13.31.28:347][616]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.09.19-13.31.29:555][616]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2020.09.19-13.31.29:555][616]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2020.09.19-13.31.29:579][616]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/' was aborted.
+[2020.09.19-13.31.29:666][616]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2020.09.19-13.31.29:666][616]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2020.09.19-13.31.29:666][616]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2020.09.19-13.31.29:691][616]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' was aborted.
+[2020.09.19-13.31.29:720][616]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' was aborted.
+[2020.09.19-13.31.29:720][616]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' was aborted.
+[2020.09.19-13.31.29:739][616]LogModuleManager: Shutting down and abandoning module SceneOutliner (540)
+[2020.09.19-13.31.29:791][616]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2020.09.19-13.31.29:844][616]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2020.09.19-13.31.29:887][616]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2020.09.19-13.31.30:071][616]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2020.09.19-13.31.30:099][616]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2020.09.19-13.31.30:099][616]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2020.09.19-13.31.30:099][616]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2020.09.19-13.31.30:099][616]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2020.09.19-13.31.30:099][616]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2020.09.19-13.31.30:099][616]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2020.09.19-13.31.30:099][616]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2020.09.19-13.31.30:099][616]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2020.09.19-13.31.30:170][616]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2020.09.19-13.31.30:399][616]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2020.09.19-13.31.30:472][616]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2020.09.19-13.31.30:875][616]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2020.09.19-13.31.30:876][616]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2020.09.19-13.31.30:882][616]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2020.09.19-13.31.30:928][616]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2020.09.19-13.31.30:929][616]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2020.09.19-13.31.30:929][616]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2020.09.19-13.31.30:929][616]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2020.09.19-13.31.30:929][616]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2020.09.19-13.31.30:955][616]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2020.09.19-13.31.30:968][616]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2020.09.19-13.31.31:020][616]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2020.09.19-13.31.31:061][616]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2020.09.19-13.31.31:094][616]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2020.09.19-13.31.31:095][616]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2020.09.19-13.31.31:095][616]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2020.09.19-13.31.31:095][616]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2020.09.19-13.31.31:647][616]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2020.09.19-13.31.31:647][616]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2020.09.19-13.31.31:647][616]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2020.09.19-13.31.31:647][616]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2020.09.19-13.31.31:664][616]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2020.09.19-13.31.31:680][616]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2020.09.19-13.31.31:680][616]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2020.09.19-13.31.31:694][616]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2020.09.19-13.31.31:694][616]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2020.09.19-13.31.31:709][616]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2020.09.19-13.31.31:719][616]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2020.09.19-13.31.31:719][616]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2020.09.19-13.31.31:719][616]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2020.09.19-13.31.31:720][616]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2020.09.19-13.31.31:743][616]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2020.09.19-13.31.31:756][616]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2020.09.19-13.31.31:771][616]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2020.09.19-13.31.31:801][616]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2020.09.19-13.31.31:801][616]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2020.09.19-13.31.31:816][616]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2020.09.19-13.31.31:829][616]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2020.09.19-13.31.31:843][616]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2020.09.19-13.31.31:850][616]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2020.09.19-13.31.31:861][616]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2020.09.19-13.31.31:944][616]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2020.09.19-13.31.31:971][616]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2020.09.19-13.31.31:994][616]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2020.09.19-13.31.32:018][616]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2020.09.19-13.31.32:018][616]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2020.09.19-13.31.32:037][616]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2020.09.19-13.31.32:050][616]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2020.09.19-13.31.32:087][616]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2020.09.19-13.31.32:087][616]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2020.09.19-13.31.32:088][616]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2020.09.19-13.31.32:232][616]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2020.09.19-13.31.32:250][616]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2020.09.19-13.31.32:250][616]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2020.09.19-13.31.32:272][616]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2020.09.19-13.31.32:319][616]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2020.09.19-13.31.32:332][616]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2020.09.19-13.31.32:341][616]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2020.09.19-13.31.32:341][616]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2020.09.19-13.31.32:351][616]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2020.09.19-13.31.32:351][616]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2020.09.19-13.31.32:351][616]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2020.09.19-13.31.32:351][616]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2020.09.19-13.31.32:351][616]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2020.09.19-13.31.32:351][616]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2020.09.19-13.31.32:351][616]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2020.09.19-13.31.32:351][616]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2020.09.19-13.31.32:376][616]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2020.09.19-13.31.32:396][616]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2020.09.19-13.31.32:421][616]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2020.09.19-13.31.32:421][616]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2020.09.19-13.31.32:595][616]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2020.09.19-13.31.32:618][616]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2020.09.19-13.31.32:619][616]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2020.09.19-13.31.32:619][616]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2020.09.19-13.31.32:628][616]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2020.09.19-13.31.32:639][616]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2020.09.19-13.31.32:639][616]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2020.09.19-13.31.32:639][616]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2020.09.19-13.31.32:639][616]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2020.09.19-13.31.32:639][616]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2020.09.19-13.31.32:639][616]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.09.19-13.31.32:639][616]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2020.09.19-13.31.32:662][616]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2020.09.19-13.31.32:662][616]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2020.09.19-13.31.32:662][616]LogModuleManager: Shutting down and abandoning module RootMotionExtractor (318)
+[2020.09.19-13.31.32:689][616]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2020.09.19-13.31.32:689][616]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2020.09.19-13.31.32:705][616]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2020.09.19-13.31.32:705][616]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2020.09.19-13.31.32:717][616]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2020.09.19-13.31.32:717][616]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2020.09.19-13.31.32:717][616]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2020.09.19-13.31.32:752][616]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2020.09.19-13.31.32:791][616]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2020.09.19-13.31.32:792][616]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2020.09.19-13.31.32:792][616]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2020.09.19-13.31.32:792][616]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2020.09.19-13.31.32:805][616]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2020.09.19-13.31.32:818][616]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2020.09.19-13.31.32:836][616]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2020.09.19-13.31.32:871][616]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2020.09.19-13.31.32:871][616]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2020.09.19-13.31.32:871][616]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2020.09.19-13.31.32:871][616]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2020.09.19-13.31.32:907][616]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2020.09.19-13.31.32:926][616]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2020.09.19-13.31.32:991][616]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2020.09.19-13.31.33:009][616]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2020.09.19-13.31.33:024][616]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2020.09.19-13.31.33:059][616]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2020.09.19-13.31.33:073][616]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2020.09.19-13.31.33:073][616]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2020.09.19-13.31.33:073][616]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2020.09.19-13.31.33:073][616]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2020.09.19-13.31.33:073][616]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2020.09.19-13.31.33:073][616]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2020.09.19-13.31.33:100][616]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2020.09.19-13.31.33:216][616]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2020.09.19-13.31.33:328][616]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.09.19-13.31.33:349][616]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.09.19-13.31.33:350][616]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.09.19-13.31.33:350][616]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.09.19-13.31.33:362][616]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.09.19-13.31.33:496][616]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.09.19-13.31.33:569][616]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.09.19-13.31.33:569][616]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.09.19-13.31.33:587][616]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.09.19-13.31.33:619][616]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.09.19-13.31.33:637][616]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.09.19-13.31.33:643][616]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.09.19-13.31.33:654][616]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.09.19-13.31.33:662][616]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.09.19-13.31.33:682][616]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.09.19-13.31.33:682][616]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.09.19-13.31.33:711][616]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.09.19-13.31.33:711][616]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.09.19-13.31.33:711][616]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.09.19-13.31.33:732][616]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.09.19-13.31.33:745][616]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.09.19-13.31.33:745][616]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.09.19-13.31.33:775][616]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.09.19-13.31.33:783][616]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.09.19-13.31.33:806][616]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.09.19-13.31.33:806][616]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.09.19-13.31.33:874][616]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.09.19-13.31.33:912][616]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.09.19-13.31.34:000][616]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.09.19-13.31.34:004][616]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.09.19-13.31.34:064][616]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.09.19-13.31.34:064][616]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.09.19-13.31.34:183][616]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.09.19-13.31.34:183][616]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.09.19-13.31.34:183][616]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.09.19-13.31.34:183][616]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.09.19-13.31.34:183][616]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.09.19-13.31.34:183][616]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.09.19-13.31.34:183][616]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.09.19-13.31.34:204][616]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.09.19-13.31.34:575][616]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.09.19-13.31.34:575][616]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.09.19-13.31.34:674][616]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.09.19-13.31.34:687][616]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.09.19-13.31.34:687][616]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.09.19-13.31.34:770][616]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.09.19-13.31.34:770][616]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.09.19-13.31.34:821][616]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.09.19-13.31.34:843][616]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.09.19-13.31.34:899][616]LogDerivedDataCache: Shutdown
+[2020.09.19-13.31.34:899][616]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.09.19-13.31.34:952][616]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.09.19-13.31.34:983][616]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.09.19-13.31.35:013][616]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.09.19-13.31.35:026][616]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.09.19-13.31.35:057][616]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.09.19-13.31.35:094][616]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.09.19-13.31.35:094][616]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.09.19-13.31.35:094][616]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.09.19-13.31.35:102][616]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.09.19-13.31.35:141][616]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.09.19-13.31.35:141][616]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.09.19-13.31.35:142][616]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.09.19-13.31.35:142][616]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.09.19-13.31.35:153][616]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.09.19-13.31.35:153][616]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.09.19-13.31.35:153][616]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.09.19-13.31.35:187][616]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.09.19-13.31.35:187][616]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.09.19-13.31.35:187][616]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.09.19-13.31.35:211][616]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.09.19-13.31.35:211][616]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.09.19-13.31.35:211][616]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.09.19-13.31.35:211][616]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.09.19-13.31.35:211][616]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.09.19-13.31.35:240][616]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.09.19-13.31.35:240][616]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.09.19-13.31.35:240][616]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.09.19-13.31.35:240][616]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.09.19-13.31.35:240][616]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.09.19-13.31.35:240][616]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.09.19-13.31.35:241][616]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.09.19-13.31.35:241][616]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.09.19-13.31.35:241][616]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.09.19-13.31.35:241][616]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.09.19-13.31.35:241][616]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.09.19-13.31.35:241][616]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.09.19-13.31.35:261][616]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.09.19-13.31.35:261][616]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.09.19-13.31.35:261][616]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.09.19-13.31.35:261][616]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.09.19-13.31.35:261][616]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.09.19-13.31.35:261][616]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.09.19-13.31.35:339][616]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.09.19-13.31.35:339][616]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.09.19-13.31.35:339][616]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.09.19-13.31.35:362][616]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.09.19-13.31.35:393][616]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.09.19-13.31.35:393][616]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.09.19-13.31.35:393][616]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.09.19-13.31.35:393][616]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.09.19-13.31.35:451][616]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.09.19-13.31.35:473][616]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.09.19-13.31.35:473][616]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.19-13.31.35:502][616]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B194E1A45-436F-3912-DC7D-9C991623D456%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dab985eb449ee4f1b342389e404cab9f%7C845779d9bd904572b61cf91381b7a44e%7C4e718ad1-99cd-4dc7-9063-d4e2b6f3fd7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.09.19-13.31.35:580][616]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.09.19-13.31.35:641][616]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.09.19-13.31.35:656][616]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.09.19-13.31.35:656][616]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.09.19-13.31.35:697][616]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.09.19-13.31.35:823][616]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.09.19-13.31.35:823][616]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.09.19-13.31.35:823][616]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.09.19-13.31.35:927][616]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.09.19-13.31.35:973][616]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.09.19-13.31.35:974][616]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.09.19-13.31.35:991][616]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.09.19-13.31.35:991][616]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.09.19-13.31.36:002][616]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.09.19-13.31.36:004][616]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.09.19-13.31.36:031][616]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.09.19-13.31.36:031][616]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.09.19-13.31.36:037][616]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.09.19-13.31.36:047][616]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.09.19-13.31.36:272][616]LogExit: Exiting.
+[2020.09.19-13.31.36:774][616]Log file closed, 09/19/20 19:31:36
