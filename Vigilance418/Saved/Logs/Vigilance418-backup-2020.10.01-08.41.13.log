@@ -1,0 +1,875 @@
+﻿Log file open, 10/01/20 01:17:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vigilance418
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-926741657) SRandInit(-926741656).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.459152
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/RootMotionExtractor/Binaries/Win64/UE4Editor-RootMotionExtractor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RootMotionExtractor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.09.30-19.17.57:550][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.30-19.17.57:550][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.30-19.17.57:656][  0]LogInit: Computer: ISHRAQ-PC
+[2020.09.30-19.17.57:656][  0]LogInit: User: farha
+[2020.09.30-19.17.57:656][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.09.30-19.17.57:656][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.30-19.17.57:656][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.09.30-19.17.57:656][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.30-19.17.57:656][  0]LogMemory: Process Physical Memory: 275.40 MB used, 275.41 MB peak
+[2020.09.30-19.17.57:656][  0]LogMemory: Process Virtual Memory: 265.52 MB used, 265.52 MB peak
+[2020.09.30-19.17.57:656][  0]LogMemory: Physical Memory: 2323.33 MB used,  1653.68 MB free, 3977.01 MB total
+[2020.09.30-19.17.57:656][  0]LogMemory: Virtual Memory: 4755.68 MB used,  1653.68 MB free, 134217728.00 MB total
+[2020.09.30-19.17.59:171][  0]LogInit: Using OS detected language (en-US).
+[2020.09.30-19.17.59:171][  0]LogInit: Using OS detected locale (en-US).
+[2020.09.30-19.17.59:595][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.09.30-19.18.00:645][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.30-19.18.07:147][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.30-19.18.07:161][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.09.30-19.18.07:161][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.09.30-19.18.07:211][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.30-19.18.07:211][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.30-19.18.07:211][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.30-19.18.07:220][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.30-19.18.07:220][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.30-19.18.07:220][  0]LogWindows: EnumDisplayDevices:
+[2020.09.30-19.18.07:220][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.09.30-19.18.07:220][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.09.30-19.18.07:220][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.09.30-19.18.07:220][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.09.30-19.18.07:221][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.09.30-19.18.07:221][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.09.30-19.18.07:221][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.09.30-19.18.07:224][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.30-19.18.07:359][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.09.30-19.18.07:405][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GITHUB/vigilance_4.18/Vigilance418/Intermediate/Shaders/WorkingDirectory/7112/).
+[2020.09.30-19.18.07:405][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/C332E8A64CEE45D8D1D66885A921438B/'.
+[2020.09.30-19.18.07:411][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.30-19.18.15:585][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.09.30-19.18.15:663][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.09.30-19.18.15:736][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.09.30-19.18.15:814][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.09.30-19.18.15:964][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.09.30-19.18.16:049][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.09.30-19.18.16:132][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.09.30-19.18.16:217][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.09.30-19.18.16:311][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.09.30-19.18.16:392][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.09.30-19.18.16:476][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.09.30-19.18.16:565][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.09.30-19.18.16:656][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.09.30-19.18.16:750][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.09.30-19.18.16:916][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.09.30-19.18.16:916][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.09.30-19.18.17:032][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.09.30-19.18.17:102][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.09.30-19.18.17:454][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.09.30-19.18.17:519][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.09.30-19.18.17:603][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.09.30-19.18.17:691][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.09.30-19.18.17:792][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.09.30-19.18.17:912][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.09.30-19.18.17:912][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.30-19.18.20:392][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.30-19.18.21:701][  0]LogDerivedDataCache: Loaded boot cache 1.29s 80MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.09.30-19.18.21:701][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.09.30-19.18.21:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.30-19.18.21:701][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.30-19.18.21:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.30-19.18.21:701][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.30-19.18.21:871][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.30-19.18.21:935][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.30-19.18.21:998][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.09.30-19.18.22:033][  0]LogSlate: Using Freetype 2.6.0
+[2020.09.30-19.18.22:119][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.30-19.18.22:119][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.30-19.18.36:631][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.30-19.18.38:621][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.09.30-19.18.38:694][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.09.30-19.18.38:695][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.30-19.18.38:709][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.09.30-19.18.38:709][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.09.30-19.18.38:710][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.09.30-19.18.38:993][  0]LogNetVersion: Vigilance418 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 63410103)
+[2020.09.30-19.18.40:151][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2020.09.30-19.18.50:278][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.961597 seconds
+[2020.09.30-19.18.50:286][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.09.30-19.18.50:286][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.09.30-19.18.50:286][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.30-19.18.50:493][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.09.30-19.19.31:364][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.30-19.19.31:455][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.30-19.19.34:576][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.09.30-19.19.45:049][  0]SourceControl: Source control is disabled
+[2020.09.30-19.19.45:275][  0]SourceControl: Source control is disabled
+[2020.09.30-19.19.46:171][  0]SourceControl: Source control is disabled
+[2020.09.30-19.19.46:428][  0]SourceControl: Source control is disabled
+[2020.09.30-19.20.13:139][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.30-19.20.13:806][  0]LogOcInput: OculusInput pre-init called
+[2020.09.30-19.20.20:609][  0]LogEngine: Initializing Engine...
+[2020.09.30-19.20.21:834][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.30-19.20.23:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.09.30-19.20.23:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.010 s
+[2020.09.30-19.20.25:233][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.30-19.20.25:657][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.30-19.20.26:489][  0]LogInit: FAudioDevice initialized.
+[2020.09.30-19.20.30:829][  0]LogDerivedDataCache: Saved boot cache 4.30s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.09.30-19.20.31:219][  0]LogInit: Texture streaming: Enabled
+[2020.09.30-19.20.32:953][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.30-19.20.38:217][  0]LogInit: Transaction tracking system initialized
+[2020.09.30-19.20.46:286][  0]BlueprintLog: New page: Editor Load
+[2020.09.30-19.20.59:190][  0]LocalizationService: Localization service is disabled
+[2020.09.30-19.21.08:777][  0]LogConsoleResponse: Display: 
+[2020.09.30-19.21.16:355][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.30-19.21.16:368][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.30-19.21.16:442][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.09.30-19.21.21:707][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' took 5.57s
+[2020.09.30-19.21.25:883][  0]SourceControl: Source control is disabled
+[2020.09.30-19.21.25:972][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.09.30-19.21.26:469][  0]LightingResults: New page: Lighting Build
+[2020.09.30-19.21.27:114][  0]MapCheck: New page: Map Check
+[2020.09.30-19.21.27:115][  0]LightingResults: New page: Lighting Build
+[2020.09.30-19.22.45:068][  0]LogAIModule: Creating AISystem for world SG_MissionMap
+[2020.09.30-19.22.48:188][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.30-19.22.49:851][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.30-19.22.51:203][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,342.803ms to complete.
+[2020.09.30-19.22.51:218][  0]LogFileHelpers: Loading map 'SG_MissionMap' took 85.274
+[2020.09.30-19.22.59:418][  0]LogCollectionManager: Loaded 0 collections in 0.017929 seconds
+[2020.09.30-19.22.59:959][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' took 0.02s
+[2020.09.30-19.22.59:959][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' took 0.01s
+[2020.09.30-19.22.59:959][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' took 0.01s
+[2020.09.30-19.22.59:959][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.09.30-19.23.00:007][  0]LogContentBrowser: Native class hierarchy populated in 0.0348 seconds. Added 2364 classes and 521 folders.
+[2020.09.30-19.23.00:444][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.09.30-19.23.04:154][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.09.30-19.23.04:881][  0]LogSlate: Took 0.111801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.30-19.23.05:419][  0]LogSlate: Took 0.042108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.30-19.23.08:163][  0]LogRenderer: Reallocating scene render targets to support 1044x656 Format 9 NumSamples 1 (Frame:1).
+[2020.09.30-19.23.22:709][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.09.30-19.23.22:709][  0]LogLoad: (Engine Initialization) Total time: 360.50 seconds
+[2020.09.30-19.23.22:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.30-19.23.22:744][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.09.30-19.23.24:749][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.09.30-19.23.28:394][  2]LogSlate: Took 0.053427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.09.30-19.23.54:429][ 80]LogAssetRegistry: Asset discovery search completed in 314.3007 seconds
+[2020.09.30-19.23.54:540][ 80]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.09.30-19.23.54:540][ 80]LogCollectionManager: Fixed up redirectors for 0 collections in 0.011060 seconds (updated 0 objects)
+[2020.09.30-19.24.18:885][171]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.09.30-19.24.22:218][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_MissionMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.30-19.24.26:014][171]LogSavePackage: Save=1634.52ms
+[2020.09.30-19.24.26:014][171]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_MissionMapAD22D227415A544AF3CF92B281CE40D7.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap'
+[2020.09.30-19.24.26:208][171]LogSlate: Took 0.122319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.30-19.24.26:215][171]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap
+[2020.09.30-19.24.26:797][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_MissionMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap_BuiltData.uasset" SILENT=true
+[2020.09.30-19.24.27:161][171]LogSavePackage: Save=118.93ms
+[2020.09.30-19.24.27:161][171]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_MissionMap_BuiltData1DF0B96B4EB616FB15A4E49229CEA837.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap_BuiltData.uasset'
+[2020.09.30-19.24.27:225][171]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap_BuiltData.uasset
+[2020.09.30-19.24.30:052][191]LogSlate: Took 0.331048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.30-19.24.33:753][401]Cmd: t.MaxFPS 30
+[2020.09.30-19.24.34:601][401]t.MaxFPS = "30"
+[2020.09.30-19.24.50:984][536]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.30-19.24.56:841][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.30-19.24.57:268][536]PIE: New page: PIE session: SG_MissionMap (Oct 1, 2020, 7:24:56 AM)
+[2020.09.30-19.24.57:296][536]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_MissionMap
+[2020.09.30-19.24.57:463][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166656s)
+[2020.09.30-19.24.57:464][536]LogAIModule: Creating AISystem for world SG_MissionMap
+[2020.09.30-19.24.57:559][536]LogPlayLevel: PIE: World Init took: (0.096310s)
+[2020.09.30-19.24.57:571][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_MissionMap.SG_MissionMap to /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap (0.286077s)
+[2020.09.30-19.24.57:723][536]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.30-19.24.57:749][536]LogInit: FAudioDevice initialized.
+[2020.09.30-19.24.58:017][536]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.30-19.24.58:386][536]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap up for play (max tick rate 30) at 2020.10.01-01.24.58
+[2020.09.30-19.24.58:917][536]LogWorld: Bringing up level for play took: 0.578393
+[2020.09.30-19.25.01:731][536]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0100 seconds. Added 11 classes and 0 folders.
+[2020.09.30-19.25.01:745][536]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.30-19.25.01:745][536]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.30-19.25.01:745][536]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.30-19.25.02:501][536]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.30-19.25.02:508][536]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_MissionMap 6.38
+[2020.09.30-19.25.03:255][537]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097407 > MaxSimulationTimeStep (0.050) for 'Fight_AI2', movement 'Walking'
+[2020.09.30-19.25.03:255][537]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097407 > MaxSimulationTimeStep (0.050) for 'Fight_AI3', movement 'Walking'
+[2020.09.30-19.25.08:102][654]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.08:191][657]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.08:299][660]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.08:409][663]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.08:507][666]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.08:607][669]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.08:752][672]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.08:853][675]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.08:952][678]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:053][681]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:152][684]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:254][687]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:354][690]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:480][692]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:579][695]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:694][698]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:793][701]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:892][704]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.09:992][707]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.10:100][710]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.10:200][713]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.10:302][716]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.10:409][719]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.10:511][722]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.10:620][725]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.10:732][728]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.10:838][731]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.11:059][737]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.11:175][740]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.11:277][743]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.11:378][746]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.11:490][749]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.11:598][752]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.11:708][755]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.11:809][758]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.11:917][761]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:026][764]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:134][767]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:243][770]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:343][773]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:442][776]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:543][779]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:642][782]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:741][785]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:844][788]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.12:952][791]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:058][794]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:161][797]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:269][800]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:371][803]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:474][806]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:576][809]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:675][812]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:776][815]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:876][818]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.13:980][821]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.14:087][824]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.14:189][827]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.14:294][830]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.14:392][833]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.14:494][836]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.14:602][839]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.25.14:708][842]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.04:572][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.30-19.26.04:721][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.30-19.26.04:721][ 55]PIE: New page: PIE session: SG_MissionMap (Oct 1, 2020, 7:26:04 AM)
+[2020.09.30-19.26.04:721][ 55]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_MissionMap
+[2020.09.30-19.26.04:776][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054474s)
+[2020.09.30-19.26.04:777][ 55]LogAIModule: Creating AISystem for world SG_MissionMap
+[2020.09.30-19.26.04:778][ 55]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2020.09.30-19.26.04:778][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_MissionMap.SG_MissionMap to /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap (0.056610s)
+[2020.09.30-19.26.04:837][ 55]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.30-19.26.04:845][ 55]LogInit: FAudioDevice initialized.
+[2020.09.30-19.26.04:894][ 55]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.30-19.26.04:929][ 55]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap up for play (max tick rate 30) at 2020.10.01-01.26.04
+[2020.09.30-19.26.04:932][ 55]LogWorld: Bringing up level for play took: 0.036998
+[2020.09.30-19.26.04:934][ 55]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.30-19.26.04:934][ 55]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.30-19.26.04:934][ 55]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.30-19.26.04:949][ 55]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.30-19.26.04:949][ 55]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_MissionMap 0.822
+[2020.09.30-19.26.04:982][ 56]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099575 > MaxSimulationTimeStep (0.050) for 'Fight_AI2', movement 'Walking'
+[2020.09.30-19.26.04:983][ 56]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099575 > MaxSimulationTimeStep (0.050) for 'Fight_AI3', movement 'Walking'
+[2020.09.30-19.26.34:785][676]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.34:930][679]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.35:069][682]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.35:206][685]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.35:338][688]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.35:440][690]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.35:547][692]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.35:679][695]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.35:821][698]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.35:972][701]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.36:107][704]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.36:254][707]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.36:400][710]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.36:538][713]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.36:687][716]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.36:822][719]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.36:923][721]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.37:061][724]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.37:207][727]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.26.54:591][105]LogCharacterMovement: Fight_AI2 is stuck and failed to move! Velocity: X=7.18 Y=13.18 Z=0.00 Location: X=11586.78 Y=2398.75 Z=103.15 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:16.088 Actor:CarChase_Truck_Pawn_494 Component:Box1 BoneName:None (0 other events since notify)
+[2020.09.30-19.31.26:686][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.30-19.31.26:815][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.30-19.31.26:815][ 32]PIE: New page: PIE session: SG_MissionMap (Oct 1, 2020, 7:31:26 AM)
+[2020.09.30-19.31.26:817][ 32]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_MissionMap
+[2020.09.30-19.31.26:870][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053144s)
+[2020.09.30-19.31.26:872][ 32]LogAIModule: Creating AISystem for world SG_MissionMap
+[2020.09.30-19.31.26:873][ 32]LogPlayLevel: PIE: World Init took: (0.002478s)
+[2020.09.30-19.31.26:873][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_MissionMap.SG_MissionMap to /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap (0.056839s)
+[2020.09.30-19.31.26:913][ 32]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.30-19.31.26:922][ 32]LogInit: FAudioDevice initialized.
+[2020.09.30-19.31.26:962][ 32]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.30-19.31.27:008][ 32]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap up for play (max tick rate 30) at 2020.10.01-01.31.27
+[2020.09.30-19.31.27:011][ 32]LogWorld: Bringing up level for play took: 0.049703
+[2020.09.30-19.31.27:013][ 32]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.30-19.31.27:013][ 32]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.30-19.31.27:013][ 32]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.30-19.31.27:037][ 32]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.30-19.31.27:037][ 32]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_MissionMap 0.909
+[2020.09.30-19.31.50:265][529]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.50:398][532]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.50:522][535]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.50:656][538]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.50:785][541]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.50:915][544]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.51:049][547]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.51:177][550]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.51:310][553]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.51:444][556]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.51:569][559]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.51:700][562]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.51:840][565]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.51:986][568]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.52:127][571]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.52:268][574]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.52:401][577]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.52:542][580]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.52:684][583]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.52:837][586]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.31.52:976][589]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.32.10:925][972]LogCharacterMovement: Fight_AI2 is stuck and failed to move! Velocity: X=7.38 Y=21.71 Z=0.00 Location: X=11587.50 Y=2329.11 Z=103.15 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:34.879 Actor:CarChase_Truck_Pawn_494 Component:Box1 BoneName:None (0 other events since notify)
+[2020.09.30-19.32.37:855][188]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.30-19.32.38:852][188]LogSlate: Took 0.082441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.30-19.32.39:795][189]LogEditorViewport: Clicking on Actor (LMB): TriggerWhenAboutTogetintoCarChese_C (TriggerWhenAboutTogetintoCarChese)
+[2020.09.30-19.32.46:792][281]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.30-19.32.46:938][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.30-19.32.46:939][281]PIE: New page: PIE session: SG_MissionMap (Oct 1, 2020, 7:32:46 AM)
+[2020.09.30-19.32.46:939][281]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_MissionMap
+[2020.09.30-19.32.46:989][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049827s)
+[2020.09.30-19.32.46:990][281]LogAIModule: Creating AISystem for world SG_MissionMap
+[2020.09.30-19.32.46:991][281]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2020.09.30-19.32.46:991][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_MissionMap.SG_MissionMap to /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap (0.052044s)
+[2020.09.30-19.32.47:228][281]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.30-19.32.47:241][281]LogInit: FAudioDevice initialized.
+[2020.09.30-19.32.47:280][281]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.09.30-19.32.47:320][281]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap up for play (max tick rate 30) at 2020.10.01-01.32.47
+[2020.09.30-19.32.47:323][281]LogWorld: Bringing up level for play took: 0.042562
+[2020.09.30-19.32.47:325][281]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.30-19.32.47:325][281]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.30-19.32.47:325][281]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.30-19.32.47:341][281]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.30-19.32.47:341][281]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_MissionMap 1.213
+[2020.09.30-19.33.11:841][788]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.11:984][791]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.12:122][794]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.12:257][797]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.12:390][800]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.12:517][803]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.12:646][806]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.12:778][809]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.12:900][812]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.13:036][815]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.13:174][818]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.13:308][821]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.13:451][824]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.13:590][827]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.13:724][830]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.13:870][833]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.14:009][836]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.14:146][839]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.14:289][842]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.14:435][845]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.14:579][848]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.14:682][850]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.14:827][853]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.14:977][856]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.15:122][859]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.33.15:271][862]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Hacked Actor On Front' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackerForPlayer.HackerForPlayer_C'!
+[2020.09.30-19.51.08:518][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_MissionMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.30-19.51.09:309][500]LogSavePackage: Save=638.79ms
+[2020.09.30-19.51.09:309][500]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_MissionMapEC8CB4C746DDE6F4DA25F6925494CF3E.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap'
+[2020.09.30-19.51.09:380][500]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap
+[2020.09.30-19.51.09:563][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_MissionMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap_BuiltData.uasset" SILENT=true
+[2020.09.30-19.51.09:681][500]LogSavePackage: Save=26.52ms
+[2020.09.30-19.51.09:681][500]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_MissionMap_BuiltDataB70068BA435BBAEC7AA46B9C0D328D52.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap_BuiltData.uasset'
+[2020.09.30-19.51.09:683][500]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap_BuiltData.uasset
+[2020.09.30-19.51.12:398][540]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.30-19.51.13:674][541]Cmd: QUIT_EDITOR
+[2020.09.30-19.51.15:446][541]LogExit: Preparing to exit.
+[2020.09.30-19.51.20:127][541]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.09.30-19.51.22:965][541]LogExit: Editor shut down
+[2020.09.30-19.51.23:026][541]LogExit: Transaction tracking system shut down
+[2020.09.30-19.51.28:600][541]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.09.30-19.51.28:600][541]LogDirectoryWatcher: A directory notification for '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.09.30-19.51.28:600][541]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.09.30-19.51.28:600][541]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.09.30-19.51.28:600][541]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.09.30-19.51.28:600][541]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.09.30-19.51.28:600][541]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.09.30-19.51.36:950][541]LogExit: Object subsystem successfully closed.
+[2020.09.30-19.51.38:144][541]LogD3D11RHI: Shutdown
+[2020.09.30-19.51.38:145][541]LogD3D11RHI: CleanupD3DDevice
+[2020.09.30-19.51.38:993][541]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.09.30-19.51.43:503][541]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2020.09.30-19.51.43:503][541]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2020.09.30-19.51.43:503][541]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2020.09.30-19.51.43:525][541]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/' was aborted.
+[2020.09.30-19.51.43:578][541]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2020.09.30-19.51.43:578][541]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2020.09.30-19.51.43:578][541]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2020.09.30-19.51.43:655][541]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' was aborted.
+[2020.09.30-19.51.43:655][541]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' was aborted.
+[2020.09.30-19.51.43:655][541]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' was aborted.
+[2020.09.30-19.51.43:655][541]LogModuleManager: Shutting down and abandoning module SceneOutliner (540)
+[2020.09.30-19.51.43:673][541]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2020.09.30-19.51.43:716][541]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2020.09.30-19.51.43:736][541]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2020.09.30-19.51.43:871][541]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2020.09.30-19.51.43:880][541]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2020.09.30-19.51.43:880][541]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2020.09.30-19.51.43:880][541]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2020.09.30-19.51.43:880][541]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2020.09.30-19.51.43:880][541]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2020.09.30-19.51.43:880][541]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2020.09.30-19.51.43:880][541]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2020.09.30-19.51.43:880][541]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2020.09.30-19.51.43:927][541]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2020.09.30-19.51.43:973][541]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2020.09.30-19.51.44:021][541]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2020.09.30-19.51.44:128][541]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2020.09.30-19.51.44:133][541]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2020.09.30-19.51.44:141][541]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2020.09.30-19.51.44:141][541]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2020.09.30-19.51.44:141][541]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2020.09.30-19.51.44:141][541]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2020.09.30-19.51.44:141][541]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2020.09.30-19.51.44:216][541]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2020.09.30-19.51.44:297][541]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2020.09.30-19.51.44:331][541]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2020.09.30-19.51.44:403][541]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2020.09.30-19.51.44:474][541]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2020.09.30-19.51.44:474][541]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2020.09.30-19.51.44:474][541]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2020.09.30-19.51.44:474][541]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2020.09.30-19.51.45:281][541]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2020.09.30-19.51.45:281][541]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2020.09.30-19.51.45:281][541]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2020.09.30-19.51.45:282][541]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2020.09.30-19.51.45:296][541]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2020.09.30-19.51.45:311][541]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2020.09.30-19.51.45:311][541]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2020.09.30-19.51.45:321][541]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2020.09.30-19.51.45:321][541]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2020.09.30-19.51.45:334][541]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2020.09.30-19.51.45:343][541]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2020.09.30-19.51.45:343][541]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2020.09.30-19.51.45:343][541]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2020.09.30-19.51.45:343][541]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2020.09.30-19.51.45:350][541]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2020.09.30-19.51.45:350][541]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2020.09.30-19.51.45:351][541]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2020.09.30-19.51.45:351][541]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2020.09.30-19.51.45:351][541]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2020.09.30-19.51.45:365][541]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2020.09.30-19.51.45:380][541]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2020.09.30-19.51.45:392][541]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2020.09.30-19.51.45:399][541]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2020.09.30-19.51.45:427][541]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2020.09.30-19.51.45:495][541]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2020.09.30-19.51.45:514][541]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2020.09.30-19.51.45:536][541]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2020.09.30-19.51.45:559][541]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2020.09.30-19.51.45:559][541]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2020.09.30-19.51.45:571][541]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2020.09.30-19.51.45:592][541]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2020.09.30-19.51.45:677][541]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2020.09.30-19.51.45:677][541]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2020.09.30-19.51.45:677][541]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2020.09.30-19.51.45:786][541]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2020.09.30-19.51.45:786][541]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2020.09.30-19.51.45:786][541]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2020.09.30-19.51.45:797][541]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2020.09.30-19.51.45:844][541]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2020.09.30-19.51.45:844][541]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2020.09.30-19.51.45:850][541]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2020.09.30-19.51.45:875][541]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2020.09.30-19.51.45:878][541]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2020.09.30-19.51.45:887][541]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2020.09.30-19.51.45:888][541]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2020.09.30-19.51.45:974][541]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.09.30-19.51.45:990][541]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2020.09.30-19.51.46:021][541]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2020.09.30-19.51.46:033][541]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2020.09.30-19.51.46:033][541]LogModuleManager: Shutting down and abandoning module RootMotionExtractor (318)
+[2020.09.30-19.51.46:057][541]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2020.09.30-19.51.46:057][541]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2020.09.30-19.51.46:073][541]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2020.09.30-19.51.46:073][541]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2020.09.30-19.51.46:085][541]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2020.09.30-19.51.46:085][541]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2020.09.30-19.51.46:085][541]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2020.09.30-19.51.46:119][541]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2020.09.30-19.51.46:127][541]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2020.09.30-19.51.46:128][541]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2020.09.30-19.51.46:128][541]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2020.09.30-19.51.46:128][541]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2020.09.30-19.51.46:143][541]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2020.09.30-19.51.46:168][541]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2020.09.30-19.51.46:192][541]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2020.09.30-19.51.46:207][541]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2020.09.30-19.51.46:207][541]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2020.09.30-19.51.46:207][541]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2020.09.30-19.51.46:207][541]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2020.09.30-19.51.46:245][541]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2020.09.30-19.51.46:255][541]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2020.09.30-19.51.46:303][541]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2020.09.30-19.51.46:344][541]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2020.09.30-19.51.46:344][541]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2020.09.30-19.51.46:355][541]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2020.09.30-19.51.46:370][541]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2020.09.30-19.51.46:384][541]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2020.09.30-19.51.46:384][541]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2020.09.30-19.51.46:384][541]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2020.09.30-19.51.46:384][541]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2020.09.30-19.51.46:384][541]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2020.09.30-19.51.46:384][541]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2020.09.30-19.51.46:501][541]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2020.09.30-19.51.46:616][541]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.09.30-19.51.46:642][541]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.09.30-19.51.46:650][541]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.09.30-19.51.46:650][541]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.09.30-19.51.46:675][541]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.09.30-19.51.46:723][541]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.09.30-19.51.46:734][541]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.09.30-19.51.46:734][541]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.09.30-19.51.46:734][541]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.09.30-19.51.46:743][541]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.09.30-19.51.46:765][541]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.09.30-19.51.46:765][541]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.09.30-19.51.46:765][541]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.09.30-19.51.46:765][541]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.09.30-19.51.46:788][541]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.09.30-19.51.46:788][541]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.09.30-19.51.46:793][541]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.09.30-19.51.46:793][541]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.09.30-19.51.46:793][541]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.09.30-19.51.46:819][541]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.09.30-19.51.46:830][541]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.09.30-19.51.46:830][541]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.09.30-19.51.46:868][541]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.09.30-19.51.46:868][541]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.09.30-19.51.46:894][541]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.09.30-19.51.46:906][541]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.09.30-19.51.46:911][541]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.09.30-19.51.46:957][541]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.09.30-19.51.46:999][541]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.09.30-19.51.47:012][541]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.09.30-19.51.47:069][541]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.09.30-19.51.47:069][541]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.09.30-19.51.47:222][541]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.09.30-19.51.47:222][541]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.09.30-19.51.47:254][541]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.09.30-19.51.47:254][541]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.09.30-19.51.47:254][541]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.09.30-19.51.47:254][541]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.09.30-19.51.47:254][541]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.09.30-19.51.47:254][541]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.09.30-19.51.47:278][541]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.09.30-19.51.47:278][541]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.09.30-19.51.47:332][541]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.09.30-19.51.47:351][541]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.09.30-19.51.47:351][541]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.09.30-19.51.47:368][541]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.09.30-19.51.47:397][541]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.09.30-19.51.47:419][541]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.09.30-19.51.47:424][541]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.09.30-19.51.47:498][541]LogDerivedDataCache: Shutdown
+[2020.09.30-19.51.47:498][541]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.09.30-19.51.47:520][541]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.09.30-19.51.47:546][541]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.09.30-19.51.47:575][541]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.09.30-19.51.47:599][541]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.09.30-19.51.47:605][541]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.09.30-19.51.47:617][541]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.09.30-19.51.47:629][541]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.09.30-19.51.47:636][541]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.09.30-19.51.47:636][541]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.09.30-19.51.47:659][541]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.09.30-19.51.47:659][541]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.09.30-19.51.47:659][541]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.09.30-19.51.47:665][541]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.09.30-19.51.47:666][541]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.09.30-19.51.47:671][541]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.09.30-19.51.47:678][541]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.09.30-19.51.47:725][541]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.09.30-19.51.47:742][541]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.09.30-19.51.47:749][541]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.09.30-19.51.47:772][541]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.09.30-19.51.47:772][541]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.09.30-19.51.47:782][541]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.09.30-19.51.47:782][541]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.09.30-19.51.47:795][541]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.09.30-19.51.47:795][541]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.09.30-19.51.47:795][541]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.09.30-19.51.47:795][541]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.09.30-19.51.47:795][541]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.09.30-19.51.47:796][541]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.09.30-19.51.47:796][541]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.09.30-19.51.47:796][541]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.09.30-19.51.47:796][541]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.09.30-19.51.47:796][541]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.09.30-19.51.47:825][541]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.09.30-19.51.47:826][541]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.09.30-19.51.47:826][541]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.09.30-19.51.47:856][541]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.09.30-19.51.47:856][541]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.09.30-19.51.47:856][541]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.09.30-19.51.47:856][541]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.09.30-19.51.47:856][541]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.09.30-19.51.47:856][541]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.09.30-19.51.47:889][541]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.09.30-19.51.47:889][541]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.09.30-19.51.47:889][541]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.09.30-19.51.47:905][541]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.09.30-19.51.47:918][541]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.09.30-19.51.47:918][541]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.09.30-19.51.47:918][541]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.09.30-19.51.47:918][541]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.09.30-19.51.47:950][541]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.09.30-19.51.47:994][541]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.09.30-19.51.47:994][541]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.30-19.51.48:001][541]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE5BEF1DA-4BB4-791E-4588-03BC1B03AA55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dab985eb449ee4f1b342389e404cab9f%7C845779d9bd904572b61cf91381b7a44e%7C4e718ad1-99cd-4dc7-9063-d4e2b6f3fd7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.09.30-19.51.48:118][541]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.09.30-19.51.48:140][541]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.09.30-19.51.48:150][541]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.09.30-19.51.48:174][541]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.09.30-19.51.48:198][541]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.09.30-19.51.48:263][541]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.09.30-19.51.48:263][541]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.09.30-19.51.48:263][541]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.09.30-19.51.48:351][541]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.09.30-19.51.48:369][541]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.09.30-19.51.48:369][541]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.09.30-19.51.48:369][541]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.09.30-19.51.48:369][541]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.09.30-19.51.48:369][541]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.09.30-19.51.48:370][541]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.09.30-19.51.48:382][541]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.09.30-19.51.48:393][541]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.09.30-19.51.48:403][541]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.09.30-19.51.48:403][541]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.09.30-19.51.48:447][541]LogExit: Exiting.
+[2020.09.30-19.51.48:800][541]Log file closed, 10/01/20 01:51:48
