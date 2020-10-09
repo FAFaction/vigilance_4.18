@@ -1,0 +1,676 @@
+﻿Log file open, 10/09/20 23:59:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vigilance418
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1477895619) SRandInit(1477895620).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.832990
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/RootMotionExtractor/Binaries/Win64/UE4Editor-RootMotionExtractor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RootMotionExtractor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.10.09-17.59.35:760][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.09-17.59.35:760][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.09-17.59.35:951][  0]LogInit: Computer: ISHRAQ-PC
+[2020.10.09-17.59.35:951][  0]LogInit: User: farha
+[2020.10.09-17.59.35:951][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.10.09-17.59.35:951][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.09-17.59.35:952][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.10.09-17.59.35:952][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.09-17.59.35:952][  0]LogMemory: Process Physical Memory: 276.63 MB used, 276.63 MB peak
+[2020.10.09-17.59.35:952][  0]LogMemory: Process Virtual Memory: 282.72 MB used, 282.72 MB peak
+[2020.10.09-17.59.35:952][  0]LogMemory: Physical Memory: 2640.35 MB used,  1336.66 MB free, 3977.01 MB total
+[2020.10.09-17.59.35:952][  0]LogMemory: Virtual Memory: 4772.74 MB used,  1336.66 MB free, 134217728.00 MB total
+[2020.10.09-17.59.37:318][  0]LogInit: Using OS detected language (en-US).
+[2020.10.09-17.59.37:318][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.09-17.59.37:519][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.09-17.59.38:635][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.09-17.59.40:880][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.09-17.59.40:908][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.10.09-17.59.40:908][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.10.09-17.59.40:995][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.09-17.59.40:995][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.09-17.59.40:995][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.09-17.59.41:002][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.09-17.59.41:003][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.09-17.59.41:003][  0]LogWindows: EnumDisplayDevices:
+[2020.10.09-17.59.41:004][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.10.09-17.59.41:024][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.10.09-17.59.41:024][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.09-17.59.41:024][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.10.09-17.59.41:024][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.09-17.59.41:024][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.09-17.59.41:024][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.10.09-17.59.41:043][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.09-17.59.41:573][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.10.09-17.59.41:717][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GITHUB/vigilance_4.18/Vigilance418/Intermediate/Shaders/WorkingDirectory/4788/).
+[2020.10.09-17.59.41:717][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/68C576DD436992CFA9FF3AA7E63A8F14/'.
+[2020.10.09-17.59.41:733][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.09-17.59.48:248][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.10.09-17.59.48:342][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.10.09-17.59.48:442][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.10.09-17.59.48:514][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.10.09-17.59.48:618][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.10.09-17.59.48:711][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.10.09-17.59.48:796][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.10.09-17.59.48:898][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.10.09-17.59.49:059][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.10.09-17.59.49:190][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.10.09-17.59.49:348][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.10.09-17.59.49:463][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.10.09-17.59.49:625][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.10.09-17.59.49:779][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.10.09-17.59.49:996][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.10.09-17.59.49:996][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.10.09-17.59.50:163][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.09-17.59.50:242][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.10.09-17.59.50:568][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.10.09-17.59.50:634][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.10.09-17.59.50:749][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.10.09-17.59.50:914][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.10.09-17.59.51:036][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.10.09-17.59.51:147][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.10.09-17.59.51:147][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.09-17.59.52:966][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.09-17.59.53:955][  0]LogDerivedDataCache: Loaded boot cache 0.97s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.09-17.59.53:955][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.10.09-17.59.53:955][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.09-17.59.53:955][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.09-17.59.53:955][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.09-17.59.53:955][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.09-17.59.54:054][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.09-17.59.54:103][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.09-17.59.54:178][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.10.09-17.59.54:254][  0]LogSlate: Using Freetype 2.6.0
+[2020.10.09-17.59.54:328][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.09-17.59.54:338][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.09-18.00.00:298][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.09-18.00.04:213][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.10.09-18.00.04:351][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.10.09-18.00.04:378][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.09-18.00.04:378][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.10.09-18.00.04:378][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.10.09-18.00.04:378][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.10.09-18.00.04:957][  0]LogNetVersion: Vigilance418 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 63410103)
+[2020.10.09-18.00.06:861][  0]LogAssetRegistry: FAssetRegistry took 0.0352 seconds to start up
+[2020.10.09-18.00.17:794][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.549452 seconds
+[2020.10.09-18.00.17:842][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.10.09-18.00.17:842][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.10.09-18.00.17:842][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.09-18.00.17:992][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.10.09-18.00.46:608][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.09-18.00.46:736][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.09-18.01.01:491][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.10.09-18.01.04:774][  0]SourceControl: Source control is disabled
+[2020.10.09-18.01.04:809][  0]SourceControl: Source control is disabled
+[2020.10.09-18.01.05:574][  0]SourceControl: Source control is disabled
+[2020.10.09-18.01.05:780][  0]SourceControl: Source control is disabled
+[2020.10.09-18.01.11:026][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.09-18.01.11:831][  0]LogOcInput: OculusInput pre-init called
+[2020.10.09-18.01.13:598][  0]LogEngine: Initializing Engine...
+[2020.10.09-18.01.13:706][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.09-18.01.14:757][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.09-18.01.14:759][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.10.09-18.01.15:987][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.09-18.01.16:428][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.09-18.01.16:534][  0]LogInit: FAudioDevice initialized.
+[2020.10.09-18.01.17:064][  0]LogDerivedDataCache: Saved boot cache 0.47s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.09-18.01.17:221][  0]LogInit: Texture streaming: Enabled
+[2020.10.09-18.01.21:408][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.09-18.01.22:076][  0]LogInit: Transaction tracking system initialized
+[2020.10.09-18.01.23:248][  0]BlueprintLog: New page: Editor Load
+[2020.10.09-18.01.27:043][  0]LocalizationService: Localization service is disabled
+[2020.10.09-18.01.30:195][  0]LogConsoleResponse: Display: 
+[2020.10.09-18.01.34:165][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.09-18.01.34:166][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.09-18.01.34:186][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.10.09-18.01.35:273][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' took 0.91s
+[2020.10.09-18.01.38:433][  0]SourceControl: Source control is disabled
+[2020.10.09-18.01.38:511][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.10.09-18.01.38:525][  0]LightingResults: New page: Lighting Build
+[2020.10.09-18.01.38:823][  0]MapCheck: New page: Map Check
+[2020.10.09-18.01.38:823][  0]LightingResults: New page: Lighting Build
+[2020.10.09-18.02.05:581][  0]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/Blueprints/AI_Blueprint/ShooterAI/NewShooterAI/AI_Guns/Bullets/AI_RifleBullet.AI_RifleBullet_C:UserConstructionScript; removing parent information, but keeping function
+[2020.10.09-18.02.12:301][  0]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/Blueprints/CustomBlueprints/Scanner/ScannedCharacter.ScannedCharacter_C:UserConstructionScript; removing parent information, but keeping function
+[2020.10.09-18.02.50:591][  0]LogAIModule: Creating AISystem for world SG_MissionMap
+[2020.10.09-18.02.53:671][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.10.09-18.02.54:555][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.09-18.02.55:617][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,052.308ms to complete.
+[2020.10.09-18.02.55:633][  0]LogFileHelpers: Loading map 'SG_MissionMap' took 77.161
+[2020.10.09-18.03.07:738][  0]LogCollectionManager: Loaded 0 collections in 0.032948 seconds
+[2020.10.09-18.03.09:299][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' took 0.01s
+[2020.10.09-18.03.09:299][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' took 0.01s
+[2020.10.09-18.03.09:300][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' took 0.01s
+[2020.10.09-18.03.09:300][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.10.09-18.03.09:442][  0]LogContentBrowser: Native class hierarchy populated in 0.1079 seconds. Added 2373 classes and 526 folders.
+[2020.10.09-18.03.10:190][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.09-18.03.14:702][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.09-18.03.15:313][  0]LogSlate: Took 0.085032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.09-18.03.16:875][  0]LogSlate: Took 0.426639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.09-18.03.25:609][  0]LogRenderer: Reallocating scene render targets to support 992x656 Format 9 NumSamples 1 (Frame:1).
+[2020.10.09-18.04.21:889][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.10.09-18.04.21:889][  0]LogLoad: (Engine Initialization) Total time: 322.39 seconds
+[2020.10.09-18.04.21:889][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.09-18.04.21:973][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.10.09-18.04.24:447][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.10.09-18.04.31:467][  9]LogAssetRegistry: Asset discovery search completed in 264.6285 seconds
+[2020.10.09-18.04.31:716][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2020.10.09-18.04.31:717][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.034566 seconds (updated 0 objects)
+[2020.10.09-18.04.54:353][493]LogSlate: Took 0.035562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.09-18.04.55:292][497]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.Player_AnimBP_C_1
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:07D5
+[2020.10.09-18.05.30:683][834]LogSlate: Took 0.012341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.09-18.05.31:206][834]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck 3/Truck 3 N.fbx)
+[2020.10.09-18.05.31:554][834]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.10.09-18.05.31:554][834]LogFbx: ItemName: Geometry, ItemCount : 1
+[2020.10.09-18.05.31:554][834]LogFbx: ItemName: Model, ItemCount : 1
+[2020.10.09-18.05.31:554][834]LogFbx: ItemName: Material, ItemCount : 2
+[2020.10.09-18.05.31:617][834]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck 3/Truck 3 N.fbx
+[2020.10.09-18.05.31:656][834]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.09-18.05.39:812][834]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck 3/Truck 3 N.fbx
+[2020.10.09-18.05.39:821][834]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.09-18.05.39:880][834]LogFbx: Warning: Triangulating static mesh Cube
+[2020.10.09-18.05.40:179][834]LogStaticMesh: Building static mesh Truck_3_N_Cube...
+[2020.10.09-18.05.40:382][834]LogStaticMesh: Built static mesh [0.26s] /Game/GameContent/Vehicle/Truck_3_N_Cube.Truck_3_N_Cube
+[2020.10.09-18.05.40:995][834]LogSlate: Took 0.053341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.09-18.05.42:732][834]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.09-18.05.56:785][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck 3/Truck 3_BaseColor.png)
+[2020.10.09-18.05.57:251][177]LogTexture: Display: Building textures: Truck_3_BaseColor (AutoDXT, 2048X2048)
+[2020.10.09-18.06.02:325][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck 3/Truck 3_Normal.png)
+[2020.10.09-18.06.02:935][177]LogTexture: Display: Building textures: Truck_3_Normal (BC5, 2048X2048)
+[2020.10.09-18.06.03:931][177]LogSlate: Took 0.158944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.09-18.06.07:948][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck 3/Truck 3_RMAD.png)
+[2020.10.09-18.06.08:632][177]LogTexture: Display: Building textures: Truck_3_RMAD (AutoDXT, 2048X2048)
+[2020.10.09-18.06.29:709][326]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck/Truck Scifi Stuff added on top.fbx)
+[2020.10.09-18.06.29:729][326]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.10.09-18.06.29:729][326]LogFbx: ItemName: Geometry, ItemCount : 3
+[2020.10.09-18.06.29:729][326]LogFbx: ItemName: Model, ItemCount : 3
+[2020.10.09-18.06.29:729][326]LogFbx: ItemName: Material, ItemCount : 3
+[2020.10.09-18.06.29:729][326]LogFbx: ItemName: Texture, ItemCount : 1
+[2020.10.09-18.06.29:729][326]LogFbx: ItemName: Video, ItemCount : 1
+[2020.10.09-18.06.29:735][326]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck/Truck Scifi Stuff added on top.fbx
+[2020.10.09-18.06.29:878][326]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.09-18.06.32:263][326]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck/Truck Scifi Stuff added on top.fbx
+[2020.10.09-18.06.32:320][326]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.09-18.06.32:323][326]LogFbx: Warning: Triangulating static mesh Cube.001
+[2020.10.09-18.06.33:165][326]LogStaticMesh: Building static mesh Truck_Scifi_Stuff_added_on_top_Cube_001...
+[2020.10.09-18.06.34:433][326]LogStaticMesh: Built static mesh [1.29s] /Game/GameContent/Vehicle/Truck_Scifi_Stuff_added_on_top_Cube_001.Truck_Scifi_Stuff_added_on_top_Cube_001
+[2020.10.09-18.06.35:012][326]LogFbx: Warning: Triangulating static mesh Cube.002
+[2020.10.09-18.06.36:816][326]LogStaticMesh: Building static mesh Truck_Scifi_Stuff_added_on_top_Cube_002...
+[2020.10.09-18.06.43:455][326]LogStaticMesh: Built static mesh [6.68s] /Game/GameContent/Vehicle/Truck_Scifi_Stuff_added_on_top_Cube_002.Truck_Scifi_Stuff_added_on_top_Cube_002
+[2020.10.09-18.06.44:249][326]LogFbx: Warning: Triangulating static mesh Cube.000
+[2020.10.09-18.06.44:352][326]LogStaticMesh: Building static mesh Truck_Scifi_Stuff_added_on_top_Cube_000...
+[2020.10.09-18.06.44:450][326]LogStaticMesh: Built static mesh [0.14s] /Game/GameContent/Vehicle/Truck_Scifi_Stuff_added_on_top_Cube_000.Truck_Scifi_Stuff_added_on_top_Cube_000
+[2020.10.09-18.06.44:767][326]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.09-18.06.59:096][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck Tex/Truck 2_BaseColor.png)
+[2020.10.09-18.06.59:435][543]LogTexture: Display: Building textures: Truck_2_BaseColor (AutoDXT, 2048X2048)
+[2020.10.09-18.07.02:160][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck Tex/Truck 2_Normal.png)
+[2020.10.09-18.07.02:581][543]LogTexture: Display: Building textures: Truck_2_Normal (BC5, 2048X2048)
+[2020.10.09-18.07.04:812][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameAssets/ProjectFiles/Vigilance 01/Vehicle/Truck Tex/Truck 2_RMAD.png)
+[2020.10.09-18.07.05:268][543]LogTexture: Display: Building textures: Truck_2_RMAD (AutoDXT, 2048X2048)
+[2020.10.09-18.07.50:408][579]LogEditorTransaction: Undo Create Sphere Collision
+[2020.10.09-18.08.04:077][922]Cmd: MODE SCALEGRID=0
+[2020.10.09-18.10.41:778][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Vehicle/Truck_3_N_Cube" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_3_N_Cube.uasset" SILENT=true
+[2020.10.09-18.10.42:610][288]LogSavePackage: Save=759.56ms
+[2020.10.09-18.10.42:611][288]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Truck_3_N_Cube4FFF9E044F776999EDA99A8083201D3C.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_3_N_Cube.uasset'
+[2020.10.09-18.10.43:154][288]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_3_N_Cube.uasset
+[2020.10.09-18.10.59:749][988]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0108 seconds. Added 1 classes and 0 folders.
+[2020.10.09-18.10.59:910][988]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.01:964][988]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.02:150][988]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.02:383][988]LogSlate: Took 0.125407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.09-18.11.13:460][361]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.13:549][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.09-18.11.13:680][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.09-18.11.13:698][361]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.13:761][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.09-18.11.13:850][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.09-18.11.14:109][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.09-18.11.14:128][361]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.14:389][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.10.09-18.11.14:513][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.09-18.11.14:520][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.09-18.11.14:588][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.10.09-18.11.19:025][518]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.19:124][518]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.10.09-18.11.22:385][656]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.22:420][656]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.09-18.11.26:304][814]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.26:350][814]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.09-18.11.28:272][889]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.28:361][889]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.09-18.11.30:450][978]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.30:500][978]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.09-18.11.32:053][ 30]LogMaterialEditor: Applying material M_Truck3
+[2020.10.09-18.11.35:404][ 30]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.35:604][ 30]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.35:680][ 30]LogMaterial: Missing cached shader map for material M_Truck3, compiling. 
+[2020.10.09-18.11.36:982][ 30]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Truck3, compiling. 
+[2020.10.09-18.11.37:807][ 30]TextureStreamingBuild: Display: Compiling optional shaders took 0.889 seconds.
+[2020.10.09-18.11.40:256][106]LogMaterialEditor: Saving and Compiling material M_Truck3
+[2020.10.09-18.11.42:686][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Vehicle/M_Truck3" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/M_Truck3.uasset" SILENT=true
+[2020.10.09-18.11.42:783][106]LogSavePackage: Save=94.95ms
+[2020.10.09-18.11.42:783][106]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/M_Truck332194C7F4F6CBB295D50628D5A083AB1.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/M_Truck3.uasset'
+[2020.10.09-18.11.42:788][106]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/M_Truck3.uasset
+[2020.10.09-18.11.42:836][106]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.10.09-18.11.42:836][106]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2020.10.09-18.11.42:836][106]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.09-18.11.42:836][106]MaterialEditorStats: Texture samplers: 6/16
+[2020.10.09-18.11.42:836][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.09-18.12.21:635][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Vehicle/Truck_3_N_Cube" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_3_N_Cube.uasset" SILENT=true
+[2020.10.09-18.12.21:887][192]LogSavePackage: Save=87.19ms
+[2020.10.09-18.12.21:887][192]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Truck_3_N_Cube893A26224E92366CA6A5ABB1F0026D33.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_3_N_Cube.uasset'
+[2020.10.09-18.12.21:898][192]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_3_N_Cube.uasset
+[2020.10.09-18.12.52:260][453]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.12.52:598][453]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.12.52:616][453]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.12.57:566][553]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.12.57:620][553]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.12.57:906][554]LogSlate: Took 0.027303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.09-18.12.58:833][568]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.06:783][672]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.12:635][749]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.13:776][749]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.13.22:833][766]MaterialEditorStats: Base pass shader: 98 instructions
+[2020.10.09-18.13.22:834][766]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2020.10.09-18.13.22:834][766]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.09-18.13.22:834][766]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.09-18.13.24:390][794]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.13.24:643][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.13.25:181][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.13.25:246][820]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.25:394][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.13.25:867][826]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.13.29:989][ 32]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.13.30:031][ 32]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.30:082][ 32]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.13.37:286][126]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.40:907][180]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.43:350][242]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.43:511][242]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.09-18.13.44:699][278]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.46:658][337]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.48:348][360]LogMaterialEditor: Applying material M_Glow
+[2020.10.09-18.13.50:348][360]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.50:655][360]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.50:725][360]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.13.50:904][360]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glow, compiling. 
+[2020.10.09-18.13.54:206][360]TextureStreamingBuild: Display: Compiling optional shaders took 3.314 seconds.
+[2020.10.09-18.14.01:400][613]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.14.01:485][613]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.14.03:987][647]MaterialEditorStats: Base pass shader without light map: 28 instructions
+[2020.10.09-18.14.03:987][647]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.10.09-18.14.03:987][647]MaterialEditorStats: Texture samplers: 0/16
+[2020.10.09-18.14.06:062][685]LogMaterialEditor: Saving and Compiling material M_Glow
+[2020.10.09-18.14.06:956][685]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.14.07:129][685]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.14.07:160][685]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.09-18.14.07:311][685]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glow, compiling. 
+[2020.10.09-18.14.07:877][685]TextureStreamingBuild: Display: Compiling optional shaders took 0.594 seconds.
+[2020.10.09-18.14.08:426][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Vehicle/M_Glow" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/M_Glow.uasset" SILENT=true
+[2020.10.09-18.14.08:521][685]LogSavePackage: Save=59.29ms
+[2020.10.09-18.14.08:521][685]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/M_GlowD89176F147BFACEBC0298BB834E7FD5A.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/M_Glow.uasset'
+[2020.10.09-18.14.08:526][685]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/M_Glow.uasset
+[2020.10.09-18.14.36:430][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Vehicle/Truck_3_N_Cube" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_3_N_Cube.uasset" SILENT=true
+[2020.10.09-18.14.36:477][424]LogSavePackage: Save=21.09ms
+[2020.10.09-18.14.36:477][424]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Truck_3_N_CubeED98C71949A01E3CA1C486BE4AD52122.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_3_N_Cube.uasset'
+[2020.10.09-18.14.36:480][424]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_3_N_Cube.uasset
+[2020.10.09-18.14.48:271][ 60]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.14.49:971][133]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.14.50:311][133]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.14.50:339][133]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.14.50:486][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.09-18.14.50:544][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.09-18.14.50:598][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.10.09-18.14.58:297][501]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.10.09-18.14.58:297][501]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2020.10.09-18.14.58:297][501]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.09-18.14.58:298][501]MaterialEditorStats: Texture samplers: 5/16
+[2020.10.09-18.14.58:298][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.09-18.15.03:494][769]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.15.03:559][769]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.09-18.15.08:281][950]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.15.08:320][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.09-18.15.16:093][280]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.15.16:152][280]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.10.09-18.15.19:322][403]LogMaterialEditor: Saving and Compiling material M_Truck2
+[2020.10.09-18.15.21:042][403]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.15.21:189][403]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.15.21:244][403]LogMaterial: Missing cached shader map for material M_Truck2, compiling. 
+[2020.10.09-18.15.21:487][403]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Truck2, compiling. 
+[2020.10.09-18.15.23:800][403]TextureStreamingBuild: Display: Compiling optional shaders took 2.328 seconds.
+[2020.10.09-18.15.27:219][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Vehicle/M_Truck2" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/M_Truck2.uasset" SILENT=true
+[2020.10.09-18.15.27:300][403]LogSavePackage: Save=79.13ms
+[2020.10.09-18.15.27:300][403]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/M_Truck2B298416149D69D83CDF0A09736631B9E.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/M_Truck2.uasset'
+[2020.10.09-18.15.27:307][403]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/M_Truck2.uasset
+[2020.10.09-18.15.27:324][403]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.10.09-18.15.27:324][403]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2020.10.09-18.15.27:324][403]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.10.09-18.15.27:324][403]MaterialEditorStats: Texture samplers: 6/16
+[2020.10.09-18.15.27:324][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.09-18.15.44:033][983]LogSavePackage: Save=21.12ms
+[2020.10.09-18.15.44:033][983]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Truck_Scifi_Stuff_added_on_top_CFDF54D0943CC21B76284469ADF11880B.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_Scifi_Stuff_added_on_top_Cube_000.uasset'
+[2020.10.09-18.15.44:037][983]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_Scifi_Stuff_added_on_top_Cube_000.uasset
+[2020.10.09-18.16.24:918][460]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2020.10.09-18.17.00:449][806]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2020.10.09-18.17.08:179][961]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2020.10.09-18.17.51:911][ 28]LogSavePackage: Save=111.55ms
+[2020.10.09-18.17.51:911][ 28]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Truck_Scifi_Stuff_added_on_top_C2F584EA743B4E52B5561B1BE40529122.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_Scifi_Stuff_added_on_top_Cube_002.uasset'
+[2020.10.09-18.17.51:914][ 28]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_Scifi_Stuff_added_on_top_Cube_002.uasset
+[2020.10.09-18.18.05:240][340]LogSavePackage: Save=14.87ms
+[2020.10.09-18.18.05:240][340]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/Truck_Scifi_Stuff_added_on_top_C5590577D49462E18E12286B95B7BD1F6.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_Scifi_Stuff_added_on_top_Cube_002.uasset'
+[2020.10.09-18.18.05:242][340]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/GameContent/Vehicle/Truck_Scifi_Stuff_added_on_top_Cube_002.uasset
+[2020.10.09-18.18.58:633][ 88]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.1320 seconds. Added 116 classes and 0 folders.
+[2020.10.09-18.19.49:487][902]LogEditorTransaction: Undo Remove Components
+[2020.10.09-18.21.34:713][ 33]BlueprintLog: New page: Compile CarChase_Truck_Pawn
+[2020.10.09-18.21.45:637][ 82]LogSavePackage: Save=528.04ms
+[2020.10.09-18.21.45:637][ 82]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/CarChase_Truck_Pawn3675916B413B9CC3A7EABEAC92BD8A02.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/CustomBlueprints/CarChase/CarChase_Truck_Pawn.uasset'
+[2020.10.09-18.21.45:722][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Blueprints/CustomBlueprints/CarChase/CarChase_Truck_Pawn.uasset
+[2020.10.09-18.22.16:725][830]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.09-18.22.19:676][947]Cmd: DELETE
+[2020.10.09-18.22.19:686][947]Cmd: ACTOR DELETE
+[2020.10.09-18.22.20:148][947]LogEditorActor: Deleted Actor: Player_CharacterBP_C
+[2020.10.09-18.22.20:460][947]LogEditorActor: Deleted 1 Actors (0.724 secs)
+[2020.10.09-18.22.21:768][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_MissionMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.09-18.22.24:593][ 17]LogSavePackage: Save=2584.66ms
+[2020.10.09-18.22.24:593][ 17]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_MissionMapA46F596646286B0EE73C0BB1CF2758F3.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap'
+[2020.10.09-18.22.24:677][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap
+[2020.10.09-18.22.25:430][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_MissionMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap_BuiltData.uasset" SILENT=true
+[2020.10.09-18.22.31:870][ 17]LogSavePackage: Save=1915.07ms
+[2020.10.09-18.22.31:870][ 17]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_MissionMap_BuiltData70AF7C8E4C9A30FCE18F2383DD2F6AFA.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap_BuiltData.uasset'
+[2020.10.09-18.22.31:907][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap_BuiltData.uasset
+[2020.10.09-18.22.44:730][748]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.09-18.22.52:091][159]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.09-18.22.58:130][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SG_MissionMap.SG_MissionMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SG_MissionMap.SG_MissionMap:PersistentLevel.SG_MissionMap' with GeneratedClass '/Game/Maps/SG_MissionMap.SG_MissionMap_C' with ClassGeneratedBy '/Game/Maps/SG_MissionMap.SG_MissionMap:PersistentLevel.SG_MissionMap'
+[2020.10.09-18.22.58:192][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.09-18.22.58:741][159]PIE: New page: PIE session: SG_MissionMap (Oct 10, 2020, 6:22:58 AM)
+[2020.10.09-18.22.58:835][159]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_MissionMap
+[2020.10.09-18.22.59:905][159]LogPlayLevel: PIE: StaticDuplicateObject took: (1.070201s)
+[2020.10.09-18.22.59:955][159]LogAIModule: Creating AISystem for world SG_MissionMap
+[2020.10.09-18.23.00:084][159]LogPlayLevel: PIE: World Init took: (0.162428s)
+[2020.10.09-18.23.00:084][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_MissionMap.SG_MissionMap to /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap (1.266797s)
+[2020.10.09-18.23.00:803][159]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.09-18.23.01:639][159]LogInit: FAudioDevice initialized.
+[2020.10.09-18.23.01:841][159]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.09-18.23.03:304][159]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_MissionMap.SG_MissionMap up for play (max tick rate 60) at 2020.10.10-00.23.03
+[2020.10.09-18.23.03:850][159]LogWorld: Bringing up level for play took: 1.757218
+[2020.10.09-18.23.04:252][159]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0218 seconds. Added 11 classes and 0 folders.
+[2020.10.09-18.23.04:295][159]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.09-18.23.04:295][159]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.09-18.23.04:295][159]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.09-18.23.04:471][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors2' of length 0 in '/Game/Blueprints/CustomBlueprints/HackingSystem/HackedActor_BP.HackedActor_BP_C:ExecuteUbergraph_HackedActor_BP'!
+[2020.10.09-18.23.04:472][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:472][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:473][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:473][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:474][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:474][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:474][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:475][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:475][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:475][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:476][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:476][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:476][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:477][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:477][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:478][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:479][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:479][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:479][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:480][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/AI_Blueprint/ShooterAI/StealthKillSystem/StealthKillSystemActor.StealthKillSystemActor_C:ExecuteUbergraph_StealthKillSystemActor'!
+[2020.10.09-18.23.04:583][159]LogOutputDevice: Warning: 
+
+Script Stack:
+CarChase_Truck_Pawn_Enemy_C.ExecuteUbergraph_CarChase_Truck_Pawn_Enemy
+CarChase_Truck_Pawn_Enemy_C.ReceiveBeginPlay
+
+[2020.10.09-18.23.21:535][159]LogStats: FPlatformStackWalk::StackWalkAndDump - 16.870 s
+[2020.10.09-18.23.21:543][159]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.09-18.23.21:543][159]LogOutputDevice: Error: 
+[2020.10.09-18.23.21:543][159]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1738]
+[2020.10.09-18.23.21:543][159]LogOutputDevice: Error: Template Mismatch during attachment. Attaching instanced component to template component. Parent 'CollisionCylinder' Self 'CollisionCylinder'
+[2020.10.09-18.23.21:543][159]LogOutputDevice: Error: Stack: 
+[2020.10.09-18.23.21:543][159]LogOutputDevice: Error: [Callstack] 0x00000000DE162786 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.09-18.23.21:543][159]LogOutputDevice: Error: [Callstack] 0x00000000DDF0123A UE4Editor-Core.dll!UnknownFunction []
+[2020.10.09-18.23.21:543][159]LogOutputDevice: Error: [Callstack] 0x00000000DDF1B906 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.09-18.23.21:558][159]LogOutputDevice: Error: [Callstack] 0x00000000C56ADD68 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:558][159]LogOutputDevice: Error: [Callstack] 0x00000000C56D3D12 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:558][159]LogOutputDevice: Error: [Callstack] 0x00000000C5675F0E UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:558][159]LogOutputDevice: Error: [Callstack] 0x00000000C55C04E3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C55E1C29 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C51C0FF1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C51D02F0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C51CDABC UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C5A76787 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C5A76B67 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C564E887 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C55C04E3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C55E1C29 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C55E0F15 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C51847B7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C5101934 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000D1095264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000D1259B74 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000D1298B04 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000D1271B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000D125A57E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000D1271B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000D1095264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000D1270F66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C51CE64B UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C518F79B UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C519CAEB UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C6395790 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C58EF3DC UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C590A633 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C590FB93 UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C63806AE UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000C59104CE UE4Editor-Engine.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000CFCAB235 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000CFCD556E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000CFCF192F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000CF746024 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000CFFF4AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000BDC45A26 UE4Editor.exe!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000BDC55430 UE4Editor.exe!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000BDC554AA UE4Editor.exe!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000BDC62379 UE4Editor.exe!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x00000000BDC63D57 UE4Editor.exe!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x0000000011436FD4 KERNEL32.DLL!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: [Callstack] 0x000000001221CEC1 ntdll.dll!UnknownFunction []
+[2020.10.09-18.23.21:559][159]LogOutputDevice: Error: 
+[2020.10.09-18.23.21:596][159]LogStats:                SubmitErrorReport -  0.027 s
