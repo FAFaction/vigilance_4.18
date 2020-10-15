@@ -1,0 +1,1507 @@
+﻿Log file open, 10/13/20 21:35:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vigilance418
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1349228542) SRandInit(1349228542).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.323122
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/RootMotionExtractor/Binaries/Win64/UE4Editor-RootMotionExtractor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RootMotionExtractor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.10.13-15.35.59:223][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.13-15.35.59:223][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.13-15.35.59:299][  0]LogInit: Computer: ISHRAQ-PC
+[2020.10.13-15.35.59:299][  0]LogInit: User: farha
+[2020.10.13-15.35.59:299][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.10.13-15.35.59:299][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.13-15.35.59:299][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.10.13-15.35.59:299][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.13-15.35.59:299][  0]LogMemory: Process Physical Memory: 275.67 MB used, 275.67 MB peak
+[2020.10.13-15.35.59:299][  0]LogMemory: Process Virtual Memory: 280.36 MB used, 280.36 MB peak
+[2020.10.13-15.35.59:299][  0]LogMemory: Physical Memory: 2327.61 MB used,  1649.40 MB free, 3977.01 MB total
+[2020.10.13-15.35.59:299][  0]LogMemory: Virtual Memory: 4770.68 MB used,  1649.40 MB free, 134217728.00 MB total
+[2020.10.13-15.35.59:939][  0]LogInit: Using OS detected language (en-US).
+[2020.10.13-15.35.59:939][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.13-15.36.00:083][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.13-15.36.01:054][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.13-15.36.02:328][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.13-15.36.02:333][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.10.13-15.36.02:333][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.10.13-15.36.02:416][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.13-15.36.02:416][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.13-15.36.02:416][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.13-15.36.02:423][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.13-15.36.02:423][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.13-15.36.02:423][  0]LogWindows: EnumDisplayDevices:
+[2020.10.13-15.36.02:423][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.10.13-15.36.02:435][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.10.13-15.36.02:435][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.13-15.36.02:435][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.10.13-15.36.02:435][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.13-15.36.02:435][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.13-15.36.02:435][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.10.13-15.36.02:439][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.13-15.36.02:471][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.10.13-15.36.02:472][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../GITHUB/vigilance_4.18/Vigilance418/Intermediate/Shaders/WorkingDirectory/10016/).
+[2020.10.13-15.36.02:472][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/8DAE4DB5497AF6E8255BA79C6F5B8487/'.
+[2020.10.13-15.36.02:472][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.13-15.36.05:662][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.10.13-15.36.05:750][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.10.13-15.36.05:881][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.10.13-15.36.05:955][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.10.13-15.36.06:075][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.10.13-15.36.06:166][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.10.13-15.36.06:245][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.10.13-15.36.06:327][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.10.13-15.36.06:418][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.10.13-15.36.06:515][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.10.13-15.36.06:611][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.10.13-15.36.06:718][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.10.13-15.36.06:795][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.10.13-15.36.06:884][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.10.13-15.36.07:052][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.10.13-15.36.07:053][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.10.13-15.36.07:203][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.13-15.36.07:318][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.10.13-15.36.07:610][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.10.13-15.36.07:656][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.10.13-15.36.07:755][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.10.13-15.36.07:851][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.10.13-15.36.07:958][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.10.13-15.36.08:032][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.10.13-15.36.08:033][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.13-15.36.09:370][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.13-15.36.10:346][  0]LogDerivedDataCache: Loaded boot cache 0.98s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.13-15.36.10:346][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.10.13-15.36.10:346][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.13-15.36.10:346][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.13-15.36.10:346][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/vigilance_4.18/Vigilance418/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.13-15.36.10:346][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.13-15.36.10:425][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.13-15.36.10:458][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.13-15.36.10:467][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.10.13-15.36.10:467][  0]LogSlate: Using Freetype 2.6.0
+[2020.10.13-15.36.10:497][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.13-15.36.10:498][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.13-15.36.14:109][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.13-15.36.15:045][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.10.13-15.36.15:141][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.10.13-15.36.15:141][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.13-15.36.15:141][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.10.13-15.36.15:141][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.10.13-15.36.15:141][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.10.13-15.36.15:217][  0]LogNetVersion: Vigilance418 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 63410103)
+[2020.10.13-15.36.15:559][  0]LogAssetRegistry: FAssetRegistry took 0.0288 seconds to start up
+[2020.10.13-15.36.19:976][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.162387 seconds
+[2020.10.13-15.36.19:983][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2020.10.13-15.36.19:983][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2020.10.13-15.36.19:983][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.13-15.36.20:116][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.10.13-15.39.59:781][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.13-15.39.59:874][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.13-15.40.02:847][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.10.13-15.40.04:205][  0]SourceControl: Source control is disabled
+[2020.10.13-15.40.04:212][  0]SourceControl: Source control is disabled
+[2020.10.13-15.40.04:403][  0]SourceControl: Source control is disabled
+[2020.10.13-15.40.04:508][  0]SourceControl: Source control is disabled
+[2020.10.13-15.40.34:695][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.13-15.40.35:841][  0]LogOcInput: OculusInput pre-init called
+[2020.10.13-15.40.38:429][  0]LogEngine: Initializing Engine...
+[2020.10.13-15.40.38:543][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.13-15.40.39:363][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.13-15.40.39:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2020.10.13-15.40.40:437][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.13-15.40.41:076][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-15.40.41:138][  0]LogInit: FAudioDevice initialized.
+[2020.10.13-15.40.42:126][  0]LogDerivedDataCache: Saved boot cache 0.95s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.10.13-15.40.43:343][  0]LogInit: Texture streaming: Enabled
+[2020.10.13-15.40.48:545][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.13-15.40.49:180][  0]LogInit: Transaction tracking system initialized
+[2020.10.13-15.40.51:267][  0]BlueprintLog: New page: Editor Load
+[2020.10.13-15.40.54:884][  0]LocalizationService: Localization service is disabled
+[2020.10.13-15.40.59:537][  0]LogConsoleResponse: Display: 
+[2020.10.13-15.41.03:819][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.13-15.41.03:871][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.13-15.41.03:918][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.10.13-15.41.05:227][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' took 1.75s
+[2020.10.13-15.41.08:460][  0]SourceControl: Source control is disabled
+[2020.10.13-15.41.08:521][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.10.13-15.41.08:622][  0]LightingResults: New page: Lighting Build
+[2020.10.13-15.41.09:151][  0]MapCheck: New page: Map Check
+[2020.10.13-15.41.09:151][  0]LightingResults: New page: Lighting Build
+[2020.10.13-15.41.52:315][  0]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-15.41.54:936][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.13-15.41.55:656][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.13-15.41.56:281][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 614.955ms to complete.
+[2020.10.13-15.41.56:311][  0]LogFileHelpers: Loading map 'SG_ShortMap' took 47.819
+[2020.10.13-15.42.25:780][  0]LogCollectionManager: Loaded 0 collections in 0.034645 seconds
+[2020.10.13-15.42.26:322][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' took 0.01s
+[2020.10.13-15.42.26:322][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' took 0.01s
+[2020.10.13-15.42.26:322][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' took 0.01s
+[2020.10.13-15.42.26:322][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.10.13-15.42.26:393][  0]LogContentBrowser: Native class hierarchy populated in 0.0190 seconds. Added 2373 classes and 526 folders.
+[2020.10.13-15.42.27:477][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.13-15.42.28:887][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.13-15.42.29:472][  0]LogSlate: Took 0.044342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.13-15.42.29:882][  0]LogSlate: Took 0.021553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.13-15.42.31:704][  0]LogRenderer: Reallocating scene render targets to support 992x656 Format 9 NumSamples 1 (Frame:1).
+[2020.10.13-15.42.37:686][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2020.10.13-15.42.37:686][  0]LogLoad: (Engine Initialization) Total time: 413.75 seconds
+[2020.10.13-15.42.37:686][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.13-15.42.37:701][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.10.13-15.42.38:685][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.10.13-15.42.45:425][ 11]LogAssetRegistry: Asset discovery search completed in 389.8880 seconds
+[2020.10.13-15.42.45:873][ 11]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.13-15.42.45:952][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.092203 seconds (updated 0 objects)
+[2020.10.13-15.42.52:556][256]LogSlate: Took 0.173342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.13-15.42.54:078][347]Cmd: t.MaxFPS 30
+[2020.10.13-15.42.54:320][347]t.MaxFPS = "30"
+[2020.10.13-15.46.25:285][692]LogSlate: Took 0.076509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.13-15.47.22:312][ 91]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight3)
+[2020.10.13-15.47.25:191][165]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2020.10.13-15.47.28:729][240]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2020.10.13-15.47.34:434][379]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.10.13-15.48.20:137][365]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2020.10.13-15.49.31:531][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box56)
+[2020.10.13-15.49.37:711][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box61)
+[2020.10.13-15.49.39:121][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box56)
+[2020.10.13-15.50.13:471][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box73)
+[2020.10.13-15.50.15:794][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box75)
+[2020.10.13-15.50.21:007][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box74)
+[2020.10.13-15.50.26:437][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box73)
+[2020.10.13-15.50.32:482][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box74)
+[2020.10.13-15.50.41:166][821]LogSlate: Took 0.007922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.13-15.50.55:346][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box76)
+[2020.10.13-15.51.10:442][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box78)
+[2020.10.13-15.51.59:327][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box75)
+[2020.10.13-15.52.14:572][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box83)
+[2020.10.13-15.53.08:337][883]Cmd: TRANSACTION UNDO
+[2020.10.13-15.53.08:337][883]LogEditorTransaction: Undo Move Actors
+[2020.10.13-15.53.35:301][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box89)
+[2020.10.13-15.53.35:928][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box)
+[2020.10.13-15.53.37:276][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box89)
+[2020.10.13-15.53.38:461][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box2)
+[2020.10.13-15.53.54:646][126]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box90)
+[2020.10.13-15.54.00:150][274]Cmd: ACTOR MIRROR Y=-1
+[2020.10.13-15.54.01:473][312]Cmd: TRANSACTION UNDO
+[2020.10.13-15.54.01:473][312]LogEditorTransaction: Undo Mirroring Actors
+[2020.10.13-15.54.46:923][542]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.10.13-15.54.46:966][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-15.54.47:880][542]LogSavePackage: Save=450.94ms
+[2020.10.13-15.54.47:880][542]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap723530AD43202DC03B5F4F8812A00A5A.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-15.54.47:929][542]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-15.54.54:318][721]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_MissionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.10.13-15.54.54:398][721]LightingResults: New page: Lighting Build
+[2020.10.13-15.54.54:401][721]LoadErrors: New page: Loading map: SG_MissionMap.umap
+[2020.10.13-15.54.54:439][721]MapCheck: New page: Map Check
+[2020.10.13-15.54.54:439][721]LightingResults: New page: Lighting Build
+[2020.10.13-15.54.55:404][721]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/Blueprints/AI_Blueprint/ShooterAI/NewShooterAI/AI_Guns/Bullets/AI_RifleBullet.AI_RifleBullet_C:UserConstructionScript; removing parent information, but keeping function
+[2020.10.13-15.54.55:583][721]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.13-15.54.59:066][721]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/Blueprints/CustomBlueprints/Scanner/ScannedCharacter.ScannedCharacter_C:UserConstructionScript; removing parent information, but keeping function
+[2020.10.13-15.54.59:340][721]LogBlueprint: Warning: [Compiler TriggerWhenAboutTogetintoCarChese] Get : 'Player Drop Position' variable not found. Base class was probably changed. /Game/Blueprints/CustomBlueprints/CarChase/TriggerWhenAboutTogetintoCarChese.TriggerWhenAboutTogetintoCarChese
+[2020.10.13-15.54.59:786][721]LogBlueprint: Warning: [Compiler TriggerWhenAboutTogetintoCarChese] [1155.84] Compile of TriggerWhenAboutTogetintoCarChese successful, but with 1 Warning(s) [in 502 ms] (/Game/Blueprints/CustomBlueprints/CarChase/TriggerWhenAboutTogetintoCarChese.TriggerWhenAboutTogetintoCarChese)
+[2020.10.13-15.55.16:334][721]LogAIModule: Creating AISystem for world SG_MissionMap
+[2020.10.13-15.55.17:869][721]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.13-15.55.18:219][721]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.13-15.55.18:402][721]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 183.584ms to complete.
+[2020.10.13-15.55.18:403][721]LogFileHelpers: Loading map 'SG_MissionMap' took 24.096
+[2020.10.13-15.56.36:105][838]LogEditorViewport: Clicking Background
+[2020.10.13-15.56.58:203][464]Cmd: TRANSACTION UNDO
+[2020.10.13-15.56.58:203][464]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.13-15.57.20:693][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.13-15.57.26:267][242]LogEditorViewport: Clicking Background
+[2020.10.13-15.57.53:107][904]Cmd: EDIT COPY
+[2020.10.13-15.57.58:621][ 58]Cmd: MAP LOAD FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.10.13-15.57.58:632][ 58]LightingResults: New page: Lighting Build
+[2020.10.13-15.57.58:634][ 58]LoadErrors: New page: Loading map: SG_ShortMap.umap
+[2020.10.13-15.57.58:901][ 58]MapCheck: New page: Map Check
+[2020.10.13-15.57.58:901][ 58]LightingResults: New page: Lighting Build
+[2020.10.13-15.57.59:056][ 58]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-15.57.59:400][ 58]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.13-15.57.59:623][ 58]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.13-15.57.59:808][ 58]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 184.514ms to complete.
+[2020.10.13-15.57.59:808][ 58]LogFileHelpers: Loading map 'SG_ShortMap' took 1.187
+[2020.10.13-15.58.03:409][158]Cmd: EDIT PASTE
+[2020.10.13-15.59.27:723][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box208)
+[2020.10.13-15.59.45:259][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box90)
+[2020.10.13-16.00.15:642][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.00.17:216][ 79]LogSavePackage: Save=1046.50ms
+[2020.10.13-16.00.17:219][ 79]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap5684ECC040012DB1A73E528F329CD0BA.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.00.17:225][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.00.25:939][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box175)
+[2020.10.13-16.08.11:250][312]LogEditorViewport: Clicking on Actor (LMB): Bounty_Teleport_C (Bounty_Teleport5)
+[2020.10.13-16.08.35:465][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box193)
+[2020.10.13-16.09.07:225][777]LogEditorViewport: Clicking on Actor (LMB): Bounty_Teleport_C (Bounty_Teleport3)
+[2020.10.13-16.10.00:934][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.10.02:268][103]LogSavePackage: Save=1194.73ms
+[2020.10.13-16.10.02:269][103]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap295FE151480698DD7B2DEC835EDFF222.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.10.02:272][103]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.10.12:837][342]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2020.10.13-16.10.15:835][371]Cmd: DELETE
+[2020.10.13-16.10.15:835][371]Cmd: ACTOR DELETE
+[2020.10.13-16.10.15:975][371]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.10.13-16.10.16:010][371]LogEditorActor: Deleted 1 Actors (0.157 secs)
+[2020.10.13-16.10.48:940][339]MapCheck: New page: Map Check
+[2020.10.13-16.10.49:069][339]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.13-16.10.49:069][339]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.13-16.10.50:334][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.10.13-16.10.50:491][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2020.10.13-16.10.50:534][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Default, compiling. 
+[2020.10.13-16.10.50:541][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Holo_Color, compiling. 
+[2020.10.13-16.10.50:549][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_DoubleColor, compiling. 
+[2020.10.13-16.10.50:616][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Hexagon, compiling. 
+[2020.10.13-16.10.50:624][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.10.13-16.10.50:631][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Auto, compiling. 
+[2020.10.13-16.10.50:665][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_HoloRefract, compiling. 
+[2020.10.13-16.10.50:784][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MaterialSphere, compiling. 
+[2020.10.13-16.10.50:791][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body_White, compiling. 
+[2020.10.13-16.10.50:802][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Faf_action_2_Mat, compiling. 
+[2020.10.13-16.10.50:897][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.10.13-16.10.50:929][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Knife_Inst, compiling. 
+[2020.10.13-16.10.50:936][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.10.13-16.10.51:085][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PistolVer2_Inst, compiling. 
+[2020.10.13-16.10.51:091][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2020.10.13-16.10.51:097][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TeleportTransparent, compiling. 
+[2020.10.13-16.10.51:105][339]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ScanEnv_Inst, compiling. 
+[2020.10.13-16.10.57:221][339]TextureStreamingBuild: Display: Compiling optional shaders took 6.946 seconds.
+[2020.10.13-16.10.57:240][339]LogLevel: Display: Export Material TexCoord Scales took 0.017 seconds.
+[2020.10.13-16.10.57:360][339]TextureStreamingBuild: Display: Build Texture Streaming took 0.116 seconds.
+[2020.10.13-16.10.57:627][339]LightingResults: New page: Lighting Build - Oct 14, 2020, 4:10:57 AM
+[2020.10.13-16.10.58:906][339]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.13-16.11.10:347][339]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.13-16.11.11:231][339]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.13-16.11.17:065][339]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.10.13-16.11.17:945][339]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2020.10.13-16.11.24:299][339]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.13-16.11.24:300][339]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10016
+[2020.10.13-16.11.38:332][339]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.10.13-16.11.38:344][339]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.13-16.11.38:344][339]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.13-16.11.38:344][339]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.13-16.11.38:344][339]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.13-16.11.38:344][339]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.13-16.11.40:502][339]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.13-16.11.40:503][339]MapCheck: New page: SG_ShortMap - Oct 14, 2020, 4:11:40 AM
+[2020.10.13-16.11.40:679][339]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.10.13-16.11.40:872][339]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 369.253ms to complete.
+[2020.10.13-16.11.40:895][339]LogEditorBuildUtils: Build time 0:51
+[2020.10.13-16.13.01:565][931]Job is a success!
+[2020.10.13-16.13.02:579][932]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.586s
+[2020.10.13-16.13.02:579][932]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.10.13-16.13.02:579][932]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.0Mb
+[2020.10.13-16.13.02:579][932]LogVolumetricLightmapImport:      Bricks at Level
+[2020.10.13-16.13.02:579][932]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2020.10.13-16.13.02:579][932]LogVolumetricLightmapImport:          1: 11.3% covering 8.4% of volume
+[2020.10.13-16.13.02:579][932]LogVolumetricLightmapImport:          2: 86.6% covering 1.0% of volume
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 512X256)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 512X256)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.10.13-16.13.09:393][932]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.10.13-16.13.10:395][932]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2020.10.13-16.13.10:595][932]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2020.10.13-16.13.10:596][932]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2020.10.13-16.13.10:782][932]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X64)
+[2020.10.13-16.13.10:782][932]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X64)
+[2020.10.13-16.13.10:782][932]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.10.13-16.13.11:679][932]Lightmass on ISHRAQ-PC: 1:12 min total, 1.94 sec importing, 293 ms setup, 4.92 sec photons, 1:05 min processing, 0 ms extra exporting [177/177 mappings]. Threads: 4:22 min total, 1:33 min processing.
+[2020.10.13-16.13.11:996][932]LogStaticLightingSystem: Illumination: 2:14 min (4.96 sec encoding lightmaps, 1.38 sec encoding shadowmaps)
+[2020.10.13-16.13.11:996][932]LogStaticLightingSystem: Lightmap texture memory:  7.3 MB (7.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2020.10.13-16.13.11:996][932]LogStaticLightingSystem: Shadowmap texture memory: 2.3 MB (2.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.10.13-16.13.13:444][932]DumpUnbuiltLightIteractions
+[2020.10.13-16.13.13:444][932]Lights with unbuilt interactions: 0
+[2020.10.13-16.13.13:444][932]
+[2020.10.13-16.13.13:444][932]Primitives with unbuilt interactions: 0
+[2020.10.13-16.13.13:552][933]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.13-16.13.13:552][933]MapCheck: New page: SG_ShortMap - Oct 14, 2020, 4:13:13 AM
+[2020.10.13-16.13.13:994][933]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 441.825ms to complete.
+[2020.10.13-16.14.50:186][822]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight22)
+[2020.10.13-16.14.51:514][838]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight14)
+[2020.10.13-16.15.00:992][  6]MapCheck: New page: Map Check
+[2020.10.13-16.15.01:007][  6]LightingResults: New page: Lighting Build - Oct 14, 2020, 4:15:01 AM
+[2020.10.13-16.15.01:050][  6]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.13-16.15.01:052][  6]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.13-16.15.01:052][  6]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.13-16.15.01:053][  6]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.13-16.15.01:053][  6]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10016
+[2020.10.13-16.15.05:595][  6]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.10.13-16.15.05:596][  6]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.13-16.15.05:596][  6]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.13-16.15.05:596][  6]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.13-16.15.05:596][  6]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.13-16.15.05:596][  6]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.13-16.15.06:251][  6]LogEditorBuildUtils: Build time 0:05
+[2020.10.13-16.15.21:158][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box13)
+[2020.10.13-16.16.24:572][778]Job is a success!
+[2020.10.13-16.16.25:130][779]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.124s
+[2020.10.13-16.16.25:130][779]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.10.13-16.16.25:130][779]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.0Mb
+[2020.10.13-16.16.25:130][779]LogVolumetricLightmapImport:      Bricks at Level
+[2020.10.13-16.16.25:130][779]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2020.10.13-16.16.25:130][779]LogVolumetricLightmapImport:          1: 11.4% covering 8.6% of volume
+[2020.10.13-16.16.25:130][779]LogVolumetricLightmapImport:          2: 86.5% covering 1.0% of volume
+[2020.10.13-16.16.29:354][779]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 512X256)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 512X256)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 64X32)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2020.10.13-16.16.29:355][779]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2020.10.13-16.16.30:356][779]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X128)
+[2020.10.13-16.16.30:356][779]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X256)
+[2020.10.13-16.16.30:483][779]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X64)
+[2020.10.13-16.16.30:483][779]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X128)
+[2020.10.13-16.16.30:483][779]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X64)
+[2020.10.13-16.16.30:483][779]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2020.10.13-16.16.30:528][779]Lightmass on ISHRAQ-PC: 1:19 min total, 2.51 sec importing, 104 ms setup, 7.67 sec photons, 1:08 min processing, 0 ms extra exporting [177/177 mappings]. Threads: 4:35 min total, 1:45 min processing.
+[2020.10.13-16.16.30:633][779]LogStaticLightingSystem: Illumination: 1:29 min (4.07 sec encoding lightmaps, 1.12 sec encoding shadowmaps)
+[2020.10.13-16.16.30:633][779]LogStaticLightingSystem: Lightmap texture memory:  7.3 MB (7.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2020.10.13-16.16.30:633][779]LogStaticLightingSystem: Shadowmap texture memory: 2.3 MB (2.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.10.13-16.16.31:668][779]DumpUnbuiltLightIteractions
+[2020.10.13-16.16.31:668][779]Lights with unbuilt interactions: 0
+[2020.10.13-16.16.31:668][779]
+[2020.10.13-16.16.31:668][779]Primitives with unbuilt interactions: 0
+[2020.10.13-16.16.31:679][780]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.13-16.16.31:679][780]MapCheck: New page: SG_ShortMap - Oct 14, 2020, 4:16:31 AM
+[2020.10.13-16.16.32:016][780]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 336.795ms to complete.
+[2020.10.13-16.17.41:490][394]Cmd: TRANSACTION UNDO
+[2020.10.13-16.17.41:491][394]LogEditorTransaction: Undo Scale Actors
+[2020.10.13-16.18.54:329][950]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.13-16.18.55:053][968]LogEditorViewport: Clicking on Actor (LMB): CarChase_DrivePath_C (CarChase_DrivePath)
+[2020.10.13-16.18.57:861][ 27]Cmd: DELETE
+[2020.10.13-16.18.57:861][ 27]Cmd: ACTOR DELETE
+[2020.10.13-16.18.57:917][ 27]LogEditorActor: Deleted Actor: CarChase_DrivePath_C
+[2020.10.13-16.18.57:984][ 27]LogEditorActor: Deleted 1 Actors (0.123 secs)
+[2020.10.13-16.19.05:416][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.19.06:987][218]LogSavePackage: Save=1364.80ms
+[2020.10.13-16.19.06:987][218]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap3EF20B9B469D868922F760B885EC5F67.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.19.06:990][218]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.19.07:441][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset" SILENT=true
+[2020.10.13-16.19.08:793][218]LogSavePackage: Save=1250.07ms
+[2020.10.13-16.19.08:794][218]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap_BuiltDataB03644D447EA9D3C51C355B152D04E78.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset'
+[2020.10.13-16.19.08:819][218]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset
+[2020.10.13-16.19.37:343][745]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight24)
+[2020.10.13-16.19.47:889][932]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight25)
+[2020.10.13-16.20.05:743][194]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight25)
+[2020.10.13-16.20.14:092][316]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2020.10.13-16.20.20:823][413]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight25)
+[2020.10.13-16.20.23:024][445]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight26)
+[2020.10.13-16.20.56:122][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box171)
+[2020.10.13-16.21.08:563][244]MapCheck: New page: Map Check
+[2020.10.13-16.21.08:583][244]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.13-16.21.08:583][244]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.13-16.21.10:075][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.10.13-16.21.10:082][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2020.10.13-16.21.10:091][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Default, compiling. 
+[2020.10.13-16.21.10:100][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Holo_Color, compiling. 
+[2020.10.13-16.21.10:108][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_DoubleColor, compiling. 
+[2020.10.13-16.21.10:117][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Hexagon, compiling. 
+[2020.10.13-16.21.10:125][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.10.13-16.21.10:134][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Auto, compiling. 
+[2020.10.13-16.21.10:150][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_HoloRefract, compiling. 
+[2020.10.13-16.21.10:158][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MaterialSphere, compiling. 
+[2020.10.13-16.21.10:168][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body_White, compiling. 
+[2020.10.13-16.21.10:180][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Faf_action_2_Mat, compiling. 
+[2020.10.13-16.21.10:187][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Knife_Inst, compiling. 
+[2020.10.13-16.21.10:200][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.10.13-16.21.10:212][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.10.13-16.21.10:225][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TeleportTransparent, compiling. 
+[2020.10.13-16.21.10:234][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PistolVer2_Inst, compiling. 
+[2020.10.13-16.21.10:243][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2020.10.13-16.21.10:255][244]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ScanEnv_Inst, compiling. 
+[2020.10.13-16.21.15:447][244]TextureStreamingBuild: Display: Compiling optional shaders took 5.378 seconds.
+[2020.10.13-16.21.15:454][244]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2020.10.13-16.21.15:550][244]TextureStreamingBuild: Display: Build Texture Streaming took 0.096 seconds.
+[2020.10.13-16.21.15:593][244]LightingResults: New page: Lighting Build - Oct 14, 2020, 4:21:15 AM
+[2020.10.13-16.21.15:605][244]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.13-16.21.15:607][244]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.13-16.21.15:608][244]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.13-16.21.15:609][244]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.13-16.21.15:609][244]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10016
+[2020.10.13-16.21.20:173][244]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.13-16.21.20:173][244]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.13-16.21.20:173][244]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.13-16.21.20:173][244]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.13-16.21.20:173][244]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.13-16.21.20:569][244]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.13-16.21.20:569][244]MapCheck: New page: SG_ShortMap - Oct 14, 2020, 4:21:20 AM
+[2020.10.13-16.21.20:573][244]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.10.13-16.21.20:772][244]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 202.944ms to complete.
+[2020.10.13-16.21.20:796][244]LogEditorBuildUtils: Build time 0:12
+[2020.10.13-16.25.19:479][900]Job is a success!
+[2020.10.13-16.25.20:586][901]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.600s
+[2020.10.13-16.25.20:586][901]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2020.10.13-16.25.20:586][901]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.0Mb
+[2020.10.13-16.25.20:586][901]LogVolumetricLightmapImport:      Bricks at Level
+[2020.10.13-16.25.20:586][901]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2020.10.13-16.25.20:586][901]LogVolumetricLightmapImport:          1: 6.0% covering 3.1% of volume
+[2020.10.13-16.25.20:586][901]LogVolumetricLightmapImport:          2: 90.9% covering 0.7% of volume
+[2020.10.13-16.25.26:481][901]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.10.13-16.25.26:481][901]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.10.13-16.25.26:481][901]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.10.13-16.25.26:481][901]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.10.13-16.25.26:481][901]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.10.13-16.25.26:481][901]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.10.13-16.25.26:481][901]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2020.10.13-16.25.26:481][901]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2020.10.13-16.25.26:481][901]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2020.10.13-16.25.26:482][901]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 512X256)
+[2020.10.13-16.25.26:482][901]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2020.10.13-16.25.26:482][901]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2020.10.13-16.25.26:482][901]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 512X256)
+[2020.10.13-16.25.26:482][901]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2020.10.13-16.25.26:482][901]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2020.10.13-16.25.26:482][901]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2020.10.13-16.25.26:482][901]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.10.13-16.25.26:482][901]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.10.13-16.25.27:482][901]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X128)
+[2020.10.13-16.25.27:769][901]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 1024X256)
+[2020.10.13-16.25.27:769][901]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X128)
+[2020.10.13-16.25.27:769][901]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X64)
+[2020.10.13-16.25.27:769][901]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X64)
+[2020.10.13-16.25.27:769][901]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 32X32)
+[2020.10.13-16.25.27:815][901]Lightmass on ISHRAQ-PC: 4:04 min total, 624 ms importing, 114 ms setup, 11.1 sec photons, 3:53 min processing, 0 ms extra exporting [177/177 mappings]. Threads: 15:32 min total, 4:54 min processing.
+[2020.10.13-16.25.27:903][901]LogStaticLightingSystem: Illumination: 4:11 min (4.22 sec encoding lightmaps, 1.28 sec encoding shadowmaps)
+[2020.10.13-16.25.27:903][901]LogStaticLightingSystem: Lightmap texture memory:  7.3 MB (7.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2020.10.13-16.25.27:903][901]LogStaticLightingSystem: Shadowmap texture memory: 2.3 MB (2.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.10.13-16.25.28:357][901]DumpUnbuiltLightIteractions
+[2020.10.13-16.25.28:357][901]Lights with unbuilt interactions: 0
+[2020.10.13-16.25.28:357][901]
+[2020.10.13-16.25.28:357][901]Primitives with unbuilt interactions: 0
+[2020.10.13-16.25.28:366][902]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.13-16.25.28:366][902]MapCheck: New page: SG_ShortMap - Oct 14, 2020, 4:25:28 AM
+[2020.10.13-16.25.28:714][902]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 347.499ms to complete.
+[2020.10.13-16.25.45:249][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.25.46:286][ 10]LogSavePackage: Save=975.16ms
+[2020.10.13-16.25.46:286][ 10]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMapD4A1C5F04BB1FF197AE917A7B44A6D17.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.25.46:289][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.25.46:454][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset" SILENT=true
+[2020.10.13-16.25.47:318][ 10]LogSavePackage: Save=814.67ms
+[2020.10.13-16.25.47:318][ 10]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap_BuiltData2640519D46D1B9838FB9F494316E1FDD.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset'
+[2020.10.13-16.25.47:322][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset
+[2020.10.13-16.27.19:997][963]LogEditorViewport: Clicking on Actor (LMB): Player_CharacterBP_C (Player_CharacterBP)
+[2020.10.13-16.27.29:235][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.13-16.27.43:922][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.27.45:202][295]LogSavePackage: Save=1162.02ms
+[2020.10.13-16.27.45:202][295]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMapA1AE8D1B4B6C310094B3A89DEB0CD11D.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.27.45:205][295]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.27.45:397][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset" SILENT=true
+[2020.10.13-16.27.46:363][295]LogSavePackage: Save=959.85ms
+[2020.10.13-16.27.46:363][295]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap_BuiltDataF0E381CA4DD6AECED11F41BC53713949.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset'
+[2020.10.13-16.27.46:365][295]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset
+[2020.10.13-16.27.47:324][312]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-16.27.51:162][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-16.27.51:507][312]PIE: New page: PIE session: SG_ShortMap (Oct 14, 2020, 4:27:51 AM)
+[2020.10.13-16.27.51:525][312]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_ShortMap
+[2020.10.13-16.27.51:777][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.252005s)
+[2020.10.13-16.27.51:854][312]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-16.27.51:890][312]LogPlayLevel: PIE: World Init took: (0.112896s)
+[2020.10.13-16.27.51:899][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_ShortMap.SG_ShortMap to /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap (0.374639s)
+[2020.10.13-16.27.52:499][312]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-16.27.52:620][312]LogInit: FAudioDevice initialized.
+[2020.10.13-16.27.52:834][312]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.13-16.27.53:371][312]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap up for play (max tick rate 30) at 2020.10.13-22.27.53
+[2020.10.13-16.27.53:800][312]LogWorld: Bringing up level for play took: 0.704912
+[2020.10.13-16.27.56:195][312]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.1288 seconds. Added 11 classes and 0 folders.
+[2020.10.13-16.27.56:264][312]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.27.56:265][312]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.27.56:265][312]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.27.56:755][312]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.27.56:802][312]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_ShortMap 6.65
+[2020.10.13-16.27.59:628][313]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063471 > MaxSimulationTimeStep (0.050) for 'Player_CharacterBP_2942', movement 'Walking'
+[2020.10.13-16.28.22:585][860]LogContentStreaming: Texture pool size now 600 MB
+[2020.10.13-16.28.22:652][862]LogRenderer: Reallocating scene render targets to support 992x656 Format 9 NumSamples 1 (Frame:26073).
+[2020.10.13-16.28.24:115][877]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-16.28.24:340][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-16.28.24:340][877]PIE: New page: PIE session: SG_ShortMap (Oct 14, 2020, 4:28:24 AM)
+[2020.10.13-16.28.24:341][877]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_ShortMap
+[2020.10.13-16.28.24:391][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050157s)
+[2020.10.13-16.28.24:392][877]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-16.28.24:393][877]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2020.10.13-16.28.24:393][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_ShortMap.SG_ShortMap to /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap (0.052694s)
+[2020.10.13-16.28.24:436][877]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-16.28.24:448][877]LogInit: FAudioDevice initialized.
+[2020.10.13-16.28.24:480][877]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.13-16.28.24:528][877]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap up for play (max tick rate 30) at 2020.10.13-22.28.24
+[2020.10.13-16.28.24:536][877]LogWorld: Bringing up level for play took: 0.055535
+[2020.10.13-16.28.24:537][877]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.28.24:537][877]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.28.24:537][877]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.28.24:552][877]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.28.24:552][877]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_ShortMap 0.424
+[2020.10.13-16.28.24:616][878]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065838 > MaxSimulationTimeStep (0.050) for 'Player_CharacterBP_2942', movement 'Walking'
+[2020.10.13-16.30.13:874][344]LogRenderer: Reallocating scene render targets to support 992x656 Format 9 NumSamples 1 (Frame:26174).
+[2020.10.13-16.30.13:916][345]LogContentStreaming: Texture pool size now 400 MB
+[2020.10.13-16.31.04:640][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box55)
+[2020.10.13-16.31.07:678][585]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box72)
+[2020.10.13-16.31.08:815][614]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box71)
+[2020.10.13-16.32.03:252][ 67]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2020.10.13-16.32.03:496][ 68]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2020.10.13-16.32.03:597][ 69]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2020.10.13-16.32.03:667][ 70]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2020.10.13-16.32.03:735][ 71]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2020.10.13-16.32.24:684][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box)
+[2020.10.13-16.32.57:195][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box89)
+[2020.10.13-16.33.18:182][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box5)
+[2020.10.13-16.33.18:842][242]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box6)
+[2020.10.13-16.33.19:859][268]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box4)
+[2020.10.13-16.33.20:871][294]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box10)
+[2020.10.13-16.33.21:888][321]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box7)
+[2020.10.13-16.33.25:901][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box12)
+[2020.10.13-16.33.26:524][443]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box11)
+[2020.10.13-16.33.29:939][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box13)
+[2020.10.13-16.33.38:742][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.33.39:973][770]LogSavePackage: Save=1166.35ms
+[2020.10.13-16.33.39:974][770]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap9854EEF74B946B3D1F6835843F455B28.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.33.39:977][770]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.33.40:182][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset" SILENT=true
+[2020.10.13-16.33.41:155][770]LogSavePackage: Save=914.29ms
+[2020.10.13-16.33.41:155][770]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap_BuiltData6144951543072C581C1C09BEFD9C86D2.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset'
+[2020.10.13-16.33.41:157][770]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset
+[2020.10.13-16.33.41:679][786]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-16.33.41:809][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-16.33.41:809][786]PIE: New page: PIE session: SG_ShortMap (Oct 14, 2020, 4:33:41 AM)
+[2020.10.13-16.33.41:810][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_ShortMap
+[2020.10.13-16.33.41:902][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091628s)
+[2020.10.13-16.33.41:903][786]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-16.33.41:904][786]LogPlayLevel: PIE: World Init took: (0.001799s)
+[2020.10.13-16.33.41:905][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_ShortMap.SG_ShortMap to /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap (0.094539s)
+[2020.10.13-16.33.41:953][786]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-16.33.41:970][786]LogInit: FAudioDevice initialized.
+[2020.10.13-16.33.42:006][786]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.13-16.33.42:080][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap up for play (max tick rate 30) at 2020.10.13-22.33.42
+[2020.10.13-16.33.42:091][786]LogWorld: Bringing up level for play took: 0.085056
+[2020.10.13-16.33.42:093][786]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.33.42:093][786]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.33.42:093][786]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.33.42:113][786]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.33.42:113][786]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_ShortMap -0.015
+[2020.10.13-16.33.42:149][787]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058424 > MaxSimulationTimeStep (0.050) for 'Player_CharacterBP_2942', movement 'Walking'
+[2020.10.13-16.34.18:945][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box8)
+[2020.10.13-16.34.34:279][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box30)
+[2020.10.13-16.34.35:111][331]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box25)
+[2020.10.13-16.34.36:455][365]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box29)
+[2020.10.13-16.34.37:268][385]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box23)
+[2020.10.13-16.34.38:271][410]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box26)
+[2020.10.13-16.34.40:458][462]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box22)
+[2020.10.13-16.34.41:370][485]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box21)
+[2020.10.13-16.34.42:275][506]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box20)
+[2020.10.13-16.34.53:178][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box18)
+[2020.10.13-16.35.09:773][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box38)
+[2020.10.13-16.35.22:600][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box18)
+[2020.10.13-16.35.35:504][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box40)
+[2020.10.13-16.35.38:404][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box41)
+[2020.10.13-16.35.50:443][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box35)
+[2020.10.13-16.35.58:659][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box32)
+[2020.10.13-16.36.29:253][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box32)
+[2020.10.13-16.36.39:743][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box52)
+[2020.10.13-16.36.42:136][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box44)
+[2020.10.13-16.36.49:055][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box36)
+[2020.10.13-16.36.54:416][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box37)
+[2020.10.13-16.37.01:089][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box31)
+[2020.10.13-16.37.14:902][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box2)
+[2020.10.13-16.37.37:582][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box)
+[2020.10.13-16.37.41:192][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box2)
+[2020.10.13-16.38.10:012][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box92)
+[2020.10.13-16.38.18:580][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box93)
+[2020.10.13-16.38.26:526][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box91)
+[2020.10.13-16.38.44:163][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box73)
+[2020.10.13-16.39.09:001][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.39.10:262][ 81]LogSavePackage: Save=1143.25ms
+[2020.10.13-16.39.10:262][ 81]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap6AC1C54C42748175A2DBC2BA17BE6143.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.39.10:265][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.39.10:460][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset" SILENT=true
+[2020.10.13-16.39.11:401][ 81]LogSavePackage: Save=891.06ms
+[2020.10.13-16.39.11:401][ 81]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap_BuiltData119573F7403F43B00A7B98A467970707.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset'
+[2020.10.13-16.39.11:403][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset
+[2020.10.13-16.39.36:755][615]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-16.39.36:891][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-16.39.36:892][615]PIE: New page: PIE session: SG_ShortMap (Oct 14, 2020, 4:39:36 AM)
+[2020.10.13-16.39.36:892][615]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_ShortMap
+[2020.10.13-16.39.36:949][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056920s)
+[2020.10.13-16.39.36:950][615]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-16.39.36:951][615]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2020.10.13-16.39.36:951][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_ShortMap.SG_ShortMap to /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap (0.059013s)
+[2020.10.13-16.39.37:004][615]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-16.39.37:021][615]LogInit: FAudioDevice initialized.
+[2020.10.13-16.39.37:058][615]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.13-16.39.37:121][615]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap up for play (max tick rate 30) at 2020.10.13-22.39.37
+[2020.10.13-16.39.37:135][615]LogWorld: Bringing up level for play took: 0.076367
+[2020.10.13-16.39.37:137][615]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.39.37:137][615]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.39.37:137][615]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.39.37:161][615]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.39.37:161][615]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_ShortMap 1.033
+[2020.10.13-16.39.37:196][616]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.074205 > MaxSimulationTimeStep (0.050) for 'Player_CharacterBP_2942', movement 'Walking'
+[2020.10.13-16.39.57:737][201]LogEditorViewport: Clicking on Actor (LMB): SuperGrid_DynamicStairs_C (SuperGrid_DynamicStairs)
+[2020.10.13-16.40.11:552][531]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-16.40.11:686][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-16.40.11:686][531]PIE: New page: PIE session: SG_ShortMap (Oct 14, 2020, 4:40:11 AM)
+[2020.10.13-16.40.11:687][531]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_ShortMap
+[2020.10.13-16.40.11:748][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061164s)
+[2020.10.13-16.40.11:750][531]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-16.40.11:750][531]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2020.10.13-16.40.11:751][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_ShortMap.SG_ShortMap to /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap (0.063666s)
+[2020.10.13-16.40.11:795][531]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-16.40.11:810][531]LogInit: FAudioDevice initialized.
+[2020.10.13-16.40.11:849][531]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.13-16.40.11:905][531]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap up for play (max tick rate 30) at 2020.10.13-22.40.11
+[2020.10.13-16.40.11:913][531]LogWorld: Bringing up level for play took: 0.063187
+[2020.10.13-16.40.11:914][531]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.40.11:914][531]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.40.11:914][531]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.40.11:929][531]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.40.11:929][531]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_ShortMap -0.199
+[2020.10.13-16.40.11:971][532]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.078138 > MaxSimulationTimeStep (0.050) for 'Player_CharacterBP_2942', movement 'Walking'
+[2020.10.13-16.41.38:158][ 90]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.10.13-16.41.39:529][117]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight3)
+[2020.10.13-16.41.44:965][225]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.10.13-16.41.51:153][341]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2020.10.13-16.41.57:811][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box57)
+[2020.10.13-16.41.58:541][478]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2020.10.13-16.42.01:785][536]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2020.10.13-16.42.11:945][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box34)
+[2020.10.13-16.42.12:598][721]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight10)
+[2020.10.13-16.42.28:306][987]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2020.10.13-16.43.17:516][893]MapCheck: New page: Map Check
+[2020.10.13-16.43.17:613][893]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.13-16.43.17:614][893]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.13-16.43.18:726][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.10.13-16.43.18:734][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2020.10.13-16.43.18:775][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Soil, compiling. 
+[2020.10.13-16.43.18:788][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_MetalDark, compiling. 
+[2020.10.13-16.43.18:854][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Default, compiling. 
+[2020.10.13-16.43.18:868][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Holo_Color, compiling. 
+[2020.10.13-16.43.18:883][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_PanelRed, compiling. 
+[2020.10.13-16.43.18:898][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_White, compiling. 
+[2020.10.13-16.43.18:914][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Architectural_Black, compiling. 
+[2020.10.13-16.43.18:957][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_DangerZone, compiling. 
+[2020.10.13-16.43.18:973][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Hexagon, compiling. 
+[2020.10.13-16.43.18:990][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.10.13-16.43.19:005][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Auto, compiling. 
+[2020.10.13-16.43.19:019][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_HoloRefract, compiling. 
+[2020.10.13-16.43.19:032][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MaterialSphere, compiling. 
+[2020.10.13-16.43.19:046][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body_White, compiling. 
+[2020.10.13-16.43.19:068][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Faf_action_2_Mat, compiling. 
+[2020.10.13-16.43.19:082][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Knife_Inst, compiling. 
+[2020.10.13-16.43.19:096][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.10.13-16.43.19:110][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.10.13-16.43.19:127][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PistolVer2_Inst, compiling. 
+[2020.10.13-16.43.19:136][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2020.10.13-16.43.19:166][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TeleportTransparent, compiling. 
+[2020.10.13-16.43.19:182][893]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ScanEnv_Inst, compiling. 
+[2020.10.13-16.43.24:941][893]TextureStreamingBuild: Display: Compiling optional shaders took 6.220 seconds.
+[2020.10.13-16.43.24:952][893]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2020.10.13-16.43.25:055][893]TextureStreamingBuild: Display: Build Texture Streaming took 0.103 seconds.
+[2020.10.13-16.43.25:120][893]LightingResults: New page: Lighting Build - Oct 14, 2020, 4:43:25 AM
+[2020.10.13-16.43.25:133][893]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.13-16.43.25:135][893]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.13-16.43.25:135][893]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.13-16.43.25:136][893]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.13-16.43.25:136][893]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10016
+[2020.10.13-16.43.29:693][893]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.13-16.43.29:693][893]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.13-16.43.29:693][893]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.13-16.43.29:693][893]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.13-16.43.29:693][893]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.13-16.43.30:127][893]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.13-16.43.30:127][893]MapCheck: New page: SG_ShortMap - Oct 14, 2020, 4:43:30 AM
+[2020.10.13-16.43.30:146][893]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.10.13-16.43.30:342][893]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 215.29ms to complete.
+[2020.10.13-16.43.30:366][893]LogEditorBuildUtils: Build time 0:12
+[2020.10.13-16.43.30:406][893]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_Soil, compiling. 
+[2020.10.13-16.43.30:477][893]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_Soil, compiling. 
+[2020.10.13-16.43.30:828][896]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_PanelRed, compiling. 
+[2020.10.13-16.43.30:855][896]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_PanelRed, compiling. 
+[2020.10.13-16.43.31:108][898]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_Architectural_Black, compiling. 
+[2020.10.13-16.43.31:126][898]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_Architectural_Black, compiling. 
+[2020.10.13-16.43.31:187][899]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_DangerZone, compiling. 
+[2020.10.13-16.43.31:230][899]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_SuperGrid_DangerZone, compiling. 
+[2020.10.13-16.45.06:769][198]Job is a success!
+[2020.10.13-16.45.07:508][199]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.276s
+[2020.10.13-16.45.07:508][199]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2020.10.13-16.45.07:508][199]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.0Mb
+[2020.10.13-16.45.07:508][199]LogVolumetricLightmapImport:      Bricks at Level
+[2020.10.13-16.45.07:509][199]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2020.10.13-16.45.07:509][199]LogVolumetricLightmapImport:          1: 6.2% covering 3.2% of volume
+[2020.10.13-16.45.07:509][199]LogVolumetricLightmapImport:          2: 90.8% covering 0.7% of volume
+[2020.10.13-16.45.11:337][199]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.10.13-16.45.11:337][199]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 512X256)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 512X256)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 64X32)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2020.10.13-16.45.11:338][199]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2020.10.13-16.45.11:538][199]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X128)
+[2020.10.13-16.45.11:736][199]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 1024X256)
+[2020.10.13-16.45.11:736][199]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X128)
+[2020.10.13-16.45.11:736][199]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 1024X64)
+[2020.10.13-16.45.11:736][199]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X64)
+[2020.10.13-16.45.11:736][199]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 32X32)
+[2020.10.13-16.45.11:778][199]Lightmass on ISHRAQ-PC: 1:33 min total, 630 ms importing, 57 ms setup, 7.94 sec photons, 1:24 min processing, 0 ms extra exporting [177/177 mappings]. Threads: 5:39 min total, 1:43 min processing.
+[2020.10.13-16.45.11:883][199]LogStaticLightingSystem: Illumination: 1:46 min (3.62 sec encoding lightmaps, 394 ms encoding shadowmaps)
+[2020.10.13-16.45.11:883][199]LogStaticLightingSystem: Lightmap texture memory:  7.3 MB (7.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2020.10.13-16.45.11:883][199]LogStaticLightingSystem: Shadowmap texture memory: 2.3 MB (2.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.10.13-16.45.12:768][199]DumpUnbuiltLightIteractions
+[2020.10.13-16.45.12:769][199]Lights with unbuilt interactions: 0
+[2020.10.13-16.45.12:769][199]
+[2020.10.13-16.45.12:769][199]Primitives with unbuilt interactions: 0
+[2020.10.13-16.45.12:778][200]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.13-16.45.12:778][200]MapCheck: New page: SG_ShortMap - Oct 14, 2020, 4:45:12 AM
+[2020.10.13-16.45.13:130][200]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 351.807ms to complete.
+[2020.10.13-16.45.30:427][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.45.31:703][458]LogSavePackage: Save=1210.74ms
+[2020.10.13-16.45.31:703][458]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMapBF204F12462386847BE4F0A79ADB7C4C.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.45.31:706][458]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.45.31:883][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset" SILENT=true
+[2020.10.13-16.45.32:765][458]LogSavePackage: Save=844.75ms
+[2020.10.13-16.45.32:765][458]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap_BuiltDataA9CA4D6F4D8E4459E51B349AE2BE305A.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset'
+[2020.10.13-16.45.32:769][458]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset
+[2020.10.13-16.45.33:374][473]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-16.45.33:487][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-16.45.33:487][473]PIE: New page: PIE session: SG_ShortMap (Oct 14, 2020, 4:45:33 AM)
+[2020.10.13-16.45.33:488][473]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_ShortMap
+[2020.10.13-16.45.33:558][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070376s)
+[2020.10.13-16.45.33:561][473]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-16.45.33:561][473]LogPlayLevel: PIE: World Init took: (0.002960s)
+[2020.10.13-16.45.33:562][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_ShortMap.SG_ShortMap to /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap (0.074574s)
+[2020.10.13-16.45.33:625][473]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-16.45.33:638][473]LogInit: FAudioDevice initialized.
+[2020.10.13-16.45.33:674][473]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.13-16.45.33:728][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap up for play (max tick rate 30) at 2020.10.13-22.45.33
+[2020.10.13-16.45.33:735][473]LogWorld: Bringing up level for play took: 0.060390
+[2020.10.13-16.45.33:737][473]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.45.33:737][473]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.45.33:737][473]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.45.33:752][473]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.45.33:752][473]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_ShortMap -0.376
+[2020.10.13-16.45.33:783][474]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068788 > MaxSimulationTimeStep (0.050) for 'Player_CharacterBP_2942', movement 'Walking'
+[2020.10.13-16.45.55:901][ 74]LogRenderer: Reallocating scene render targets to support 992x656 Format 9 NumSamples 1 (Frame:39546).
+[2020.10.13-16.45.56:101][ 78]LogContentStreaming: Texture pool size now 600 MB
+[2020.10.13-16.45.59:183][120]LogContentStreaming: Texture pool size now 800 MB
+[2020.10.13-16.46.01:502][154]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-16.46.01:646][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-16.46.01:647][154]PIE: New page: PIE session: SG_ShortMap (Oct 14, 2020, 4:46:01 AM)
+[2020.10.13-16.46.01:647][154]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_ShortMap
+[2020.10.13-16.46.01:712][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064677s)
+[2020.10.13-16.46.01:713][154]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-16.46.01:713][154]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2020.10.13-16.46.01:714][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_ShortMap.SG_ShortMap to /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap (0.067047s)
+[2020.10.13-16.46.01:765][154]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-16.46.01:812][154]LogInit: FAudioDevice initialized.
+[2020.10.13-16.46.01:861][154]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.13-16.46.01:952][154]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap up for play (max tick rate 30) at 2020.10.13-22.46.01
+[2020.10.13-16.46.01:965][154]LogWorld: Bringing up level for play took: 0.102418
+[2020.10.13-16.46.01:966][154]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.46.01:966][154]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.46.01:966][154]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.46.01:988][154]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.46.01:988][154]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_ShortMap -0.14
+[2020.10.13-16.50.33:459][207]LogEditorViewport: Clicking on Actor (LMB): Blueprint_CeilingLight_C (Blueprint_CeilingLight)
+[2020.10.13-16.51.14:245][772]LogEditorViewport: Clicking on Actor (LMB): Blueprint_CeilingLight_C (Blueprint_CeilingLight)
+[2020.10.13-16.51.56:441][297]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.13-16.52.07:257][426]Cmd: TRANSACTION UNDO
+[2020.10.13-16.52.07:257][426]LogEditorTransaction: Undo Move Actors
+[2020.10.13-16.52.15:558][523]LogEditorViewport: Clicking on Actor (LMB): Blueprint_CeilingLight_C (Blueprint_CeilingLight3)
+[2020.10.13-16.52.25:723][641]LogEditorViewport: Clicking on Actor (LMB): Blueprint_CeilingLight_C (Blueprint_CeilingLight2)
+[2020.10.13-16.52.27:163][659]LogEditorViewport: Clicking on Actor (CTRL LMB): Blueprint_CeilingLight_C (Blueprint_CeilingLight)
+[2020.10.13-16.52.47:889][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.52.49:100][905]LogSavePackage: Save=1145.20ms
+[2020.10.13-16.52.49:100][905]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap5844E32643D74C45C60FE6B3DBF39F07.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.52.49:103][905]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.52.49:317][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset" SILENT=true
+[2020.10.13-16.52.50:268][905]LogSavePackage: Save=909.78ms
+[2020.10.13-16.52.50:268][905]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap_BuiltData005733B84352D42EFD3714979E05AC90.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset'
+[2020.10.13-16.52.50:270][905]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset
+[2020.10.13-16.52.50:827][914]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-16.52.50:988][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-16.52.50:989][914]PIE: New page: PIE session: SG_ShortMap (Oct 14, 2020, 4:52:50 AM)
+[2020.10.13-16.52.50:990][914]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_ShortMap
+[2020.10.13-16.52.51:062][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072049s)
+[2020.10.13-16.52.51:064][914]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-16.52.51:064][914]LogPlayLevel: PIE: World Init took: (0.001776s)
+[2020.10.13-16.52.51:065][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_ShortMap.SG_ShortMap to /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap (0.075061s)
+[2020.10.13-16.52.51:114][914]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-16.52.51:162][914]LogInit: FAudioDevice initialized.
+[2020.10.13-16.52.51:200][914]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.13-16.52.51:280][914]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap up for play (max tick rate 30) at 2020.10.13-22.52.51
+[2020.10.13-16.52.51:340][914]LogWorld: Bringing up level for play took: 0.139661
+[2020.10.13-16.52.51:344][914]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.52.51:345][914]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.52.51:345][914]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.52.51:454][914]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.52.51:455][914]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_ShortMap 1.326
+[2020.10.13-16.53.18:263][531]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-16.53.18:263][531]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-16.53.19:522][559]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-16.53.19:522][559]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-16.53.20:318][576]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-16.53.20:318][576]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-16.53.22:515][623]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-16.53.22:515][623]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-16.53.43:339][  5]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight17)
+[2020.10.13-16.53.47:245][ 46]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight16)
+[2020.10.13-16.53.49:833][ 70]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight15)
+[2020.10.13-16.53.55:953][123]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight20)
+[2020.10.13-16.54.39:474][578]MapCheck: New page: Map Check
+[2020.10.13-16.54.39:659][578]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.13-16.54.39:659][578]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.13-16.54.41:114][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.10.13-16.54.41:122][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2020.10.13-16.54.41:132][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Soil, compiling. 
+[2020.10.13-16.54.41:145][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_MetalDark, compiling. 
+[2020.10.13-16.54.41:160][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Default, compiling. 
+[2020.10.13-16.54.41:175][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Holo_Color, compiling. 
+[2020.10.13-16.54.41:190][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_PanelRed, compiling. 
+[2020.10.13-16.54.41:204][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_White, compiling. 
+[2020.10.13-16.54.41:220][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Architectural_Black, compiling. 
+[2020.10.13-16.54.41:235][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_DangerZone, compiling. 
+[2020.10.13-16.54.41:248][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Hexagon, compiling. 
+[2020.10.13-16.54.41:259][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.10.13-16.54.41:270][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_Auto, compiling. 
+[2020.10.13-16.54.41:282][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SuperGrid_HoloRefract, compiling. 
+[2020.10.13-16.54.41:297][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MaterialSphere, compiling. 
+[2020.10.13-16.54.41:311][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2020.10.13-16.54.41:325][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body_White, compiling. 
+[2020.10.13-16.54.41:346][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Faf_action_2_Mat, compiling. 
+[2020.10.13-16.54.41:359][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.10.13-16.54.41:372][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Knife_Inst, compiling. 
+[2020.10.13-16.54.41:387][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.10.13-16.54.41:403][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TeleportTransparent, compiling. 
+[2020.10.13-16.54.41:415][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PistolVer2_Inst, compiling. 
+[2020.10.13-16.54.41:427][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2020.10.13-16.54.41:444][578]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_ScanEnv_Inst, compiling. 
+[2020.10.13-16.54.47:465][578]TextureStreamingBuild: Display: Compiling optional shaders took 6.355 seconds.
+[2020.10.13-16.54.47:474][578]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2020.10.13-16.54.47:573][578]TextureStreamingBuild: Display: Build Texture Streaming took 0.099 seconds.
+[2020.10.13-16.54.47:624][578]LightingResults: New page: Lighting Build - Oct 14, 2020, 4:54:47 AM
+[2020.10.13-16.54.47:637][578]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.13-16.54.47:639][578]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.13-16.54.47:639][578]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.13-16.54.47:641][578]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.13-16.54.47:660][578]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10016
+[2020.10.13-16.54.52:209][578]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.13-16.54.52:210][578]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.13-16.54.52:210][578]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.13-16.54.52:210][578]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.13-16.54.52:210][578]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.13-16.54.52:593][578]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.13-16.54.52:593][578]MapCheck: New page: SG_ShortMap - Oct 14, 2020, 4:54:52 AM
+[2020.10.13-16.54.52:597][578]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.10.13-16.54.52:805][578]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 212.262ms to complete.
+[2020.10.13-16.54.52:829][578]LogEditorBuildUtils: Build time 0:13
+[2020.10.13-16.56.22:002][858]Job is a success!
+[2020.10.13-16.56.22:887][859]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.470s
+[2020.10.13-16.56.22:887][859]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2020.10.13-16.56.22:887][859]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.0Mb
+[2020.10.13-16.56.22:887][859]LogVolumetricLightmapImport:      Bricks at Level
+[2020.10.13-16.56.22:887][859]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2020.10.13-16.56.22:887][859]LogVolumetricLightmapImport:          1: 6.2% covering 3.2% of volume
+[2020.10.13-16.56.22:887][859]LogVolumetricLightmapImport:          2: 90.8% covering 0.7% of volume
+[2020.10.13-16.56.26:671][859]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.10.13-16.56.26:671][859]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.10.13-16.56.26:671][859]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.10.13-16.56.26:671][859]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.10.13-16.56.26:671][859]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.10.13-16.56.26:671][859]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.10.13-16.56.26:671][859]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 512X256)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 512X256)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.10.13-16.56.26:672][859]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.10.13-16.56.29:872][859]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 1024X128)
+[2020.10.13-16.56.29:872][859]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X256)
+[2020.10.13-16.56.29:872][859]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 1024X128)
+[2020.10.13-16.56.29:872][859]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 1024X64)
+[2020.10.13-16.56.29:899][859]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 1024X64)
+[2020.10.13-16.56.29:899][859]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 32X32)
+[2020.10.13-16.56.29:934][859]Lightmass on ISHRAQ-PC: 1:35 min total, 353 ms importing, 69 ms setup, 8.88 sec photons, 1:25 min processing, 0 ms extra exporting [177/177 mappings]. Threads: 5:42 min total, 1:40 min processing.
+[2020.10.13-16.56.30:033][859]LogStaticLightingSystem: Illumination: 1:42 min (3.54 sec encoding lightmaps, 3.22 sec encoding shadowmaps)
+[2020.10.13-16.56.30:034][859]LogStaticLightingSystem: Lightmap texture memory:  7.3 MB (7.3 MB streaming, 0.0 MB non-streaming), 12 textures
+[2020.10.13-16.56.30:034][859]LogStaticLightingSystem: Shadowmap texture memory: 2.3 MB (2.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.10.13-16.56.31:278][859]DumpUnbuiltLightIteractions
+[2020.10.13-16.56.31:278][859]Lights with unbuilt interactions: 0
+[2020.10.13-16.56.31:278][859]
+[2020.10.13-16.56.31:278][859]Primitives with unbuilt interactions: 0
+[2020.10.13-16.56.31:288][860]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.13-16.56.31:288][860]MapCheck: New page: SG_ShortMap - Oct 14, 2020, 4:56:31 AM
+[2020.10.13-16.56.31:564][860]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 276.207ms to complete.
+[2020.10.13-16.58.29:921][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.13-16.58.30:983][530]LogSavePackage: Save=1002.91ms
+[2020.10.13-16.58.30:984][530]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap3B7BBE1E4FE82CC75F0EC1A544FF6A66.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap'
+[2020.10.13-16.58.30:987][530]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap.umap
+[2020.10.13-16.58.31:159][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SG_ShortMap_BuiltData" FILE="../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset" SILENT=true
+[2020.10.13-16.58.32:098][530]LogSavePackage: Save=835.26ms
+[2020.10.13-16.58.32:098][530]LogSavePackage: Moving '../../../../../GITHUB/vigilance_4.18/Vigilance418/Saved/SG_ShortMap_BuiltData2846FF7C4927D8A0DF43F59D9C8DF6F1.tmp' to '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset'
+[2020.10.13-16.58.32:102][530]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/Maps/SG_ShortMap_BuiltData.uasset
+[2020.10.13-16.58.39:289][669]LogContentStreaming: Texture pool size now 400 MB
+[2020.10.13-16.58.39:317][669]LogRenderer: Reallocating scene render targets to support 992x656 Format 9 NumSamples 1 (Frame:42946).
+[2020.10.13-16.58.40:223][686]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-16.58.40:334][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.13-16.58.40:334][686]PIE: New page: PIE session: SG_ShortMap (Oct 14, 2020, 4:58:40 AM)
+[2020.10.13-16.58.40:334][686]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SG_ShortMap
+[2020.10.13-16.58.40:466][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130830s)
+[2020.10.13-16.58.40:467][686]LogAIModule: Creating AISystem for world SG_ShortMap
+[2020.10.13-16.58.40:468][686]LogPlayLevel: PIE: World Init took: (0.002244s)
+[2020.10.13-16.58.40:469][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SG_ShortMap.SG_ShortMap to /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap (0.134103s)
+[2020.10.13-16.58.40:512][686]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.13-16.58.40:525][686]LogInit: FAudioDevice initialized.
+[2020.10.13-16.58.40:565][686]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.10.13-16.58.40:654][686]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SG_ShortMap.SG_ShortMap up for play (max tick rate 30) at 2020.10.13-22.58.40
+[2020.10.13-16.58.40:662][686]LogWorld: Bringing up level for play took: 0.095556
+[2020.10.13-16.58.40:663][686]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.58.40:663][686]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.13-16.58.40:663][686]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.58.40:679][686]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.13-16.58.40:680][686]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SG_ShortMap 0.552
+[2020.10.13-16.58.40:719][687]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058424 > MaxSimulationTimeStep (0.050) for 'Player_CharacterBP_2942', movement 'Walking'
+[2020.10.13-17.02.36:217][602]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-17.02.43:007][603]Cmd: QUIT_EDITOR
+[2020.10.13-17.02.50:671][603]LogExit: Preparing to exit.
+[2020.10.13-17.03.02:145][603]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.10.13-17.03.14:366][603]LogExit: Editor shut down
+[2020.10.13-17.03.14:681][603]LogExit: Transaction tracking system shut down
+[2020.10.13-17.03.19:410][603]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.10.13-17.03.19:411][603]LogDirectoryWatcher: A directory notification for '../../../../../GITHUB/vigilance_4.18/Vigilance418/Content/' was aborted.
+[2020.10.13-17.03.19:411][603]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.10.13-17.03.19:411][603]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.10.13-17.03.19:411][603]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.10.13-17.03.19:411][603]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.10.13-17.03.19:411][603]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.10.13-17.03.40:384][603]LogExit: Object subsystem successfully closed.
+[2020.10.13-17.03.42:637][603]LogD3D11RHI: Shutdown
+[2020.10.13-17.03.42:641][603]LogD3D11RHI: CleanupD3DDevice
+[2020.10.13-17.03.43:426][603]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.10.13-17.03.46:042][603]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2020.10.13-17.03.46:052][603]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (556)
+[2020.10.13-17.03.46:060][603]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (554)
+[2020.10.13-17.03.46:060][603]LogModuleManager: Shutting down and abandoning module AddContentDialog (552)
+[2020.10.13-17.03.46:158][603]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/' was aborted.
+[2020.10.13-17.03.46:430][603]LogModuleManager: Shutting down and abandoning module WidgetCarousel (551)
+[2020.10.13-17.03.46:431][603]LogModuleManager: Shutting down and abandoning module EditorWidgets (548)
+[2020.10.13-17.03.46:431][603]LogModuleManager: Shutting down and abandoning module CollectionManager (546)
+[2020.10.13-17.03.46:456][603]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Collections/' was aborted.
+[2020.10.13-17.03.46:456][603]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Content/Developers/farha/Collections/' was aborted.
+[2020.10.13-17.03.46:456][603]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/vigilance_4.18/Vigilance418/Saved/Collections/' was aborted.
+[2020.10.13-17.03.46:470][603]LogModuleManager: Shutting down and abandoning module SceneOutliner (544)
+[2020.10.13-17.03.46:470][603]LogModuleManager: Shutting down and abandoning module StatsViewer (542)
+[2020.10.13-17.03.46:494][603]LogModuleManager: Shutting down and abandoning module FoliageEdit (540)
+[2020.10.13-17.03.46:494][603]LogModuleManager: Shutting down and abandoning module LandscapeEditor (538)
+[2020.10.13-17.03.46:625][603]LogModuleManager: Shutting down and abandoning module MeshPaintMode (536)
+[2020.10.13-17.03.46:638][603]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (534)
+[2020.10.13-17.03.46:638][603]LogModuleManager: Shutting down and abandoning module ActorPickerMode (532)
+[2020.10.13-17.03.46:638][603]LogModuleManager: Shutting down and abandoning module GeometryMode (530)
+[2020.10.13-17.03.46:660][603]LogModuleManager: Shutting down and abandoning module TextureAlignMode (528)
+[2020.10.13-17.03.46:660][603]LogModuleManager: Shutting down and abandoning module BspMode (526)
+[2020.10.13-17.03.46:720][603]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (524)
+[2020.10.13-17.03.46:733][603]LogModuleManager: Shutting down and abandoning module HardwareSurvey (522)
+[2020.10.13-17.03.46:768][603]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (520)
+[2020.10.13-17.03.46:779][603]LogModuleManager: Shutting down and abandoning module AutomationWorker (518)
+[2020.10.13-17.03.46:793][603]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (516)
+[2020.10.13-17.03.46:842][603]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (514)
+[2020.10.13-17.03.47:013][603]LogModuleManager: Shutting down and abandoning module PlacementMode (513)
+[2020.10.13-17.03.47:021][603]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (510)
+[2020.10.13-17.03.47:022][603]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (508)
+[2020.10.13-17.03.47:022][603]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (506)
+[2020.10.13-17.03.47:022][603]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (504)
+[2020.10.13-17.03.47:022][603]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (502)
+[2020.10.13-17.03.47:045][603]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (500)
+[2020.10.13-17.03.47:045][603]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (498)
+[2020.10.13-17.03.47:045][603]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (496)
+[2020.10.13-17.03.47:045][603]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (494)
+[2020.10.13-17.03.47:045][603]LogModuleManager: Shutting down and abandoning module CharacterAI (492)
+[2020.10.13-17.03.47:045][603]LogModuleManager: Shutting down and abandoning module AudioCapture (490)
+[2020.10.13-17.03.47:065][603]LogModuleManager: Shutting down and abandoning module SequenceRecorder (489)
+[2020.10.13-17.03.47:072][603]LogModuleManager: Shutting down and abandoning module SmartSnapping (486)
+[2020.10.13-17.03.47:072][603]LogModuleManager: Shutting down and abandoning module SessionServices (484)
+[2020.10.13-17.03.47:072][603]LogModuleManager: Shutting down and abandoning module ViewportSnapping (482)
+[2020.10.13-17.03.47:072][603]LogModuleManager: Shutting down and abandoning module ViewportInteraction (480)
+[2020.10.13-17.03.47:072][603]LogModuleManager: Shutting down and abandoning module ClothPainter (478)
+[2020.10.13-17.03.47:169][603]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (477)
+[2020.10.13-17.03.47:196][603]LogModuleManager: Shutting down and abandoning module LogVisualizer (474)
+[2020.10.13-17.03.47:309][603]LogModuleManager: Shutting down and abandoning module IntroTutorials (472)
+[2020.10.13-17.03.47:400][603]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (471)
+[2020.10.13-17.03.47:457][603]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (468)
+[2020.10.13-17.03.47:499][603]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (466)
+[2020.10.13-17.03.47:499][603]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (464)
+[2020.10.13-17.03.47:499][603]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (463)
+[2020.10.13-17.03.47:745][603]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (460)
+[2020.10.13-17.03.47:746][603]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (458)
+[2020.10.13-17.03.47:746][603]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (456)
+[2020.10.13-17.03.47:746][603]LogModuleManager: Shutting down and abandoning module InputBindingEditor (454)
+[2020.10.13-17.03.47:794][603]LogModuleManager: Shutting down and abandoning module MergeActors (452)
+[2020.10.13-17.03.47:830][603]LogModuleManager: Shutting down and abandoning module SizeMap (450)
+[2020.10.13-17.03.47:851][603]LogModuleManager: Shutting down and abandoning module TreeMap (448)
+[2020.10.13-17.03.47:888][603]LogModuleManager: Shutting down and abandoning module ReferenceViewer (446)
+[2020.10.13-17.03.47:910][603]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (444)
+[2020.10.13-17.03.47:952][603]LogModuleManager: Shutting down and abandoning module LocalizationService (443)
+[2020.10.13-17.03.47:973][603]LogModuleManager: Shutting down and abandoning module HardwareTargeting (440)
+[2020.10.13-17.03.47:973][603]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (438)
+[2020.10.13-17.03.48:004][603]LogModuleManager: Shutting down and abandoning module UndoHistory (436)
+[2020.10.13-17.03.48:024][603]LogModuleManager: Shutting down and abandoning module XmlParser (434)
+[2020.10.13-17.03.48:048][603]LogModuleManager: Shutting down and abandoning module Blutility (432)
+[2020.10.13-17.03.48:125][603]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (430)
+[2020.10.13-17.03.48:141][603]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (429)
+[2020.10.13-17.03.48:169][603]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (426)
+[2020.10.13-17.03.48:213][603]LogModuleManager: Shutting down and abandoning module SettingsEditor (424)
+[2020.10.13-17.03.48:250][603]LogModuleManager: Shutting down and abandoning module ProjectLauncher (422)
+[2020.10.13-17.03.48:307][603]LogModuleManager: Shutting down and abandoning module SessionFrontend (420)
+[2020.10.13-17.03.48:361][603]LogModuleManager: Shutting down and abandoning module ProfilerClient (418)
+[2020.10.13-17.03.48:369][603]LogModuleManager: Shutting down and abandoning module DeviceManager (416)
+[2020.10.13-17.03.48:379][603]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (415)
+[2020.10.13-17.03.48:473][603]LogModuleManager: Shutting down and abandoning module AutomationController (412)
+[2020.10.13-17.03.48:540][603]LogModuleManager: Shutting down and abandoning module AutomationWindow (410)
+[2020.10.13-17.03.48:559][603]LogModuleManager: Shutting down and abandoning module Layers (408)
+[2020.10.13-17.03.48:574][603]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (406)
+[2020.10.13-17.03.48:582][603]LogModuleManager: Shutting down and abandoning module DetailCustomizations (404)
+[2020.10.13-17.03.48:605][603]LogModuleManager: Shutting down and abandoning module PackagesDialog (402)
+[2020.10.13-17.03.48:637][603]LogModuleManager: Shutting down and abandoning module Persona (400)
+[2020.10.13-17.03.48:704][603]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (399)
+[2020.10.13-17.03.48:704][603]LogModuleManager: Shutting down and abandoning module AnimGraph (397)
+[2020.10.13-17.03.48:716][603]LogModuleManager: Shutting down and abandoning module Kismet (394)
+[2020.10.13-17.03.48:838][603]LogModuleManager: Shutting down and abandoning module ClassViewer (392)
+[2020.10.13-17.03.48:852][603]LogModuleManager: Shutting down and abandoning module Toolbox (390)
+[2020.10.13-17.03.48:852][603]LogModuleManager: Shutting down and abandoning module ModuleUI (388)
+[2020.10.13-17.03.48:865][603]LogModuleManager: Shutting down and abandoning module MovieSceneTools (386)
+[2020.10.13-17.03.48:932][603]LogModuleManager: Shutting down and abandoning module OutputLog (384)
+[2020.10.13-17.03.48:938][603]LogModuleManager: Shutting down and abandoning module GammaUI (382)
+[2020.10.13-17.03.48:943][603]LogModuleManager: Shutting down and abandoning module Documentation (380)
+[2020.10.13-17.03.48:943][603]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (378)
+[2020.10.13-17.03.48:943][603]LogModuleManager: Shutting down and abandoning module MovieScene (376)
+[2020.10.13-17.03.48:943][603]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (374)
+[2020.10.13-17.03.48:949][603]LogModuleManager: Shutting down and abandoning module LauncherPlatform (372)
+[2020.10.13-17.03.48:949][603]LogModuleManager: Shutting down and abandoning module AnalyticsET (370)
+[2020.10.13-17.03.48:949][603]LogModuleManager: Shutting down and abandoning module PortalServices (368)
+[2020.10.13-17.03.48:949][603]LogModuleManager: Shutting down and abandoning module PortalRpc (366)
+[2020.10.13-17.03.48:949][603]LogModuleManager: Shutting down and abandoning module MessagingRpc (364)
+[2020.10.13-17.03.48:949][603]LogModuleManager: Shutting down and abandoning module AIModule (362)
+[2020.10.13-17.03.48:976][603]LogModuleManager: Shutting down and abandoning module GameplayDebugger (361)
+[2020.10.13-17.03.48:979][603]LogModuleManager: Shutting down and abandoning module AITestSuite (359)
+[2020.10.13-17.03.48:989][603]LogModuleManager: Shutting down and abandoning module DesktopPlatform (356)
+[2020.10.13-17.03.48:999][603]LogModuleManager: Shutting down and abandoning module ProfilerService (354)
+[2020.10.13-17.03.49:150][603]LogModuleManager: Shutting down and abandoning module TaskGraph (352)
+[2020.10.13-17.03.49:167][603]LogModuleManager: Shutting down and abandoning module SteamVRController (350)
+[2020.10.13-17.03.49:168][603]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (348)
+[2020.10.13-17.03.49:168][603]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (346)
+[2020.10.13-17.03.49:180][603]LogModuleManager: Shutting down and abandoning module OculusInput (344)
+[2020.10.13-17.03.49:180][603]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (342)
+[2020.10.13-17.03.49:180][603]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (340)
+[2020.10.13-17.03.49:180][603]LogModuleManager: Shutting down and abandoning module CableComponent (338)
+[2020.10.13-17.03.49:180][603]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (336)
+[2020.10.13-17.03.49:180][603]LogModuleManager: Shutting down and abandoning module AndroidPermission (334)
+[2020.10.13-17.03.49:180][603]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2020.10.13-17.03.49:180][603]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (328)
+[2020.10.13-17.03.49:346][603]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (326)
+[2020.10.13-17.03.49:366][603]LogModuleManager: Shutting down and abandoning module MediaCompositing (324)
+[2020.10.13-17.03.49:366][603]LogModuleManager: Shutting down and abandoning module RootMotionExtractor (322)
+[2020.10.13-17.03.49:485][603]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2020.10.13-17.03.49:485][603]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2020.10.13-17.03.49:505][603]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2020.10.13-17.03.49:541][603]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2020.10.13-17.03.49:566][603]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2020.10.13-17.03.49:567][603]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2020.10.13-17.03.49:580][603]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2020.10.13-17.03.49:611][603]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2020.10.13-17.03.49:644][603]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2020.10.13-17.03.49:652][603]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2020.10.13-17.03.49:654][603]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2020.10.13-17.03.49:654][603]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2020.10.13-17.03.49:676][603]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2020.10.13-17.03.49:730][603]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2020.10.13-17.03.49:752][603]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2020.10.13-17.03.49:772][603]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2020.10.13-17.03.49:772][603]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2020.10.13-17.03.49:772][603]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2020.10.13-17.03.49:772][603]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2020.10.13-17.03.49:832][603]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2020.10.13-17.03.49:851][603]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2020.10.13-17.03.49:939][603]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2020.10.13-17.03.49:966][603]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2020.10.13-17.03.49:981][603]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2020.10.13-17.03.50:028][603]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2020.10.13-17.03.50:043][603]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2020.10.13-17.03.50:056][603]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2020.10.13-17.03.50:056][603]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2020.10.13-17.03.50:068][603]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2020.10.13-17.03.50:069][603]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2020.10.13-17.03.50:069][603]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2020.10.13-17.03.50:090][603]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (258)
+[2020.10.13-17.03.50:134][603]LogModuleManager: Shutting down and abandoning module ApexDestruction (256)
+[2020.10.13-17.03.50:145][603]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2020.10.13-17.03.50:264][603]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2020.10.13-17.03.50:386][603]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2020.10.13-17.03.50:471][603]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2020.10.13-17.03.50:492][603]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2020.10.13-17.03.50:492][603]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2020.10.13-17.03.50:499][603]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2020.10.13-17.03.50:544][603]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2020.10.13-17.03.50:565][603]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.10.13-17.03.50:566][603]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2020.10.13-17.03.50:579][603]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2020.10.13-17.03.50:592][603]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2020.10.13-17.03.50:612][603]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2020.10.13-17.03.50:617][603]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.10.13-17.03.50:617][603]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.10.13-17.03.50:618][603]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.10.13-17.03.50:647][603]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.10.13-17.03.50:647][603]LogModuleManager: Shutting down and abandoning module Media (221)
+[2020.10.13-17.03.50:653][603]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2020.10.13-17.03.50:653][603]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2020.10.13-17.03.50:654][603]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2020.10.13-17.03.50:721][603]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2020.10.13-17.03.50:741][603]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2020.10.13-17.03.50:741][603]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2020.10.13-17.03.50:774][603]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2020.10.13-17.03.50:783][603]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2020.10.13-17.03.50:806][603]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2020.10.13-17.03.50:869][603]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2020.10.13-17.03.50:891][603]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2020.10.13-17.03.50:944][603]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2020.10.13-17.03.50:986][603]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2020.10.13-17.03.50:999][603]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2020.10.13-17.03.51:055][603]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2020.10.13-17.03.51:055][603]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2020.10.13-17.03.51:157][603]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.10.13-17.03.51:157][603]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.10.13-17.03.51:174][603]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.10.13-17.03.51:183][603]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.10.13-17.03.51:183][603]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.10.13-17.03.51:184][603]LogModuleManager: Shutting down and abandoning module Core (172)
+[2020.10.13-17.03.51:184][603]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2020.10.13-17.03.51:194][603]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2020.10.13-17.03.51:272][603]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.10.13-17.03.51:272][603]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2020.10.13-17.03.51:295][603]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2020.10.13-17.03.51:314][603]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2020.10.13-17.03.51:314][603]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2020.10.13-17.03.51:330][603]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2020.10.13-17.03.51:335][603]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2020.10.13-17.03.51:348][603]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2020.10.13-17.03.51:389][603]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2020.10.13-17.03.51:509][603]LogDerivedDataCache: Shutdown
+[2020.10.13-17.03.51:509][603]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2020.10.13-17.03.51:550][603]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2020.10.13-17.03.51:569][603]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2020.10.13-17.03.51:582][603]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2020.10.13-17.03.51:594][603]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2020.10.13-17.03.51:600][603]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2020.10.13-17.03.51:613][603]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2020.10.13-17.03.51:613][603]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2020.10.13-17.03.51:623][603]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2020.10.13-17.03.51:623][603]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2020.10.13-17.03.51:645][603]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2020.10.13-17.03.51:645][603]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2020.10.13-17.03.51:645][603]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2020.10.13-17.03.51:652][603]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2020.10.13-17.03.51:665][603]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2020.10.13-17.03.51:691][603]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2020.10.13-17.03.51:707][603]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2020.10.13-17.03.51:741][603]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2020.10.13-17.03.51:753][603]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.10.13-17.03.51:770][603]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2020.10.13-17.03.51:790][603]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2020.10.13-17.03.51:790][603]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2020.10.13-17.03.51:790][603]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2020.10.13-17.03.51:790][603]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2020.10.13-17.03.51:815][603]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2020.10.13-17.03.51:822][603]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2020.10.13-17.03.51:822][603]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2020.10.13-17.03.51:822][603]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2020.10.13-17.03.51:822][603]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2020.10.13-17.03.51:822][603]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2020.10.13-17.03.51:823][603]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2020.10.13-17.03.51:823][603]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2020.10.13-17.03.51:823][603]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2020.10.13-17.03.51:823][603]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2020.10.13-17.03.51:853][603]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2020.10.13-17.03.51:869][603]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2020.10.13-17.03.51:875][603]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2020.10.13-17.03.51:887][603]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2020.10.13-17.03.51:897][603]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2020.10.13-17.03.51:904][603]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2020.10.13-17.03.51:905][603]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2020.10.13-17.03.51:905][603]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2020.10.13-17.03.51:905][603]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2020.10.13-17.03.51:930][603]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.10.13-17.03.51:930][603]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2020.10.13-17.03.51:952][603]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2020.10.13-17.03.51:967][603]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2020.10.13-17.03.51:977][603]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2020.10.13-17.03.51:977][603]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.10.13-17.03.51:977][603]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.10.13-17.03.51:977][603]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.10.13-17.03.52:038][603]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.10.13-17.03.52:064][603]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.10.13-17.03.52:064][603]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.13-17.03.52:071][603]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBC26D5C6-423F-3D54-4058-C8AC26367AE6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dab985eb449ee4f1b342389e404cab9f%7C845779d9bd904572b61cf91381b7a44e%7C4e718ad1-99cd-4dc7-9063-d4e2b6f3fd7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.10.13-17.03.52:187][603]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.10.13-17.03.52:259][603]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.10.13-17.03.52:284][603]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.10.13-17.03.52:367][603]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.10.13-17.03.52:403][603]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.10.13-17.03.52:403][603]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.10.13-17.03.52:403][603]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.10.13-17.03.52:403][603]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.10.13-17.03.52:603][603]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.10.13-17.03.52:697][603]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.10.13-17.03.52:697][603]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.10.13-17.03.52:709][603]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.10.13-17.03.52:709][603]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.10.13-17.03.52:709][603]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.10.13-17.03.52:709][603]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.10.13-17.03.52:723][603]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.10.13-17.03.52:745][603]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.10.13-17.03.52:755][603]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.10.13-17.03.52:773][603]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.10.13-17.03.52:990][603]LogExit: Exiting.
+[2020.10.13-17.03.53:329][603]Log file closed, 10/13/20 23:03:53
